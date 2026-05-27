@@ -1,0 +1,41 @@
+historical_id,client_id,previous_tier,current_tier,previous_revenue,current_revenue,change_reason,change_type,valid_from,valid_to,retention_status,revenue_change
+1,CLT001,Silver,Gold,682789,6214969,Upsell,Upgrade,18-01-2025,10-02-2026,Lost,5532180
+2,CLT002,Silver,Platinum,612311,7281435,Contract Revision,Downgrade,30-05-2024,26-11-2025,Renewed,6669124
+3,CLT003,Gold,Gold,197573,4462566,Contract Revision,Manager Change,14-10-2024,29-09-2025,Renewed,4264993
+4,CLT004,Gold,Platinum,421080,6124087,Expansion,Downgrade,30-08-2024,21-06-2025,Lost,5703007
+5,CLT005,Gold,Platinum,468900,3656795,Expansion,Downgrade,26-10-2024,11-04-2026,Renewed,3187895
+6,CLT006,Silver,Platinum,226516,9453135,Upsell,Manager Change,10-08-2024,23-11-2025,Renewed,9226619
+7,CLT007,Silver,Platinum,300845,5249661,Expansion,Manager Change,01-12-2024,03-12-2025,Lost,4948816
+8,CLT008,Silver,Platinum,205409,10300572,Renewal,Downgrade,23-12-2024,03-05-2026,Renewed,10095163
+9,CLT009,Silver,Gold,416950,8762258,Expansion,Upgrade,10-08-2024,15-10-2025,Renewed,8345308
+10,CLT010,Gold,Gold,680238,8742738,Contract Revision,Upgrade,15-04-2025,29-05-2025,Renewed,8062500
+11,CLT011,Gold,Platinum,701949,5916155,Contract Revision,Downgrade,14-06-2024,07-03-2026,Lost,5214206
+12,CLT012,Silver,Platinum,293319,10031199,Contract Revision,Upgrade,26-08-2024,29-12-2025,Renewed,9737880
+13,CLT013,Gold,Gold,520172,4198907,Upsell,Upgrade,03-04-2025,04-09-2025,Renewed,3678735
+14,CLT014,Gold,Gold,950544,8461632,Renewal,Upgrade,11-11-2024,13-11-2025,Lost,7511088
+15,CLT015,Silver,Platinum,735770,4064432,Contract Revision,Downgrade,29-08-2024,19-02-2026,Lost,3328662
+16,CLT016,Gold,Platinum,717113,12356322,Upsell,Manager Change,28-09-2024,15-04-2026,Renewed,11639209
+17,CLT017,Silver,Gold,899787,7725196,Expansion,Manager Change,21-08-2024,07-08-2025,Renewed,6825409
+18,CLT018,Silver,Gold,264686,9656404,Upsell,Upgrade,04-01-2025,21-08-2025,Renewed,9391718
+19,CLT019,Gold,Platinum,528361,5345418,Expansion,Upgrade,01-02-2025,21-03-2026,Renewed,4817057
+20,CLT020,Gold,Platinum,402099,10848699,Upsell,Manager Change,16-11-2024,22-10-2025,Renewed,10446600
+21,CLT021,Silver,Platinum,377405,14554002,Upsell,Manager Change,17-12-2024,28-10-2025,Renewed,14176597
+22,CLT022,Silver,Platinum,779094,5125593,Renewal,Upgrade,27-06-2024,12-08-2025,Renewed,4346499
+23,CLT023,Gold,Platinum,273982,16681179,Contract Revision,Upgrade,03-12-2024,05-12-2025,Lost,16407197
+24,CLT024,Gold,Platinum,822131,11762661,Expansion,Manager Change,26-04-2025,23-03-2026,Lost,10940530
+25,CLT025,Silver,Gold,559023,2572599,Contract Revision,Manager Change,20-03-2025,08-12-2025,Lost,2013576
+26,CLT026,Gold,Gold,733039,12090277,Upsell,Upgrade,05-08-2024,10-10-2025,Renewed,11357238
+27,CLT027,Gold,Gold,901909,8965155,Renewal,Downgrade,12-06-2024,14-11-2025,Lost,8063246
+28,CLT028,Silver,Platinum,391668,12234351,Contract Revision,Upgrade,22-07-2024,15-06-2025,Lost,11842683
+29,CLT029,Gold,Platinum,464863,7838951,Expansion,Manager Change,05-09-2024,27-11-2025,Renewed,7374088
+30,CLT030,Silver,Platinum,999398,7637702,Contract Revision,Manager Change,26-07-2024,20-11-2025,Lost,6638304
+31,CLT031,Gold,Gold,402218,4630616,Contract Revision,Upgrade,30-07-2024,13-07-2025,Lost,4228398
+32,CLT032,Gold,Gold,364659,11514235,Contract Revision,Manager Change,20-11-2024,25-07-2025,Renewed,11149576
+33,CLT033,Gold,Platinum,789606,6472706,Upsell,Upgrade,30-03-2025,22-03-2026,Lost,5683100
+34,CLT034,Gold,Platinum,752878,4342559,Upsell,Upgrade,15-06-2024,11-10-2025,Lost,3589681
+35,CLT035,Silver,Platinum,675898,16855159,Contract Revision,Manager Change,17-12-2024,14-04-2026,Lost,16179261
+36,CLT036,Silver,Gold,227324,10092776,Renewal,Downgrade,03-01-2025,12-05-2026,Renewed,9865452
+37,CLT037,Gold,Gold,679077,9170929,Renewal,Upgrade,13-09-2024,30-03-2026,Lost,8491852
+38,CLT038,Silver,Platinum,223172,8655427,Expansion,Manager Change,26-01-2025,23-01-2026,Lost,8432255
+39,CLT039,Gold,Platinum,535673,11475994,Renewal,Downgrade,17-04-2025,25-07-2025,Renewed,10940321
+40,CLT040,Silver,Gold,502219,9002531,Upsell,Downgrade,27-10-2024,31-12-2025,Lost,8500312

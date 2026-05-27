@@ -1,0 +1,21 @@
+historical_id,project_id,project_name,project_status,budget,actual_cost,revenue_generated,profit_margin,priority,project_manager_id,project_manager_name,end_date,valid_from,valid_to,current_flag,change_reason,record_created_at
+1,PRJ001,Innovate B2C Eyeballs,Planning,17434414,7989709,10430766,23.4,Low,EMP004,Darpan Borra,17-02-2026,22-04-2025,04-10-2025,Yes,Re-prioritized,03:35.4
+2,PRJ002,Repurpose E-Business Convergence,Cancelled,14343768,12512815,23516066,46.79,High,EMP004,Darpan Borra,29-03-2027,21-05-2025,01-04-2026,Yes,Budget Revision,03:35.4
+3,PRJ003,Deliver Clicks-And-Mortar Content,Planning,11434052,4112365,17021670,75.84,High,EMP044,Aradhana Shenoy,25-07-2025,24-07-2024,03-10-2025,No,Scope Change,03:35.4
+4,PRJ004,Leverage Open-Source Markets,On Hold,36985658,8876941,15327694,42.09,Medium,EMP094,Ekaja Sawhney,25-08-2027,09-02-2025,15-05-2026,Yes,Timeline Shift,03:35.4
+5,PRJ005,Unleash Bleeding-Edge Deliverables,On Hold,6354748,2452791,17089974,85.65,Medium,EMP099,Praneel Sule,19-01-2027,20-12-2024,25-05-2025,Yes,Re-prioritized,03:35.4
+6,PRJ006,Re-Contextualize Sticky Technologies,On Hold,41878089,11984920,21046300,43.05,Medium,EMP090,Mohini Aurora,15-07-2026,23-09-2024,06-04-2026,Yes,Budget Revision,03:35.4
+7,PRJ007,Maximize Interactive Interfaces,Completed,18967786,2720921,6360625,57.22,Critical,EMP041,Chatura Oza,28-10-2026,04-11-2024,28-02-2026,No,Scope Change,03:35.4
+8,PRJ008,Disintermediate Customized Experiences,On Hold,38672777,36670153,41178225,10.95,Medium,EMP018,Jeet Ranganathan,15-12-2026,29-09-2024,08-02-2026,Yes,Scope Change,03:35.4
+9,PRJ009,Synergize Turn-Key Relationships,Completed,43107191,11236210,24625096,54.37,Critical,EMP015,Kalpit Mutti,22-12-2026,28-02-2025,21-07-2025,No,Timeline Shift,03:35.4
+10,PRJ010,Reinvent Global Vortals,Completed,46748808,36535468,49233107,25.79,Medium,EMP002,Kalpit Deol,18-01-2026,20-11-2024,20-02-2026,Yes,Timeline Shift,03:35.4
+11,PRJ011,Drive Collaborative Eyeballs,Cancelled,35069940,7641109,22345987,65.81,Medium,EMP098,Kashish Raj,01-02-2026,03-06-2024,18-03-2026,Yes,Budget Revision,03:35.4
+12,PRJ012,Grow Compelling Relationships,In Progress,33789774,1153531,3130359,63.15,Low,EMP001,Adweta Solanki,06-06-2026,18-11-2024,08-01-2026,Yes,Re-prioritized,03:35.4
+13,PRJ013,Re-Contextualize Proactive Mindshare,Completed,9616205,8473915,17798088,52.39,Medium,EMP099,Praneel Sule,15-08-2026,13-10-2024,27-11-2025,Yes,Budget Revision,03:35.4
+14,PRJ014,Enable Proactive E-Tailers,Planning,27775919,23038074,34041218,32.32,Medium,EMP092,Ekani Buch,25-01-2026,19-01-2025,14-07-2025,No,Re-prioritized,03:35.4
+15,PRJ015,Iterate Open-Source E-Services,Planning,40489547,15278538,15499180,1.42,High,EMP071,Ira Khosla,21-09-2025,23-08-2024,06-09-2025,No,Re-prioritized,03:35.4
+16,PRJ016,Synergize Open-Source Platforms,Planning,9879297,8430103,12606920,33.13,Critical,EMP028,Reva Chacko,04-11-2027,30-01-2025,21-01-2026,Yes,Scope Change,03:35.4
+17,PRJ017,Envisioneer Dot-Com Channels,In Progress,5067647,3877432,16194828,76.06,Critical,EMP087,Omya Issac,19-07-2026,29-04-2025,14-01-2026,No,Budget Revision,03:35.4
+18,PRJ018,Incentivize Innovative Channels,Cancelled,30738000,27612727,42163766,34.51,Low,EMP032,Wakeeta Deshpande,14-10-2025,23-04-2025,27-07-2025,No,Budget Revision,03:35.4
+19,PRJ019,Transition Front-End Portals,Completed,27913358,2467477,5329629,53.7,High,EMP062,Chandani Mane,05-10-2026,26-11-2024,27-08-2025,Yes,Re-prioritized,03:35.4
+20,PRJ020,Re-Intermediate Robust Info-Mediaries,Planning,20911725,7804829,8886015,12.17,Low,EMP020,Qabil Chaudhry,10-02-2026,07-06-2024,19-10-2025,Yes,Re-prioritized,03:35.4

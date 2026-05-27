@@ -1,0 +1,101 @@
+hist_id,emp_id,capability,dept_id,role_title,role_id,manager_id,employment_type,base_salary,currency,location,country,status,valid_from,valid_to,change_reason
+1,EMP001,AI Native Application Development,DPT002,Project Manager,ROL003,,Full-time,2876705,SGD,Singapore,Singapore,Active,07-09-2024,,Department Change
+2,EMP002,Next Gen Application Development,DPT003,Data Analyst,ROL008,EMP001,Full-time,828700,SGD,Singapore,Singapore,Active,14-12-2024,,Promotion
+3,EMP003,Client Success,DPT002,Project Manager,ROL017,EMP001,Full-time,2301740,INR,Mumbai,India,Active,22-03-2024,,Department Change
+4,EMP004,BI & AI Strategies,DPT004,Project Manager,ROL016,EMP003,Full-time,1522986,INR,Bangalore,India,Active,27-02-2024,,Salary Revision
+5,EMP005,AI Native Application Development,DPT001,Senior Software Engineer,ROL002,EMP003,Full-time,3031699,INR,Bangalore,India,Active,20-05-2025,,Department Change
+6,EMP006,BI & AI Strategies,DPT001,Software Engineer,ROL017,EMP003,Intern,2529371,INR,Mumbai,India,Active,09-04-2025,,Department Change
+7,EMP007,Client Success,DPT003,Senior Software Engineer,ROL019,EMP004,Full-time,2634331,INR,Pune,India,Active,03-08-2025,,Resigned
+8,EMP008,Next Gen Application Development,DPT004,Software Engineer,ROL013,EMP001,Intern,430160,INR,Mumbai,India,Active,12-12-2024,,Department Change
+9,EMP009,Client Success,DPT001,Consultant,ROL017,EMP004,Contract,2358843,INR,Hyderabad,India,Active,05-11-2025,,Department Change
+10,EMP010,AI Native Application Development,DPT004,HR Executive,ROL008,EMP001,Intern,3135293,INR,Hyderabad,India,Active,18-03-2024,,Salary Revision
+11,EMP011,Next Gen Application Development,DPT003,HR Executive,ROL012,EMP004,Full-time,1313103,INR,Bangalore,India,Active,23-07-2025,,Salary Revision
+12,EMP012,AI Native Application Development,DPT004,Project Manager,ROL020,EMP004,Intern,2158356,INR,Pune,India,Active,06-08-2025,,Promotion
+13,EMP013,Next Gen Application Development,DPT002,Senior Software Engineer,ROL015,EMP003,Intern,955563,INR,Mumbai,India,Active,12-04-2024,,Resigned
+14,EMP014,BI & AI Strategies,DPT002,Project Manager,ROL003,EMP012,Intern,3283571,INR,Delhi,India,Active,11-09-2025,,Department Change
+15,EMP015,Next Gen Application Development,DPT002,Senior Software Engineer,ROL005,EMP012,Intern,1948604,INR,Delhi,India,Active,24-04-2024,,Resigned
+16,EMP016,Next Gen Application Development,DPT002,Consultant,ROL012,EMP004,Full-time,2126850,INR,Pune,India,Active,30-06-2024,,Promotion
+17,EMP017,Client Success,DPT002,Data Analyst,ROL014,EMP003,Contract,515765,INR,Hyderabad,India,Active,12-03-2024,,Department Change
+18,EMP018,Next Gen Application Development,DPT001,Business Analyst,ROL016,EMP004,Intern,2208992,INR,Bangalore,India,Active,02-01-2024,,Salary Revision
+19,EMP019,AI Native Application Development,DPT004,Consultant,ROL007,EMP014,Intern,1603403,INR,Hyderabad,India,Active,04-11-2024,,Resigned
+20,EMP020,Next Gen Application Development,DPT004,Software Engineer,ROL001,EMP012,Full-time,2963868,INR,Bangalore,India,Active,30-05-2024,,Resigned
+21,EMP021,Next Gen Application Development,DPT001,Senior Software Engineer,ROL005,EMP014,Contract,3200023,INR,Delhi,India,Active,12-09-2024,,Resigned
+22,EMP022,BI & AI Strategies,DPT002,Project Manager,ROL017,EMP003,Contract,2665562,INR,Bangalore,India,Active,19-10-2024,,Promotion
+23,EMP023,Client Success,DPT002,Data Analyst,ROL002,EMP012,Contract,2447782,INR,Delhi,India,Active,26-12-2024,,Resigned
+24,EMP024,BI & AI Strategies,DPT003,Tech Lead,ROL006,EMP004,Full-time,1773016,INR,Mumbai,India,Active,17-04-2025,,Salary Revision
+25,EMP025,Next Gen Application Development,DPT001,Tech Lead,ROL010,EMP012,Full-time,3207913,INR,Mumbai,India,Active,21-01-2024,,Promotion
+26,EMP026,AI Native Application Development,DPT002,Senior Software Engineer,ROL015,EMP003,Intern,2634495,INR,Mumbai,India,Active,04-11-2024,,Salary Revision
+27,EMP027,Next Gen Application Development,DPT004,Data Analyst,ROL006,EMP025,Contract,1569909,INR,Delhi,India,Active,29-08-2025,,Resigned
+28,EMP028,Client Success,DPT004,Project Manager,ROL020,EMP025,Intern,2728577,INR,Delhi,India,Active,28-03-2024,,Resigned
+29,EMP029,BI & AI Strategies,DPT002,Data Analyst,ROL020,EMP003,Contract,906067,INR,Hyderabad,India,Active,09-04-2025,,Department Change
+30,EMP030,Next Gen Application Development,DPT002,Business Analyst,ROL011,EMP014,Contract,830283,INR,Delhi,India,Active,25-02-2024,,Salary Revision
+31,EMP031,AI Native Application Development,DPT001,Senior Software Engineer,ROL008,EMP012,Full-time,2943080,INR,Pune,India,Active,07-11-2024,,Salary Revision
+32,EMP032,Next Gen Application Development,DPT004,Business Analyst,ROL005,EMP025,Full-time,2113446,INR,Bangalore,India,Active,26-06-2024,,Promotion
+33,EMP033,BI & AI Strategies,DPT001,Software Engineer,ROL007,EMP014,Full-time,2241943,INR,Pune,India,Active,14-03-2024,,Salary Revision
+34,EMP034,Client Success,DPT002,HR Executive,ROL020,EMP025,Intern,1161220,INR,Bangalore,India,Active,28-06-2024,,Promotion
+35,EMP035,AI Native Application Development,DPT002,Data Analyst,ROL016,EMP028,Contract,2558373,INR,Delhi,India,Active,18-11-2024,,Promotion
+36,EMP036,Next Gen Application Development,DPT001,Senior Software Engineer,ROL003,EMP024,Full-time,1703380,INR,Bangalore,India,Active,11-05-2025,,Salary Revision
+37,EMP037,Next Gen Application Development,DPT002,Consultant,ROL020,EMP022,Full-time,1558665,INR,Hyderabad,India,Active,28-05-2024,,Promotion
+38,EMP038,Client Success,DPT004,Project Manager,ROL017,EMP024,Intern,2122915,INR,Hyderabad,India,Active,15-12-2025,,Salary Revision
+39,EMP039,Client Success,DPT003,AI Engineer,ROL002,EMP024,Intern,1778103,INR,Hyderabad,India,Active,28-09-2024,,Salary Revision
+40,EMP040,BI & AI Strategies,DPT002,Data Analyst,ROL016,EMP038,Contract,1010563,INR,Mumbai,India,Active,27-02-2024,,Salary Revision
+41,EMP041,AI Native Application Development,DPT003,Business Analyst,ROL019,EMP024,Full-time,1849407,INR,Mumbai,India,Active,24-11-2025,,Promotion
+42,EMP042,Client Success,DPT004,Software Engineer,ROL005,EMP012,Intern,1365186,INR,Bangalore,India,Active,03-12-2025,,Department Change
+43,EMP043,BI & AI Strategies,DPT004,Business Analyst,ROL008,EMP014,Contract,1477810,INR,Bangalore,India,Active,15-05-2024,,Promotion
+44,EMP044,Client Success,DPT003,Data Analyst,ROL020,EMP001,Intern,854436,INR,Hyderabad,India,Active,19-11-2025,,Salary Revision
+45,EMP045,Client Success,DPT003,Business Analyst,ROL007,EMP028,Full-time,1956135,INR,Bangalore,India,Active,28-08-2024,,Promotion
+46,EMP046,Client Success,DPT001,AI Engineer,ROL019,EMP003,Full-time,1196114,INR,Bangalore,India,Active,11-07-2025,,Promotion
+47,EMP047,Next Gen Application Development,DPT001,Software Engineer,ROL013,EMP003,Contract,2665827,INR,Bangalore,India,Active,02-09-2025,,Resigned
+48,EMP048,AI Native Application Development,DPT003,Business Analyst,ROL014,EMP001,Intern,2513252,INR,Mumbai,India,Active,05-01-2025,,Department Change
+49,EMP049,BI & AI Strategies,DPT001,Business Analyst,ROL005,EMP028,Intern,2905643,INR,Bangalore,India,Active,08-10-2024,,Salary Revision
+50,EMP050,BI & AI Strategies,DPT003,Consultant,ROL009,EMP003,Contract,1040214,INR,Hyderabad,India,Active,16-11-2024,,Salary Revision
+51,EMP051,Next Gen Application Development,DPT003,AI Engineer,ROL020,EMP022,Full-time,3154551,INR,Hyderabad,India,Active,15-11-2024,,Department Change
+52,EMP052,Next Gen Application Development,DPT004,Software Engineer,ROL007,EMP001,Full-time,691862,INR,Bangalore,India,Active,25-12-2024,,Salary Revision
+53,EMP053,Client Success,DPT004,HR Executive,ROL006,EMP012,Intern,2946261,INR,Delhi,India,Active,05-10-2024,,Department Change
+54,EMP054,AI Native Application Development,DPT004,Data Analyst,ROL009,EMP004,Contract,2486185,INR,Bangalore,India,Exited,18-09-2024,17-01-2026,Department Change
+55,EMP055,Client Success,DPT003,Tech Lead,ROL013,EMP012,Intern,769643,INR,Bangalore,India,Exited,28-11-2024,07-04-2026,Resigned
+56,EMP056,AI Native Application Development,DPT001,Tech Lead,ROL008,EMP004,Full-time,1473608,INR,Bangalore,India,Exited,22-10-2025,21-07-2027,Salary Revision
+57,EMP057,Client Success,DPT002,Data Analyst,ROL004,EMP003,Contract,638614,INR,Bangalore,India,Exited,16-03-2024,06-11-2025,Resigned
+58,EMP058,Client Success,DPT004,Software Engineer,ROL011,EMP022,Full-time,2598102,INR,Bangalore,India,Exited,25-06-2024,28-09-2025,Promotion
+59,EMP059,BI & AI Strategies,DPT004,Tech Lead,ROL001,EMP014,Contract,940862,INR,Delhi,India,Exited,19-08-2025,28-05-2026,Promotion
+60,EMP060,Next Gen Application Development,DPT002,Project Manager,ROL016,EMP028,Full-time,1640641,INR,Pune,India,Exited,15-07-2024,28-03-2026,Salary Revision
+61,EMP061,Next Gen Application Development,DPT001,HR Executive,ROL009,EMP022,Full-time,2367194,INR,Bangalore,India,Exited,18-10-2024,20-06-2025,Resigned
+62,EMP062,AI Native Application Development,DPT001,Senior Software Engineer,ROL020,EMP004,Contract,1544169,INR,Bangalore,India,Exited,12-06-2025,06-07-2026,Promotion
+63,EMP063,Next Gen Application Development,DPT004,AI Engineer,ROL013,EMP056,Full-time,1603259,INR,Bangalore,India,Exited,11-04-2024,02-11-2025,Department Change
+64,EMP064,Client Success,DPT001,Consultant,ROL006,EMP038,Intern,864971,INR,Pune,India,Exited,01-09-2024,19-03-2026,Salary Revision
+65,EMP065,AI Native Application Development,DPT001,Business Analyst,ROL007,EMP022,Intern,2371889,INR,Delhi,India,Exited,11-07-2025,08-09-2026,Department Change
+66,EMP066,Client Success,DPT001,HR Executive,ROL020,EMP001,Intern,965612,INR,Delhi,India,Exited,28-06-2024,23-04-2025,Resigned
+67,EMP067,AI Native Application Development,DPT002,AI Engineer,ROL002,EMP024,Contract,2232706,INR,Bangalore,India,Exited,18-02-2024,16-07-2025,Department Change
+68,EMP068,Client Success,DPT001,HR Executive,ROL006,EMP001,Intern,3293083,INR,Mumbai,India,Exited,09-11-2024,27-09-2025,Promotion
+69,EMP069,Client Success,DPT004,AI Engineer,ROL012,EMP022,Contract,2937951,INR,Mumbai,India,Exited,22-10-2025,28-09-2026,Salary Revision
+70,EMP070,Client Success,DPT002,Data Analyst,ROL017,EMP012,Contract,2966398,INR,Hyderabad,India,Exited,30-04-2024,11-06-2025,Promotion
+71,EMP071,Next Gen Application Development,DPT001,Project Manager,ROL003,EMP022,Full-time,510243,INR,Pune,India,Exited,04-05-2024,02-12-2025,Department Change
+72,EMP072,Next Gen Application Development,DPT003,Tech Lead,ROL012,EMP060,Intern,2214532,INR,Hyderabad,India,Exited,18-12-2024,12-07-2026,Department Change
+73,EMP073,Next Gen Application Development,DPT002,Business Analyst,ROL015,EMP055,Intern,1118067,INR,Pune,India,Exited,05-04-2024,14-02-2025,Salary Revision
+74,EMP074,Client Success,DPT001,Consultant,ROL009,EMP060,Contract,3288254,INR,Bangalore,India,Exited,02-12-2025,10-04-2027,Resigned
+75,EMP075,Next Gen Application Development,DPT001,HR Executive,ROL018,EMP060,Full-time,612253,INR,Bangalore,India,Exited,30-09-2024,12-11-2025,Promotion
+76,EMP076,AI Native Application Development,DPT003,AI Engineer,ROL011,EMP072,Full-time,2475736,INR,Hyderabad,India,Exited,20-08-2025,20-11-2026,Promotion
+77,EMP077,AI Native Application Development,DPT003,Data Analyst,ROL018,EMP056,Intern,805511,INR,Mumbai,India,Exited,17-07-2025,20-03-2027,Department Change
+78,EMP078,BI & AI Strategies,DPT004,Data Analyst,ROL013,EMP001,Intern,3372670,INR,Bangalore,India,Exited,23-09-2025,01-04-2027,Salary Revision
+79,EMP079,AI Native Application Development,DPT002,Project Manager,ROL011,EMP014,Full-time,479429,INR,Pune,India,Exited,28-11-2025,15-07-2027,Salary Revision
+80,EMP080,BI & AI Strategies,DPT004,AI Engineer,ROL019,EMP028,Intern,2958846,INR,Bangalore,India,Exited,29-06-2025,29-12-2026,Promotion
+81,EMP081,AI Native Application Development,DPT001,Tech Lead,ROL009,EMP028,Contract,3395325,INR,Delhi,India,Exited,19-12-2024,10-03-2026,Promotion
+82,EMP082,Next Gen Application Development,DPT002,HR Executive,ROL008,EMP060,Full-time,2708345,INR,Pune,India,Exited,04-12-2024,03-01-2026,Department Change
+83,EMP083,Client Success,DPT003,Software Engineer,ROL017,EMP038,Contract,1614112,INR,Pune,India,Exited,29-06-2024,14-08-2025,Promotion
+84,EMP084,Next Gen Application Development,DPT003,AI Engineer,ROL008,EMP060,Contract,2962528,INR,Hyderabad,India,Exited,15-01-2024,26-07-2025,Department Change
+85,EMP085,BI & AI Strategies,DPT004,Software Engineer,ROL011,EMP038,Contract,660568,INR,Hyderabad,India,Exited,19-08-2025,23-04-2026,Promotion
+86,EMP086,Next Gen Application Development,DPT002,HR Executive,ROL016,EMP079,Intern,3253560,INR,Delhi,India,Exited,16-07-2025,11-11-2026,Department Change
+87,EMP087,Client Success,DPT002,HR Executive,ROL019,EMP003,Full-time,2552717,INR,Delhi,India,Exited,06-06-2025,22-06-2026,Department Change
+88,EMP088,Client Success,DPT002,Software Engineer,ROL016,EMP060,Contract,968029,INR,Delhi,India,Exited,28-04-2025,15-02-2026,Resigned
+89,EMP089,Client Success,DPT002,Software Engineer,ROL009,EMP025,Contract,2631091,INR,Delhi,India,Exited,04-01-2024,19-11-2024,Resigned
+90,EMP090,AI Native Application Development,DPT002,Software Engineer,ROL008,EMP003,Full-time,2241143,INR,Mumbai,India,Exited,19-11-2025,02-10-2026,Department Change
+91,EMP091,AI Native Application Development,DPT001,Business Analyst,ROL004,EMP055,Contract,3098263,INR,Mumbai,India,Exited,13-03-2025,17-12-2025,Promotion
+92,EMP092,AI Native Application Development,DPT004,Project Manager,ROL020,EMP003,Contract,1956411,INR,Hyderabad,India,Exited,18-09-2024,18-03-2026,Promotion
+93,EMP093,Next Gen Application Development,DPT001,Project Manager,ROL016,EMP056,Contract,1587236,INR,Hyderabad,India,Exited,21-12-2025,04-08-2027,Department Change
+94,EMP094,Next Gen Application Development,DPT003,Consultant,ROL016,EMP025,Contract,1783555,INR,Pune,India,Exited,21-08-2025,20-01-2027,Department Change
+95,EMP095,Client Success,DPT002,Software Engineer,ROL017,EMP014,Full-time,3045354,INR,Pune,India,Exited,17-03-2024,11-06-2025,Department Change
+96,EMP096,AI Native Application Development,DPT002,Consultant,ROL019,EMP093,Full-time,2599431,INR,Delhi,India,Exited,15-12-2025,22-01-2027,Resigned
+97,EMP097,AI Native Application Development,DPT004,Business Analyst,ROL016,EMP060,Contract,3347946,INR,Mumbai,India,Exited,21-01-2025,05-09-2025,Promotion
+98,EMP098,BI & AI Strategies,DPT003,Consultant,ROL013,EMP081,Full-time,2765412,INR,Mumbai,India,Exited,30-12-2025,01-04-2027,Resigned
+99,EMP099,BI & AI Strategies,DPT001,HR Executive,ROL017,EMP059,Full-time,2211301,INR,Bangalore,India,Exited,06-04-2025,14-06-2026,Salary Revision
+100,EMP100,AI Native Application Development,DPT001,AI Engineer,ROL001,EMP081,Contract,766151,INR,Mumbai,India,Exited,31-03-2025,27-03-2026,Resigned

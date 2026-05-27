@@ -1,0 +1,81 @@
+survey_id,client_id,net_promoter_score,customer_category,feedback_comment,service_quality_score,renewal_intent,recommendation_likelihood,survey_date
+SRV001,CLT039,2,Detractor,Sort food television bank father.,4,Medium,6,12-11-2025
+SRV002,CLT008,8,Passive,Ground ask adult maybe economy everybody figure study.,8,Medium,4,30-07-2025
+SRV003,CLT038,3,Detractor,Support want glass without news pass.,7,High,4,26-10-2025
+SRV004,CLT003,3,Detractor,Care community wind red daughter design process.,10,Low,3,05-06-2025
+SRV005,CLT009,9,Promoter,Road marriage entire process.,1,Low,3,22-12-2025
+SRV006,CLT004,3,Detractor,Of music option however issue hotel.,5,High,9,30-10-2025
+SRV007,CLT026,10,Promoter,Science feeling center yes kid fact water.,10,Low,1,28-03-2026
+SRV008,CLT019,2,Detractor,Place smile instead simply Democrat.,4,Medium,10,03-02-2026
+SRV009,CLT031,8,Passive,Rock human rich walk.,3,High,7,31-03-2026
+SRV010,CLT039,3,Detractor,Seem once prepare grow two.,10,High,10,03-03-2026
+SRV011,CLT033,5,Detractor,Season act should fund shake memory.,3,Low,6,29-12-2025
+SRV012,CLT030,10,Promoter,Within whether movement study voice arrive.,10,High,4,10-06-2025
+SRV013,CLT025,7,Passive,Attorney behavior deep these.,3,High,1,03-02-2026
+SRV014,CLT013,9,Promoter,Across position possible recently a.,9,Low,7,27-03-2026
+SRV015,CLT010,10,Promoter,Test whether situation beyond.,2,High,8,28-08-2025
+SRV016,CLT040,10,Promoter,Seat test area education house than language.,1,Low,9,05-05-2026
+SRV017,CLT008,2,Detractor,Its season away pull both arm meet.,8,Low,3,06-04-2026
+SRV018,CLT039,9,Promoter,Card cultural mother would difference road.,1,Low,7,23-06-2025
+SRV019,CLT034,7,Passive,Factor remain answer stay plan though.,6,High,9,27-06-2025
+SRV020,CLT028,4,Detractor,Again radio put create possible sure relate.,8,Medium,6,21-04-2026
+SRV021,CLT038,10,Promoter,Since teach finish form cultural Mrs everyone.,2,Medium,3,09-04-2026
+SRV022,CLT017,8,Passive,Position whatever final stay month these.,4,High,5,05-02-2026
+SRV023,CLT039,9,Promoter,Tree scientist fear.,7,Medium,4,28-12-2025
+SRV024,CLT001,1,Detractor,Space recently technology speak.,10,Low,2,29-10-2025
+SRV025,CLT034,1,Detractor,Than long article nature.,7,Low,4,13-05-2026
+SRV026,CLT021,7,Passive,Lot magazine out say.,6,High,3,14-06-2025
+SRV027,CLT028,10,Promoter,Pick possible set team maybe.,5,Medium,9,19-10-2025
+SRV028,CLT028,10,Promoter,Represent she spend forward increase.,6,Low,5,09-08-2025
+SRV029,CLT026,4,Detractor,Current difficult nice when research determine.,7,Low,9,19-05-2026
+SRV030,CLT031,3,Detractor,Order stock support position assume certainly off.,6,Low,9,25-05-2025
+SRV031,CLT031,5,Detractor,Item old threat old media behavior.,5,Low,6,25-07-2025
+SRV032,CLT026,3,Detractor,Summer responsibility current open imagine course be.,2,Low,4,17-05-2026
+SRV033,CLT029,3,Detractor,Toward paper size wind order structure responsibility.,2,High,9,06-06-2025
+SRV034,CLT026,6,Detractor,Admit office medical task perhaps.,9,Low,1,29-01-2026
+SRV035,CLT011,7,Passive,Bring security yeah trial skill floor.,1,High,3,24-09-2025
+SRV036,CLT031,10,Promoter,Agency pattern high fund according follow.,7,High,2,02-07-2025
+SRV037,CLT017,4,Detractor,Where take case.,6,High,10,23-09-2025
+SRV038,CLT003,7,Passive,Court strong pretty fall off father there.,7,Low,9,10-01-2026
+SRV039,CLT019,10,Promoter,Edge other realize term leg five large.,1,High,8,05-06-2025
+SRV040,CLT029,1,Detractor,Sing student very.,4,Low,9,22-10-2025
+SRV041,CLT019,4,Detractor,Cell everything song authority.,1,Low,9,26-12-2025
+SRV042,CLT034,4,Detractor,Suffer us happy whose respond sister institution.,10,High,1,02-07-2025
+SRV043,CLT024,4,Detractor,Late born series child.,1,High,2,29-10-2025
+SRV044,CLT018,7,Passive,General billion issue opportunity among.,6,Low,7,27-09-2025
+SRV045,CLT026,10,Promoter,Success central suggest Republican away political.,4,Low,1,27-07-2025
+SRV046,CLT005,2,Detractor,Team note action.,9,Medium,9,17-10-2025
+SRV047,CLT038,6,Detractor,Usually sit executive real.,6,Medium,4,15-06-2025
+SRV048,CLT039,4,Detractor,Discussion impact number wind result.,8,Medium,10,01-08-2025
+SRV049,CLT001,5,Detractor,Environmental evening board pay natural democratic too full.,3,Medium,9,06-11-2025
+SRV050,CLT007,9,Promoter,Various travel power.,2,Low,5,24-11-2025
+SRV051,CLT022,2,Detractor,Score federal call treat white table agency.,9,Medium,9,09-11-2025
+SRV052,CLT037,5,Detractor,There charge rock whatever understand cut of mind.,8,Medium,10,26-05-2025
+SRV053,CLT031,4,Detractor,Could new image listen it.,6,Medium,8,04-06-2025
+SRV054,CLT038,1,Detractor,Sister officer direction she west right than subject.,8,High,5,01-01-2026
+SRV055,CLT005,7,Passive,During piece speech station paper.,4,Low,4,03-02-2026
+SRV056,CLT021,7,Passive,Push across alone head.,6,Low,9,20-07-2025
+SRV057,CLT001,5,Detractor,Wife blue thought same.,4,Medium,2,13-12-2025
+SRV058,CLT026,6,Detractor,Night paper action instead resource firm chair.,2,Low,3,14-11-2025
+SRV059,CLT031,6,Detractor,Answer into bad against certainly personal.,6,High,10,04-02-2026
+SRV060,CLT018,3,Detractor,Record suggest rich international art.,4,Medium,4,25-04-2026
+SRV061,CLT016,4,Detractor,President enjoy side.,5,High,4,22-09-2025
+SRV062,CLT013,4,Detractor,Improve but brother including type plan travel.,10,Medium,3,02-08-2025
+SRV063,CLT007,2,Detractor,Number mind car.,2,Low,8,18-09-2025
+SRV064,CLT040,1,Detractor,Common western nation among especially south really together.,9,High,8,19-03-2026
+SRV065,CLT024,10,Promoter,Star if nation put the light.,6,Medium,10,28-09-2025
+SRV066,CLT018,8,Passive,Down me single both region skin.,3,Low,5,28-10-2025
+SRV067,CLT026,4,Detractor,Fall score own red.,10,High,1,15-07-2025
+SRV068,CLT034,7,Passive,Environmental technology friend after.,8,Low,1,14-03-2026
+SRV069,CLT033,6,Detractor,Report onto matter here much.,7,Low,3,12-12-2025
+SRV070,CLT030,2,Detractor,Impact he could claim respond read.,9,Medium,6,09-06-2025
+SRV071,CLT001,1,Detractor,Finish eye live dog total catch employee.,4,Medium,10,05-07-2025
+SRV072,CLT007,6,Detractor,Young able behind truth event from just.,6,Low,5,14-02-2026
+SRV073,CLT012,9,Promoter,Occur over effort behind very wrong.,5,High,5,19-01-2026
+SRV074,CLT031,10,Promoter,Left long social rise.,6,Medium,3,25-01-2026
+SRV075,CLT032,7,Passive,Build subject east material rock enter.,4,Medium,6,22-08-2025
+SRV076,CLT024,7,Passive,Book that another.,5,Medium,3,29-04-2026
+SRV077,CLT037,3,Detractor,Friend positive everyone.,10,Low,4,05-10-2025
+SRV078,CLT007,5,Detractor,Trial number her.,4,Low,7,22-05-2026
+SRV079,CLT025,4,Detractor,Garden oil idea purpose want film three.,3,Low,3,24-11-2025
+SRV080,CLT031,1,Detractor,Near better government material effect.,3,Medium,8,18-12-2025

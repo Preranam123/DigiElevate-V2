@@ -1,0 +1,452 @@
+emp_id,skill_name,skill_category,proficiency_level,certification_flag
+EMP001,Snowflake,Soft Skill,Expert,Yes
+EMP001,Power BI,Technical,Advanced,No
+EMP001,React,Functional,Expert,Yes
+EMP001,Azure,Technical,Intermediate,No
+EMP001,Leadership,Functional,Expert,No
+EMP001,SQL,Functional,Beginner,No
+EMP002,Azure,Functional,Beginner,Yes
+EMP002,Communication,Functional,Beginner,No
+EMP002,Leadership,Functional,Expert,No
+EMP002,Java,Functional,Advanced,No
+EMP002,Project Management,Soft Skill,Intermediate,No
+EMP003,Data Engineering,Technical,Expert,No
+EMP003,Communication,Functional,Expert,Yes
+EMP003,Azure,Functional,Expert,No
+EMP003,Java,Functional,Advanced,Yes
+EMP003,Machine Learning,Soft Skill,Intermediate,Yes
+EMP004,Communication,Functional,Advanced,Yes
+EMP004,Java,Functional,Expert,Yes
+EMP004,Azure,Soft Skill,Advanced,Yes
+EMP005,Leadership,Functional,Expert,No
+EMP005,SQL,Soft Skill,Expert,Yes
+EMP005,Snowflake,Functional,Beginner,Yes
+EMP005,Project Management,Technical,Advanced,Yes
+EMP005,Power BI,Soft Skill,Beginner,No
+EMP006,Project Management,Functional,Intermediate,Yes
+EMP006,Snowflake,Functional,Advanced,No
+EMP006,Power BI,Functional,Intermediate,No
+EMP006,Python,Technical,Expert,Yes
+EMP006,Leadership,Functional,Expert,Yes
+EMP007,Communication,Functional,Advanced,No
+EMP007,SQL,Technical,Expert,No
+EMP007,Machine Learning,Functional,Beginner,No
+EMP008,Machine Learning,Functional,Beginner,Yes
+EMP008,Power BI,Soft Skill,Intermediate,Yes
+EMP008,AWS,Soft Skill,Intermediate,No
+EMP008,Python,Soft Skill,Expert,No
+EMP008,Communication,Technical,Expert,Yes
+EMP008,Data Engineering,Technical,Expert,No
+EMP009,Communication,Functional,Expert,No
+EMP009,Data Engineering,Technical,Intermediate,Yes
+EMP009,Azure,Functional,Beginner,Yes
+EMP010,Machine Learning,Technical,Advanced,No
+EMP010,Project Management,Soft Skill,Advanced,No
+EMP010,Azure,Soft Skill,Expert,Yes
+EMP010,Java,Functional,Advanced,No
+EMP011,Leadership,Soft Skill,Beginner,Yes
+EMP011,Communication,Functional,Beginner,Yes
+EMP011,AWS,Functional,Beginner,Yes
+EMP011,Data Engineering,Functional,Intermediate,No
+EMP012,Data Engineering,Functional,Intermediate,Yes
+EMP012,SQL,Functional,Advanced,Yes
+EMP012,Project Management,Technical,Advanced,No
+EMP012,Snowflake,Soft Skill,Beginner,No
+EMP012,Leadership,Technical,Expert,Yes
+EMP012,Communication,Technical,Expert,No
+EMP013,Leadership,Technical,Beginner,Yes
+EMP013,Java,Functional,Beginner,No
+EMP013,Snowflake,Technical,Advanced,Yes
+EMP013,Communication,Functional,Expert,Yes
+EMP013,Data Engineering,Soft Skill,Beginner,No
+EMP013,SQL,Soft Skill,Advanced,Yes
+EMP014,React,Technical,Expert,No
+EMP014,Azure,Functional,Beginner,No
+EMP014,Snowflake,Technical,Intermediate,Yes
+EMP014,Power BI,Soft Skill,Advanced,No
+EMP014,Communication,Technical,Intermediate,Yes
+EMP014,AWS,Technical,Beginner,No
+EMP015,Data Engineering,Functional,Advanced,Yes
+EMP015,React,Technical,Expert,Yes
+EMP015,SQL,Functional,Intermediate,Yes
+EMP015,Machine Learning,Technical,Intermediate,No
+EMP015,AWS,Technical,Expert,No
+EMP016,Data Engineering,Functional,Expert,Yes
+EMP016,Leadership,Soft Skill,Beginner,No
+EMP016,AWS,Soft Skill,Advanced,No
+EMP016,Snowflake,Functional,Expert,No
+EMP017,Project Management,Soft Skill,Expert,No
+EMP017,Communication,Technical,Expert,Yes
+EMP017,Power BI,Functional,Intermediate,No
+EMP018,Machine Learning,Soft Skill,Expert,No
+EMP018,AWS,Soft Skill,Beginner,Yes
+EMP018,Project Management,Technical,Expert,Yes
+EMP018,React,Technical,Intermediate,No
+EMP018,SQL,Functional,Beginner,No
+EMP019,Communication,Technical,Advanced,Yes
+EMP019,SQL,Soft Skill,Advanced,No
+EMP019,Leadership,Technical,Advanced,Yes
+EMP019,AWS,Technical,Expert,No
+EMP020,Snowflake,Technical,Intermediate,No
+EMP020,Leadership,Technical,Intermediate,Yes
+EMP020,Power BI,Soft Skill,Expert,Yes
+EMP020,Communication,Technical,Advanced,Yes
+EMP021,Communication,Technical,Beginner,Yes
+EMP021,SQL,Functional,Advanced,No
+EMP021,Java,Technical,Expert,Yes
+EMP021,Power BI,Soft Skill,Intermediate,Yes
+EMP021,Azure,Soft Skill,Beginner,Yes
+EMP021,Snowflake,Functional,Advanced,Yes
+EMP022,Snowflake,Technical,Beginner,Yes
+EMP022,Data Engineering,Technical,Beginner,No
+EMP022,Leadership,Functional,Expert,No
+EMP022,Java,Technical,Intermediate,No
+EMP023,Azure,Soft Skill,Advanced,Yes
+EMP023,React,Soft Skill,Advanced,Yes
+EMP023,Data Engineering,Soft Skill,Intermediate,No
+EMP024,Leadership,Technical,Intermediate,No
+EMP024,Python,Soft Skill,Beginner,Yes
+EMP024,Azure,Functional,Advanced,Yes
+EMP024,Java,Functional,Expert,No
+EMP024,Snowflake,Soft Skill,Intermediate,No
+EMP025,Python,Technical,Advanced,Yes
+EMP025,Data Engineering,Technical,Beginner,No
+EMP025,Power BI,Soft Skill,Advanced,No
+EMP026,Communication,Functional,Beginner,No
+EMP026,Snowflake,Technical,Intermediate,Yes
+EMP026,Power BI,Soft Skill,Advanced,No
+EMP026,React,Soft Skill,Beginner,No
+EMP026,Data Engineering,Soft Skill,Expert,Yes
+EMP026,SQL,Technical,Intermediate,Yes
+EMP027,Power BI,Soft Skill,Intermediate,Yes
+EMP027,Java,Technical,Intermediate,Yes
+EMP027,Data Engineering,Technical,Expert,No
+EMP027,Leadership,Soft Skill,Advanced,Yes
+EMP027,Python,Functional,Intermediate,No
+EMP027,AWS,Soft Skill,Beginner,Yes
+EMP028,Project Management,Functional,Beginner,No
+EMP028,Snowflake,Functional,Advanced,Yes
+EMP028,AWS,Functional,Intermediate,No
+EMP028,React,Technical,Advanced,Yes
+EMP028,Power BI,Soft Skill,Beginner,Yes
+EMP029,Python,Technical,Expert,No
+EMP029,Project Management,Functional,Intermediate,Yes
+EMP029,Azure,Technical,Expert,Yes
+EMP030,Azure,Soft Skill,Advanced,Yes
+EMP030,Snowflake,Soft Skill,Beginner,Yes
+EMP030,Machine Learning,Technical,Beginner,No
+EMP030,AWS,Technical,Expert,No
+EMP030,Power BI,Functional,Advanced,Yes
+EMP031,Python,Functional,Advanced,No
+EMP031,Machine Learning,Technical,Intermediate,Yes
+EMP031,Azure,Technical,Expert,Yes
+EMP031,AWS,Technical,Advanced,Yes
+EMP031,Data Engineering,Functional,Beginner,No
+EMP031,Leadership,Soft Skill,Advanced,Yes
+EMP032,React,Technical,Intermediate,No
+EMP032,Azure,Technical,Beginner,Yes
+EMP032,Snowflake,Soft Skill,Expert,No
+EMP032,Java,Functional,Beginner,Yes
+EMP033,Leadership,Soft Skill,Beginner,No
+EMP033,Snowflake,Soft Skill,Intermediate,Yes
+EMP033,Power BI,Functional,Advanced,No
+EMP033,Data Engineering,Functional,Advanced,No
+EMP034,AWS,Technical,Beginner,Yes
+EMP034,Azure,Functional,Expert,No
+EMP034,Power BI,Functional,Beginner,No
+EMP034,Communication,Technical,Expert,No
+EMP034,SQL,Functional,Advanced,Yes
+EMP034,Leadership,Technical,Intermediate,No
+EMP035,Azure,Technical,Intermediate,No
+EMP035,Machine Learning,Functional,Beginner,No
+EMP035,SQL,Functional,Intermediate,Yes
+EMP036,Java,Technical,Intermediate,Yes
+EMP036,React,Technical,Beginner,Yes
+EMP036,Communication,Technical,Intermediate,No
+EMP036,Azure,Functional,Beginner,No
+EMP036,Power BI,Technical,Beginner,Yes
+EMP036,Project Management,Technical,Expert,Yes
+EMP037,Project Management,Technical,Expert,Yes
+EMP037,Machine Learning,Technical,Expert,No
+EMP037,Power BI,Functional,Beginner,No
+EMP038,SQL,Functional,Intermediate,Yes
+EMP038,Machine Learning,Soft Skill,Intermediate,No
+EMP038,Azure,Functional,Expert,No
+EMP038,Project Management,Technical,Beginner,No
+EMP038,AWS,Functional,Intermediate,No
+EMP038,React,Technical,Intermediate,Yes
+EMP039,Project Management,Functional,Advanced,No
+EMP039,Communication,Functional,Intermediate,Yes
+EMP039,Machine Learning,Functional,Intermediate,Yes
+EMP039,Java,Functional,Beginner,No
+EMP039,React,Soft Skill,Advanced,Yes
+EMP039,Data Engineering,Technical,Beginner,Yes
+EMP040,AWS,Soft Skill,Expert,No
+EMP040,React,Technical,Intermediate,Yes
+EMP040,Python,Soft Skill,Advanced,No
+EMP040,Azure,Soft Skill,Beginner,No
+EMP041,Data Engineering,Functional,Intermediate,No
+EMP041,Azure,Technical,Beginner,Yes
+EMP041,Java,Technical,Intermediate,Yes
+EMP041,React,Soft Skill,Expert,Yes
+EMP042,Data Engineering,Functional,Beginner,Yes
+EMP042,Azure,Technical,Intermediate,Yes
+EMP042,SQL,Soft Skill,Advanced,Yes
+EMP042,Machine Learning,Functional,Expert,Yes
+EMP042,Leadership,Functional,Advanced,No
+EMP043,SQL,Soft Skill,Advanced,Yes
+EMP043,Communication,Soft Skill,Advanced,Yes
+EMP043,Snowflake,Soft Skill,Intermediate,No
+EMP043,Java,Functional,Advanced,Yes
+EMP044,Communication,Soft Skill,Beginner,Yes
+EMP044,Python,Soft Skill,Advanced,Yes
+EMP044,Data Engineering,Soft Skill,Beginner,No
+EMP044,Snowflake,Technical,Advanced,Yes
+EMP045,Machine Learning,Soft Skill,Advanced,No
+EMP045,Project Management,Technical,Advanced,Yes
+EMP045,SQL,Technical,Beginner,No
+EMP045,Power BI,Functional,Beginner,Yes
+EMP046,Snowflake,Technical,Expert,No
+EMP046,Java,Functional,Advanced,No
+EMP046,Project Management,Technical,Expert,Yes
+EMP047,Java,Technical,Advanced,No
+EMP047,Power BI,Technical,Beginner,No
+EMP047,Python,Technical,Expert,Yes
+EMP047,AWS,Soft Skill,Beginner,Yes
+EMP048,Data Engineering,Soft Skill,Intermediate,No
+EMP048,Project Management,Technical,Beginner,Yes
+EMP048,Java,Functional,Intermediate,Yes
+EMP048,Python,Functional,Advanced,No
+EMP048,Snowflake,Functional,Intermediate,Yes
+EMP049,Snowflake,Functional,Intermediate,Yes
+EMP049,Data Engineering,Functional,Beginner,No
+EMP049,React,Technical,Advanced,No
+EMP050,Power BI,Soft Skill,Advanced,Yes
+EMP050,Python,Functional,Beginner,No
+EMP050,Azure,Functional,Expert,No
+EMP050,SQL,Soft Skill,Advanced,Yes
+EMP051,SQL,Technical,Advanced,No
+EMP051,Machine Learning,Functional,Advanced,Yes
+EMP051,Snowflake,Functional,Beginner,Yes
+EMP051,Communication,Soft Skill,Beginner,Yes
+EMP051,Project Management,Soft Skill,Advanced,No
+EMP051,Java,Soft Skill,Intermediate,Yes
+EMP052,React,Functional,Beginner,No
+EMP052,Snowflake,Soft Skill,Beginner,Yes
+EMP052,Project Management,Technical,Expert,Yes
+EMP052,Java,Technical,Intermediate,Yes
+EMP052,Azure,Technical,Beginner,No
+EMP052,Data Engineering,Technical,Expert,Yes
+EMP053,Data Engineering,Technical,Expert,No
+EMP053,AWS,Soft Skill,Advanced,No
+EMP053,Machine Learning,Soft Skill,Expert,Yes
+EMP053,Power BI,Soft Skill,Expert,Yes
+EMP054,SQL,Soft Skill,Beginner,No
+EMP054,Project Management,Soft Skill,Advanced,No
+EMP054,Data Engineering,Functional,Expert,No
+EMP054,Leadership,Soft Skill,Expert,Yes
+EMP054,Power BI,Technical,Advanced,No
+EMP054,React,Technical,Expert,Yes
+EMP055,Machine Learning,Functional,Beginner,No
+EMP055,Communication,Functional,Advanced,No
+EMP055,Azure,Functional,Beginner,Yes
+EMP055,Python,Technical,Advanced,No
+EMP055,Java,Functional,Advanced,No
+EMP055,AWS,Soft Skill,Beginner,Yes
+EMP056,Azure,Soft Skill,Intermediate,Yes
+EMP056,Snowflake,Functional,Expert,Yes
+EMP056,Java,Soft Skill,Beginner,Yes
+EMP056,React,Technical,Intermediate,Yes
+EMP056,Machine Learning,Technical,Beginner,No
+EMP056,Python,Technical,Advanced,Yes
+EMP057,Machine Learning,Soft Skill,Beginner,Yes
+EMP057,Java,Functional,Expert,No
+EMP057,React,Technical,Expert,No
+EMP057,Snowflake,Functional,Intermediate,No
+EMP057,Power BI,Soft Skill,Beginner,No
+EMP058,Snowflake,Soft Skill,Intermediate,Yes
+EMP058,Python,Soft Skill,Intermediate,Yes
+EMP058,SQL,Functional,Expert,Yes
+EMP059,Java,Technical,Beginner,Yes
+EMP059,SQL,Functional,Advanced,No
+EMP059,Leadership,Functional,Expert,No
+EMP060,AWS,Soft Skill,Beginner,Yes
+EMP060,Azure,Soft Skill,Advanced,No
+EMP060,Java,Functional,Beginner,No
+EMP060,Project Management,Technical,Advanced,No
+EMP060,React,Soft Skill,Advanced,No
+EMP060,Snowflake,Functional,Advanced,Yes
+EMP061,React,Functional,Advanced,Yes
+EMP061,Azure,Soft Skill,Beginner,No
+EMP061,Python,Functional,Advanced,No
+EMP061,Data Engineering,Functional,Expert,Yes
+EMP062,Machine Learning,Soft Skill,Expert,No
+EMP062,Communication,Soft Skill,Advanced,Yes
+EMP062,Azure,Soft Skill,Intermediate,No
+EMP062,React,Technical,Expert,Yes
+EMP063,Communication,Technical,Advanced,Yes
+EMP063,React,Soft Skill,Advanced,No
+EMP063,SQL,Functional,Advanced,No
+EMP063,Machine Learning,Soft Skill,Advanced,No
+EMP063,Power BI,Technical,Expert,Yes
+EMP064,Java,Technical,Expert,No
+EMP064,Azure,Functional,Beginner,Yes
+EMP064,React,Technical,Intermediate,No
+EMP065,Data Engineering,Functional,Advanced,Yes
+EMP065,Java,Functional,Beginner,Yes
+EMP065,SQL,Functional,Advanced,Yes
+EMP065,Machine Learning,Technical,Intermediate,No
+EMP065,Leadership,Technical,Intermediate,No
+EMP065,Power BI,Soft Skill,Expert,No
+EMP066,Java,Soft Skill,Advanced,Yes
+EMP066,Snowflake,Functional,Intermediate,Yes
+EMP066,Python,Soft Skill,Beginner,Yes
+EMP066,Leadership,Technical,Advanced,No
+EMP066,React,Technical,Beginner,No
+EMP066,Azure,Soft Skill,Advanced,Yes
+EMP067,Python,Functional,Advanced,No
+EMP067,AWS,Soft Skill,Intermediate,No
+EMP067,Communication,Functional,Advanced,Yes
+EMP068,Project Management,Technical,Intermediate,Yes
+EMP068,Snowflake,Soft Skill,Beginner,Yes
+EMP068,Python,Technical,Advanced,Yes
+EMP068,Azure,Functional,Advanced,Yes
+EMP069,Leadership,Technical,Beginner,Yes
+EMP069,Power BI,Functional,Expert,No
+EMP069,Project Management,Technical,Advanced,No
+EMP070,Azure,Functional,Expert,Yes
+EMP070,Communication,Soft Skill,Advanced,Yes
+EMP070,Leadership,Functional,Beginner,Yes
+EMP070,Python,Functional,Beginner,Yes
+EMP071,Azure,Functional,Expert,No
+EMP071,Data Engineering,Technical,Beginner,No
+EMP071,Project Management,Technical,Expert,No
+EMP071,AWS,Technical,Beginner,Yes
+EMP071,React,Soft Skill,Beginner,Yes
+EMP071,Leadership,Soft Skill,Expert,Yes
+EMP072,Project Management,Soft Skill,Beginner,No
+EMP072,React,Soft Skill,Intermediate,No
+EMP072,Power BI,Functional,Advanced,No
+EMP073,Power BI,Functional,Advanced,No
+EMP073,SQL,Functional,Beginner,Yes
+EMP073,Python,Technical,Beginner,Yes
+EMP074,Machine Learning,Functional,Beginner,No
+EMP074,Project Management,Functional,Intermediate,Yes
+EMP074,Java,Functional,Expert,No
+EMP074,Data Engineering,Functional,Expert,No
+EMP075,Leadership,Technical,Expert,No
+EMP075,SQL,Soft Skill,Expert,Yes
+EMP075,Power BI,Soft Skill,Expert,No
+EMP075,Communication,Soft Skill,Beginner,Yes
+EMP075,Python,Functional,Expert,Yes
+EMP075,Data Engineering,Functional,Expert,Yes
+EMP076,AWS,Technical,Intermediate,No
+EMP076,Leadership,Soft Skill,Beginner,No
+EMP076,Machine Learning,Soft Skill,Intermediate,No
+EMP077,Leadership,Soft Skill,Beginner,Yes
+EMP077,Project Management,Soft Skill,Intermediate,No
+EMP077,Communication,Functional,Intermediate,Yes
+EMP077,Snowflake,Functional,Advanced,Yes
+EMP077,SQL,Functional,Advanced,Yes
+EMP078,React,Technical,Beginner,No
+EMP078,Leadership,Functional,Expert,Yes
+EMP078,Snowflake,Functional,Expert,No
+EMP078,Communication,Technical,Expert,Yes
+EMP079,Snowflake,Soft Skill,Beginner,Yes
+EMP079,Project Management,Soft Skill,Advanced,Yes
+EMP079,Python,Soft Skill,Expert,No
+EMP080,Python,Soft Skill,Expert,No
+EMP080,Azure,Soft Skill,Expert,Yes
+EMP080,Java,Technical,Intermediate,Yes
+EMP080,Machine Learning,Functional,Advanced,No
+EMP080,React,Soft Skill,Advanced,Yes
+EMP081,SQL,Soft Skill,Expert,Yes
+EMP081,Java,Functional,Intermediate,Yes
+EMP081,Project Management,Technical,Expert,Yes
+EMP082,Project Management,Soft Skill,Beginner,No
+EMP082,Azure,Functional,Intermediate,No
+EMP082,Machine Learning,Technical,Beginner,No
+EMP082,Power BI,Soft Skill,Expert,Yes
+EMP082,Snowflake,Soft Skill,Intermediate,Yes
+EMP082,Python,Technical,Expert,No
+EMP083,Snowflake,Functional,Expert,Yes
+EMP083,Data Engineering,Technical,Expert,No
+EMP083,Azure,Soft Skill,Advanced,Yes
+EMP083,AWS,Technical,Intermediate,No
+EMP083,Project Management,Soft Skill,Advanced,Yes
+EMP083,Machine Learning,Soft Skill,Intermediate,No
+EMP084,Project Management,Functional,Expert,No
+EMP084,Machine Learning,Functional,Beginner,Yes
+EMP084,React,Technical,Expert,Yes
+EMP085,Leadership,Functional,Intermediate,No
+EMP085,Python,Soft Skill,Advanced,Yes
+EMP085,Azure,Technical,Advanced,Yes
+EMP086,Machine Learning,Soft Skill,Intermediate,No
+EMP086,Java,Technical,Advanced,Yes
+EMP086,Power BI,Functional,Expert,No
+EMP087,React,Soft Skill,Expert,Yes
+EMP087,Python,Soft Skill,Advanced,Yes
+EMP087,Communication,Soft Skill,Intermediate,No
+EMP087,AWS,Functional,Intermediate,Yes
+EMP087,Azure,Technical,Intermediate,Yes
+EMP088,Python,Technical,Advanced,Yes
+EMP088,Snowflake,Functional,Expert,Yes
+EMP088,AWS,Technical,Intermediate,No
+EMP088,React,Soft Skill,Beginner,No
+EMP088,Leadership,Functional,Advanced,Yes
+EMP088,SQL,Soft Skill,Advanced,Yes
+EMP089,React,Functional,Expert,Yes
+EMP089,Power BI,Functional,Intermediate,Yes
+EMP089,Project Management,Soft Skill,Advanced,No
+EMP089,SQL,Functional,Advanced,Yes
+EMP090,React,Technical,Intermediate,Yes
+EMP090,Leadership,Soft Skill,Advanced,No
+EMP090,Python,Technical,Expert,No
+EMP090,Power BI,Soft Skill,Advanced,Yes
+EMP090,Machine Learning,Soft Skill,Advanced,No
+EMP090,Java,Functional,Beginner,No
+EMP091,Machine Learning,Technical,Beginner,Yes
+EMP091,React,Technical,Intermediate,No
+EMP091,Power BI,Technical,Intermediate,No
+EMP091,Leadership,Soft Skill,Beginner,Yes
+EMP092,Java,Technical,Beginner,Yes
+EMP092,Communication,Technical,Intermediate,No
+EMP092,Machine Learning,Soft Skill,Beginner,Yes
+EMP093,Snowflake,Functional,Beginner,No
+EMP093,Project Management,Soft Skill,Beginner,Yes
+EMP093,Java,Soft Skill,Beginner,Yes
+EMP093,Communication,Soft Skill,Beginner,No
+EMP093,Data Engineering,Soft Skill,Beginner,No
+EMP094,Data Engineering,Functional,Beginner,No
+EMP094,Power BI,Technical,Intermediate,Yes
+EMP094,AWS,Soft Skill,Expert,No
+EMP094,Java,Soft Skill,Intermediate,No
+EMP094,Snowflake,Soft Skill,Advanced,Yes
+EMP095,Power BI,Soft Skill,Expert,Yes
+EMP095,Python,Functional,Intermediate,No
+EMP095,Communication,Technical,Expert,Yes
+EMP095,Data Engineering,Technical,Intermediate,Yes
+EMP096,Azure,Soft Skill,Expert,Yes
+EMP096,Power BI,Functional,Beginner,No
+EMP096,SQL,Technical,Intermediate,No
+EMP096,Data Engineering,Functional,Advanced,Yes
+EMP096,Python,Soft Skill,Intermediate,Yes
+EMP097,Data Engineering,Functional,Advanced,No
+EMP097,Power BI,Soft Skill,Intermediate,No
+EMP097,Azure,Functional,Expert,Yes
+EMP097,Machine Learning,Technical,Advanced,Yes
+EMP097,Java,Technical,Expert,No
+EMP098,SQL,Functional,Advanced,No
+EMP098,Leadership,Functional,Beginner,Yes
+EMP098,Machine Learning,Soft Skill,Beginner,No
+EMP098,Java,Technical,Intermediate,No
+EMP098,Data Engineering,Soft Skill,Beginner,Yes
+EMP099,React,Soft Skill,Expert,Yes
+EMP099,Leadership,Technical,Advanced,No
+EMP099,Python,Soft Skill,Intermediate,No
+EMP100,Azure,Functional,Advanced,Yes
+EMP100,Data Engineering,Soft Skill,Intermediate,Yes
+EMP100,AWS,Soft Skill,Intermediate,No
+EMP100,SQL,Technical,Intermediate,Yes
+EMP100,Java,Soft Skill,Expert,No
+EMP100,Power BI,Technical,Intermediate,No

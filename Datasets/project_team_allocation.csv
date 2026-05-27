@@ -1,0 +1,207 @@
+allocation_id,project_id,employee_id,employee_name,employee_designation,department,project_manager_id,project_manager_name,reporting_manager_id,reporting_manager_name,team_id,team_size,role_on_project,allocation_start_date,allocation_end_date,allocation_percentage,utilization_percentage,billable_rate,billable_status,cost_to_company,work_mode,employee_status
+ALC0001,PRJ001,EMP008,Balveer Bains,Lead,AI Native Application Development,EMP004,Darpan Borra,EMP073,Timothy Nori,TEAM004,7,Consultant,03-05-2026,30-10-2026,88,52,11147,Billable,1379178,Onsite,Exited
+ALC0002,PRJ001,EMP066,Harita Doshi,QA Engineer,BI & AI Strategies,EMP004,Darpan Borra,EMP031,Advika Ravi,TEAM005,7,Lead,02-02-2026,14-08-2026,58,92,11575,Non-Billable,1458869,Hybrid,Active
+ALC0003,PRJ001,EMP011,Logan Trivedi,Lead,AI Native Application Development,EMP004,Darpan Borra,EMP010,Kashish Kant,TEAM009,7,Analyst,06-02-2026,11-04-2026,82,66,3170,Non-Billable,2347306,Remote,Active
+ALC0004,PRJ001,EMP024,Ishita Shankar,Consultant,Next Gen Application Development,EMP004,Darpan Borra,EMP057,Lakshmi Raj,TEAM009,7,QA,09-03-2026,13-11-2026,89,91,9666,Billable,1900610,Onsite,Exited
+ALC0005,PRJ001,EMP009,Madhav Agate,QA Engineer,BI & AI Strategies,EMP004,Darpan Borra,EMP015,Eshana Choudhury,TEAM002,7,Consultant,03-09-2025,25-12-2025,59,67,5616,Billable,2004941,Hybrid,Active
+ALC0006,PRJ001,EMP077,Wakeeta Dayal,Analyst,Client Success,EMP004,Darpan Borra,EMP033,Nidhi Sinha,TEAM001,7,Developer,12-02-2026,26-08-2026,90,77,14588,Non-Billable,592456,Remote,Exited
+ALC0007,PRJ001,EMP087,Omya Issac,Consultant,Next Gen Application Development,EMP004,Darpan Borra,EMP095,Shaurya Mann,TEAM008,7,Consultant,04-03-2026,08-07-2026,95,77,10189,Billable,734616,Remote,Active
+ALC0008,PRJ002,EMP005,Vinaya Dyal,Developer,BI & AI Strategies,EMP004,Darpan Borra,EMP100,Harita Mani,TEAM009,13,Lead,28-06-2025,01-01-2026,89,97,3532,Billable,2313209,Remote,Active
+ALC0009,PRJ002,EMP048,Faqid Badami,Developer,Next Gen Application Development,EMP004,Darpan Borra,EMP095,Udarsh Puri,TEAM006,13,Lead,27-10-2025,25-07-2026,92,97,14283,Billable,1059532,Remote,Active
+ALC0010,PRJ002,EMP075,Indrajit Pradhan,Developer,Client Success,EMP004,Darpan Borra,EMP029,Maanas Agate,TEAM004,13,Lead,10-03-2026,20-11-2026,72,69,14443,Billable,967504,Remote,Active
+ALC0011,PRJ002,EMP071,Ira Khosla,Consultant,BI & AI Strategies,EMP004,Darpan Borra,EMP009,Abha Balan,TEAM005,13,QA,12-11-2025,03-08-2026,91,82,7548,Non-Billable,2469723,Remote,Active
+ALC0012,PRJ002,EMP019,Eta Narang,QA Engineer,BI & AI Strategies,EMP004,Darpan Borra,EMP005,Elijah Gill,TEAM002,13,Consultant,07-01-2026,19-07-2026,77,72,12936,Non-Billable,1415184,Onsite,Active
+ALC0013,PRJ002,EMP056,Widisha Lad,Analyst,Next Gen Application Development,EMP004,Darpan Borra,EMP033,Victor Narain,TEAM001,13,Lead,25-01-2026,09-10-2026,50,83,14213,Billable,1263827,Hybrid,Active
+ALC0014,PRJ002,EMP017,Ishani Dhar,Analyst,BI & AI Strategies,EMP004,Darpan Borra,EMP085,Anamika Raval,TEAM002,13,QA,18-04-2026,03-12-2026,82,69,11926,Non-Billable,1184055,Hybrid,Exited
+ALC0015,PRJ002,EMP006,Jagdish Mahal,QA Engineer,Next Gen Application Development,EMP004,Darpan Borra,EMP054,Manan Gupta,TEAM007,13,Analyst,03-01-2026,12-12-2026,89,86,5930,Non-Billable,1649107,Remote,Exited
+ALC0016,PRJ002,EMP040,Zilmil Ganesan,QA Engineer,Client Success,EMP004,Darpan Borra,EMP075,Harshil Kant,TEAM010,13,QA,23-11-2025,17-06-2026,79,78,8244,Billable,1572009,Hybrid,Active
+ALC0017,PRJ002,EMP047,Gautam Dhar,Consultant,BI & AI Strategies,EMP004,Darpan Borra,EMP012,Saumya Aurora,TEAM004,13,QA,10-06-2025,21-09-2025,64,62,3414,Billable,596917,Remote,Exited
+ALC0018,PRJ002,EMP046,Xiti Baral,Lead,Client Success,EMP004,Darpan Borra,EMP081,Chavvi Barman,TEAM010,13,Analyst,21-11-2025,26-02-2026,95,94,7291,Non-Billable,1338132,Remote,Active
+ALC0019,PRJ002,EMP027,Kala Maharaj,Developer,Client Success,EMP004,Darpan Borra,EMP029,Harinakshi Vohra,TEAM003,13,Consultant,22-11-2025,23-01-2026,79,53,10132,Billable,2424074,Remote,Exited
+ALC0020,PRJ002,EMP088,Qabil Rege,Lead,BI & AI Strategies,EMP004,Darpan Borra,EMP097,Mugdha Kohli,TEAM008,13,Consultant,23-07-2025,28-11-2025,96,82,7991,Non-Billable,2381581,Remote,Exited
+ALC0021,PRJ003,EMP034,Indrajit Shan,Consultant,Next Gen Application Development,EMP044,Aradhana Shenoy,EMP035,Daniel Ratti,TEAM006,12,QA,11-05-2026,18-08-2026,84,55,3267,Billable,984990,Hybrid,Active
+ALC0022,PRJ003,EMP097,Panini Sandhu,Developer,Client Success,EMP044,Aradhana Shenoy,EMP053,Chaitanya Wadhwa,TEAM006,12,Consultant,27-12-2025,14-06-2026,79,76,2020,Billable,2246699,Hybrid,Exited
+ALC0023,PRJ003,EMP032,Wakeeta Deshpande,Developer,Client Success,EMP044,Aradhana Shenoy,EMP062,Janya Som,TEAM001,12,QA,18-10-2025,12-10-2026,69,98,7389,Non-Billable,1628730,Onsite,Active
+ALC0024,PRJ003,EMP082,Agastya Gill,QA Engineer,BI & AI Strategies,EMP044,Aradhana Shenoy,EMP056,Pallavi Merchant,TEAM008,12,Developer,15-04-2026,18-02-2027,74,71,11958,Non-Billable,2018718,Remote,Exited
+ALC0025,PRJ003,EMP036,Abhimanyu Contractor,Analyst,AI Native Application Development,EMP044,Aradhana Shenoy,EMP051,Yashvi Dhar,TEAM010,12,Consultant,30-11-2025,04-04-2026,92,51,2375,Non-Billable,784582,Hybrid,Active
+ALC0026,PRJ003,EMP099,Praneel Sule,Consultant,Client Success,EMP044,Aradhana Shenoy,EMP042,Zarna Bir,TEAM004,12,Lead,17-07-2025,10-10-2025,70,71,13471,Non-Billable,1083546,Hybrid,Exited
+ALC0027,PRJ003,EMP100,Ethan Wali,Lead,AI Native Application Development,EMP044,Aradhana Shenoy,EMP096,Hemal Setty,TEAM009,12,Developer,09-08-2025,18-11-2025,72,64,11651,Billable,2138364,Onsite,Active
+ALC0028,PRJ003,EMP067,Vivaan Gandhi,QA Engineer,Next Gen Application Development,EMP044,Aradhana Shenoy,EMP003,Janya Handa,TEAM010,12,Analyst,01-02-2026,17-04-2026,65,58,8758,Billable,1682729,Remote,Exited
+ALC0029,PRJ003,EMP063,Bhavini Seth,Consultant,Next Gen Application Development,EMP044,Aradhana Shenoy,EMP078,Logan Bhandari,TEAM010,12,Developer,05-02-2026,15-08-2026,99,60,6096,Billable,1713589,Remote,Exited
+ALC0030,PRJ003,EMP081,Suhani Parmer,Lead,Client Success,EMP044,Aradhana Shenoy,EMP092,Vasudha Ranganathan,TEAM004,12,Developer,11-01-2026,31-12-2026,87,94,14608,Billable,713702,Onsite,Exited
+ALC0031,PRJ003,EMP031,Aryan Gokhale,Analyst,AI Native Application Development,EMP044,Aradhana Shenoy,EMP045,Anamika Mallick,TEAM009,12,Lead,30-12-2025,30-04-2026,92,73,2129,Non-Billable,526533,Hybrid,Exited
+ALC0032,PRJ003,EMP057,Tristan Korpal,Lead,BI & AI Strategies,EMP044,Aradhana Shenoy,EMP082,Odika Chaudhry,TEAM008,12,Analyst,29-08-2025,21-12-2025,77,61,13022,Non-Billable,1791661,Onsite,Exited
+ALC0033,PRJ004,EMP056,Widisha Lad,Consultant,AI Native Application Development,EMP094,Ekaja Sawhney,EMP064,Widisha Bahl,TEAM006,12,Analyst,24-04-2026,03-01-2027,81,63,6813,Non-Billable,1213742,Hybrid,Exited
+ALC0034,PRJ004,EMP094,Ekaja Sawhney,Developer,Next Gen Application Development,EMP094,Ekaja Sawhney,EMP011,Falan Krish,TEAM004,12,Lead,05-07-2025,14-06-2026,81,85,13421,Billable,1948312,Hybrid,Exited
+ALC0035,PRJ004,EMP076,Qadim Mander,Developer,AI Native Application Development,EMP094,Ekaja Sawhney,EMP038,Gaurang Sha,TEAM004,12,Lead,07-02-2026,23-11-2026,94,65,6016,Non-Billable,1492499,Onsite,Exited
+ALC0036,PRJ004,EMP035,Nidhi Ray,Analyst,BI & AI Strategies,EMP094,Ekaja Sawhney,EMP046,Oni Nayak,TEAM008,12,QA,02-06-2025,06-03-2026,69,66,4777,Billable,2012642,Remote,Exited
+ALC0037,PRJ004,EMP042,Amruta Mall,Analyst,Next Gen Application Development,EMP094,Ekaja Sawhney,EMP025,Ishita Majumdar,TEAM004,12,Lead,15-01-2026,16-05-2026,67,96,10659,Non-Billable,710818,Remote,Exited
+ALC0038,PRJ004,EMP032,Wakeeta Deshpande,Consultant,Next Gen Application Development,EMP094,Ekaja Sawhney,EMP039,Agastya Som,TEAM001,12,Consultant,09-06-2025,02-12-2025,58,67,1745,Billable,1660477,Hybrid,Active
+ALC0039,PRJ004,EMP012,Nimrat Sarraf,Developer,AI Native Application Development,EMP094,Ekaja Sawhney,EMP074,Bishakha Khare,TEAM005,12,Lead,19-12-2025,26-10-2026,80,78,6582,Billable,607744,Hybrid,Exited
+ALC0040,PRJ004,EMP036,Abhimanyu Contractor,Developer,Client Success,EMP094,Ekaja Sawhney,EMP063,Vanya Arya,TEAM002,12,Consultant,30-03-2026,26-07-2026,90,93,1878,Billable,812890,Onsite,Exited
+ALC0041,PRJ004,EMP058,Lakshmi Sangha,QA Engineer,AI Native Application Development,EMP094,Ekaja Sawhney,EMP072,Rayaan Minhas,TEAM007,12,Consultant,18-06-2025,29-09-2025,88,100,11132,Billable,2126747,Onsite,Exited
+ALC0042,PRJ004,EMP097,Panini Sandhu,Lead,BI & AI Strategies,EMP094,Ekaja Sawhney,EMP076,Rehaan Sane,TEAM007,12,QA,10-06-2025,27-03-2026,86,89,1986,Billable,2487240,Remote,Active
+ALC0043,PRJ004,EMP060,Ishanvi Choudhry,Developer,Next Gen Application Development,EMP094,Ekaja Sawhney,EMP031,Bachittar Gera,TEAM003,12,Consultant,04-04-2026,16-10-2026,54,60,1043,Non-Billable,1444774,Onsite,Exited
+ALC0044,PRJ004,EMP073,Rachana Rajan,Developer,Next Gen Application Development,EMP094,Ekaja Sawhney,EMP037,Harita Dash,TEAM005,12,Lead,09-11-2025,06-06-2026,54,93,4824,Non-Billable,2152195,Onsite,Active
+ALC0045,PRJ005,EMP015,Kalpit Mutti,Analyst,BI & AI Strategies,EMP099,Praneel Sule,EMP057,Kritika Sampath,TEAM002,11,Lead,23-06-2025,22-06-2026,94,69,12464,Non-Billable,2476935,Hybrid,Exited
+ALC0046,PRJ005,EMP070,Indali Chawla,Developer,AI Native Application Development,EMP099,Praneel Sule,EMP056,Aryan Sachdev,TEAM006,11,Consultant,19-07-2025,29-04-2026,66,51,2496,Billable,1914106,Onsite,Active
+ALC0047,PRJ005,EMP029,Alexander Chadha,Analyst,AI Native Application Development,EMP099,Praneel Sule,EMP098,Laksh Dewan,TEAM003,11,Lead,22-03-2026,05-10-2026,83,91,8245,Non-Billable,880610,Onsite,Exited
+ALC0048,PRJ005,EMP083,Siddharth Banerjee,Developer,Client Success,EMP099,Praneel Sule,EMP045,Gayathri Nazareth,TEAM007,11,QA,12-04-2026,17-02-2027,70,92,2713,Billable,1191648,Hybrid,Exited
+ALC0049,PRJ005,EMP020,Qabil Chaudhry,Lead,AI Native Application Development,EMP099,Praneel Sule,EMP059,Gunbir Dora,TEAM002,11,QA,13-05-2026,06-12-2026,66,70,2899,Non-Billable,2313848,Onsite,Active
+ALC0050,PRJ005,EMP035,Nidhi Ray,Lead,Client Success,EMP099,Praneel Sule,EMP007,Henry Dutta,TEAM004,11,Consultant,19-08-2025,22-07-2026,73,89,13393,Non-Billable,1811577,Hybrid,Active
+ALC0051,PRJ005,EMP019,Eta Narang,Consultant,Next Gen Application Development,EMP099,Praneel Sule,EMP037,Yochana Thakkar,TEAM008,11,Lead,05-03-2026,16-08-2026,57,51,11322,Billable,1988522,Remote,Exited
+ALC0052,PRJ005,EMP010,Patrick Mani,Developer,Client Success,EMP099,Praneel Sule,EMP012,Arin Doctor,TEAM004,11,Developer,03-11-2025,11-10-2026,79,57,11612,Billable,1545169,Onsite,Exited
+ALC0053,PRJ005,EMP008,Balveer Bains,Consultant,Client Success,EMP099,Praneel Sule,EMP062,Shravya Sabharwal,TEAM008,11,Analyst,07-07-2025,23-05-2026,79,85,3369,Non-Billable,899738,Onsite,Active
+ALC0054,PRJ005,EMP022,Ekavir Barman,Consultant,Client Success,EMP099,Praneel Sule,EMP044,Tanish Hayre,TEAM009,11,QA,27-04-2026,31-07-2026,50,68,12895,Non-Billable,2256314,Onsite,Exited
+ALC0055,PRJ005,EMP040,Zilmil Ganesan,Lead,Client Success,EMP099,Praneel Sule,EMP045,Varenya Sagar,TEAM006,11,Consultant,04-11-2025,20-03-2026,98,84,7180,Non-Billable,2456332,Hybrid,Active
+ALC0056,PRJ006,EMP074,Yuvraj Bora,Lead,Client Success,EMP090,Mohini Aurora,EMP085,Chakradev Bhargava,TEAM003,8,Lead,15-01-2026,13-11-2026,52,58,9229,Non-Billable,2323893,Remote,Exited
+ALC0057,PRJ006,EMP050,Ishwar Taneja,Analyst,Client Success,EMP090,Mohini Aurora,EMP002,Saumya Vyas,TEAM003,8,Lead,19-08-2025,08-12-2025,91,59,2225,Non-Billable,2138977,Hybrid,Exited
+ALC0058,PRJ006,EMP030,Dakshesh Kala,Developer,BI & AI Strategies,EMP090,Mohini Aurora,EMP087,Farhan Gopal,TEAM009,8,Lead,31-07-2025,20-04-2026,70,90,12775,Non-Billable,2329519,Onsite,Active
+ALC0059,PRJ006,EMP100,Ethan Wali,QA Engineer,BI & AI Strategies,EMP090,Mohini Aurora,EMP030,Nisha Parikh,TEAM002,8,Lead,04-04-2026,08-07-2026,56,98,11383,Billable,1430461,Remote,Exited
+ALC0060,PRJ006,EMP053,Ekaraj Pandya,Developer,BI & AI Strategies,EMP090,Mohini Aurora,EMP008,Vedika Palla,TEAM005,8,QA,23-01-2026,07-04-2026,73,77,3385,Billable,1613936,Hybrid,Active
+ALC0061,PRJ006,EMP006,Jagdish Mahal,QA Engineer,AI Native Application Development,EMP090,Mohini Aurora,EMP079,Dayamai Ramakrishnan,TEAM007,8,Consultant,02-09-2025,27-01-2026,93,65,9153,Billable,986934,Hybrid,Exited
+ALC0062,PRJ006,EMP041,Chatura Oza,Consultant,AI Native Application Development,EMP090,Mohini Aurora,EMP060,Yug Varty,TEAM005,8,Consultant,28-01-2026,19-11-2026,60,54,8237,Non-Billable,1732227,Hybrid,Exited
+ALC0063,PRJ006,EMP096,Tara Bhargava,Lead,BI & AI Strategies,EMP090,Mohini Aurora,EMP026,Chaaya Minhas,TEAM007,8,Lead,08-11-2025,15-05-2026,56,65,7248,Non-Billable,1705467,Hybrid,Exited
+ALC0064,PRJ007,EMP085,Zansi Dewan,Analyst,Client Success,EMP041,Chatura Oza,EMP037,Neha Kakar,TEAM004,5,Consultant,15-03-2026,08-06-2026,72,64,11430,Billable,1802103,Hybrid,Active
+ALC0065,PRJ007,EMP051,Gaurika Sami,Developer,BI & AI Strategies,EMP041,Chatura Oza,EMP057,Hemal Dalal,TEAM001,5,Consultant,26-11-2025,15-03-2026,73,96,3153,Billable,2407627,Hybrid,Exited
+ALC0066,PRJ007,EMP036,Abhimanyu Contractor,QA Engineer,Next Gen Application Development,EMP041,Chatura Oza,EMP017,Megha Pradhan,TEAM009,5,QA,17-07-2025,15-04-2026,83,82,5465,Billable,1038905,Hybrid,Exited
+ALC0067,PRJ007,EMP002,Kalpit Deol,Developer,Client Success,EMP041,Chatura Oza,EMP010,Sanaya Nadkarni,TEAM003,5,Analyst,17-02-2026,08-10-2026,93,96,12049,Non-Billable,2273654,Onsite,Exited
+ALC0068,PRJ007,EMP073,Rachana Rajan,Lead,AI Native Application Development,EMP041,Chatura Oza,EMP034,Yadavi Mukhopadhyay,TEAM009,5,Developer,12-08-2025,26-11-2025,79,73,12023,Non-Billable,1725911,Hybrid,Exited
+ALC0069,PRJ008,EMP087,Omya Issac,Analyst,Next Gen Application Development,EMP018,Jeet Ranganathan,EMP083,Chanchal Lanka,TEAM002,6,Lead,13-11-2025,28-06-2026,94,69,11637,Non-Billable,744687,Remote,Active
+ALC0070,PRJ008,EMP030,Dakshesh Kala,Consultant,Client Success,EMP018,Jeet Ranganathan,EMP015,Pahal Nair,TEAM002,6,Analyst,01-12-2025,18-02-2026,84,58,7367,Non-Billable,1278067,Onsite,Exited
+ALC0071,PRJ008,EMP061,Yashodhara Chadha,QA Engineer,Client Success,EMP018,Jeet Ranganathan,EMP084,Fitan Sankaran,TEAM002,6,Lead,06-04-2026,01-04-2027,89,76,5583,Billable,1947623,Hybrid,Active
+ALC0072,PRJ008,EMP004,Darpan Borra,Lead,Next Gen Application Development,EMP018,Jeet Ranganathan,EMP047,Keya Grewal,TEAM002,6,QA,12-07-2025,25-04-2026,84,91,6876,Billable,1334959,Hybrid,Active
+ALC0073,PRJ008,EMP080,Anay Soman,Lead,AI Native Application Development,EMP018,Jeet Ranganathan,EMP085,Arjun Manne,TEAM004,6,Consultant,03-05-2026,02-09-2026,51,53,13890,Non-Billable,1010800,Remote,Active
+ALC0074,PRJ008,EMP072,Triveni Comar,Analyst,Next Gen Application Development,EMP018,Jeet Ranganathan,EMP076,Ishani Sem,TEAM004,6,Analyst,04-11-2025,07-02-2026,71,99,3417,Billable,1081487,Remote,Active
+ALC0075,PRJ009,EMP033,Yashodhara Mane,QA Engineer,Client Success,EMP015,Kalpit Mutti,EMP068,Leela Gulati,TEAM002,13,Developer,11-08-2025,05-11-2025,80,78,13747,Non-Billable,1576338,Onsite,Active
+ALC0076,PRJ009,EMP023,Dev Agrawal,Analyst,Next Gen Application Development,EMP015,Kalpit Mutti,EMP079,Chakrika Pathak,TEAM001,13,Consultant,19-12-2025,06-10-2026,69,79,11540,Billable,627560,Hybrid,Exited
+ALC0077,PRJ009,EMP015,Kalpit Mutti,Developer,Client Success,EMP015,Kalpit Mutti,EMP092,Praneel Bhakta,TEAM008,13,Developer,01-12-2025,05-09-2026,55,70,10966,Billable,637745,Remote,Exited
+ALC0078,PRJ009,EMP085,Zansi Dewan,Analyst,BI & AI Strategies,EMP015,Kalpit Mutti,EMP049,Yashoda Mutti,TEAM010,13,Consultant,21-02-2026,15-02-2027,68,79,9282,Non-Billable,707992,Onsite,Active
+ALC0079,PRJ009,EMP004,Darpan Borra,QA Engineer,Client Success,EMP015,Kalpit Mutti,EMP058,Baljiwan Bir,TEAM004,13,Lead,11-02-2026,19-01-2027,71,79,7532,Non-Billable,2030108,Remote,Exited
+ALC0080,PRJ009,EMP017,Ishani Dhar,Consultant,BI & AI Strategies,EMP015,Kalpit Mutti,EMP048,Lakshit Varughese,TEAM003,13,Lead,25-05-2025,27-02-2026,54,55,14627,Billable,695517,Hybrid,Active
+ALC0081,PRJ009,EMP002,Kalpit Deol,QA Engineer,AI Native Application Development,EMP015,Kalpit Mutti,EMP076,Waida Datta,TEAM009,13,Consultant,10-05-2026,15-01-2027,71,92,3002,Non-Billable,1241548,Onsite,Exited
+ALC0082,PRJ009,EMP046,Xiti Baral,Consultant,BI & AI Strategies,EMP015,Kalpit Mutti,EMP046,Michael Doctor,TEAM002,13,Consultant,05-12-2025,01-03-2026,82,63,3535,Non-Billable,970275,Remote,Exited
+ALC0083,PRJ009,EMP031,Aryan Gokhale,Consultant,AI Native Application Development,EMP015,Kalpit Mutti,EMP098,Yoshita Khatri,TEAM005,13,Consultant,07-11-2025,17-10-2026,64,77,14847,Billable,1777154,Onsite,Exited
+ALC0084,PRJ009,EMP076,Qadim Mander,QA Engineer,BI & AI Strategies,EMP015,Kalpit Mutti,EMP090,Harrison Sant,TEAM005,13,QA,09-03-2026,22-05-2026,72,50,3972,Billable,1687661,Onsite,Exited
+ALC0085,PRJ009,EMP042,Amruta Mall,QA Engineer,AI Native Application Development,EMP015,Kalpit Mutti,EMP012,Damini Chokshi,TEAM009,13,Analyst,26-09-2025,30-12-2025,74,76,8432,Non-Billable,830111,Hybrid,Exited
+ALC0086,PRJ009,EMP003,Naveen Dugar,Analyst,AI Native Application Development,EMP015,Kalpit Mutti,EMP007,Fariq Sem,TEAM003,13,Analyst,04-04-2026,16-11-2026,98,89,1815,Billable,1070641,Hybrid,Exited
+ALC0087,PRJ009,EMP034,Indrajit Shan,Analyst,Client Success,EMP015,Kalpit Mutti,EMP054,Kashish Shah,TEAM005,13,Analyst,10-10-2025,14-08-2026,98,82,2864,Non-Billable,1401594,Remote,Exited
+ALC0088,PRJ010,EMP087,Omya Issac,Consultant,BI & AI Strategies,EMP002,Kalpit Deol,EMP042,Naksh Venkatesh,TEAM002,15,Developer,13-04-2026,21-08-2026,81,97,8055,Billable,770922,Hybrid,Active
+ALC0089,PRJ010,EMP076,Qadim Mander,Analyst,BI & AI Strategies,EMP002,Kalpit Deol,EMP010,Ayush Naidu,TEAM007,15,Developer,28-12-2025,09-11-2026,77,51,8532,Billable,2307975,Hybrid,Exited
+ALC0090,PRJ010,EMP063,Bhavini Seth,Lead,Client Success,EMP002,Kalpit Deol,EMP038,Eta Pai,TEAM002,15,Lead,02-07-2025,20-06-2026,51,70,3815,Non-Billable,2244884,Onsite,Exited
+ALC0091,PRJ010,EMP068,Ijaya Bedi,Lead,AI Native Application Development,EMP002,Kalpit Deol,EMP032,Indrajit Nanda,TEAM007,15,Consultant,21-04-2026,04-08-2026,75,83,2288,Non-Billable,2325622,Hybrid,Exited
+ALC0092,PRJ010,EMP086,Shivansh Sachdev,Consultant,Next Gen Application Development,EMP002,Kalpit Deol,EMP010,Harini Loyal,TEAM009,15,Developer,17-04-2026,07-10-2026,83,82,4176,Non-Billable,1236309,Onsite,Active
+ALC0093,PRJ010,EMP040,Zilmil Ganesan,Developer,Next Gen Application Development,EMP002,Kalpit Deol,EMP033,Sai Chowdhury,TEAM004,15,Analyst,03-07-2025,30-12-2025,88,59,13455,Billable,871502,Onsite,Exited
+ALC0094,PRJ010,EMP006,Jagdish Mahal,Analyst,Client Success,EMP002,Kalpit Deol,EMP088,Vasatika Nazareth,TEAM010,15,Consultant,09-05-2026,02-03-2027,70,90,6179,Billable,1422249,Remote,Exited
+ALC0095,PRJ010,EMP029,Alexander Chadha,Consultant,BI & AI Strategies,EMP002,Kalpit Deol,EMP076,Lavanya Khare,TEAM001,15,QA,14-02-2026,27-11-2026,82,54,6085,Non-Billable,1447732,Remote,Active
+ALC0096,PRJ010,EMP051,Gaurika Sami,Consultant,AI Native Application Development,EMP002,Kalpit Deol,EMP083,Aadhya Bhatti,TEAM002,15,Consultant,13-04-2026,17-12-2026,88,82,7299,Non-Billable,1717038,Onsite,Active
+ALC0097,PRJ010,EMP077,Wakeeta Dayal,Analyst,Next Gen Application Development,EMP002,Kalpit Deol,EMP042,Jagdish Walia,TEAM010,15,Lead,06-07-2025,22-04-2026,82,59,2013,Non-Billable,717059,Hybrid,Active
+ALC0098,PRJ010,EMP008,Balveer Bains,QA Engineer,AI Native Application Development,EMP002,Kalpit Deol,EMP032,Zilmil Chanda,TEAM008,15,Lead,22-01-2026,06-12-2026,83,83,10991,Billable,1263149,Hybrid,Exited
+ALC0099,PRJ010,EMP001,Adweta Solanki,Lead,BI & AI Strategies,EMP002,Kalpit Deol,EMP087,Udant Chandran,TEAM010,15,Developer,18-10-2025,03-07-2026,100,90,11605,Non-Billable,638227,Hybrid,Active
+ALC0100,PRJ010,EMP027,Kala Maharaj,Lead,BI & AI Strategies,EMP002,Kalpit Deol,EMP033,Aryan Prasad,TEAM010,15,Analyst,28-06-2025,08-06-2026,71,55,10547,Billable,2422556,Hybrid,Exited
+ALC0101,PRJ010,EMP039,Ayaan Johal,QA Engineer,AI Native Application Development,EMP002,Kalpit Deol,EMP040,Xalak Vala,TEAM009,15,Lead,12-03-2026,27-11-2026,91,100,6381,Billable,1905335,Onsite,Active
+ALC0102,PRJ010,EMP028,Reva Chacko,Analyst,BI & AI Strategies,EMP002,Kalpit Deol,EMP003,Daksh Comar,TEAM006,15,QA,11-05-2026,11-02-2027,61,63,6598,Non-Billable,902664,Remote,Active
+ALC0103,PRJ011,EMP010,Patrick Mani,Developer,BI & AI Strategies,EMP098,Kashish Raj,EMP099,Kamya Mann,TEAM010,7,Analyst,09-12-2025,03-11-2026,88,74,3527,Billable,879261,Onsite,Active
+ALC0104,PRJ011,EMP038,Thomas Dada,Developer,Client Success,EMP098,Kashish Raj,EMP047,Janani Ganesh,TEAM004,7,Lead,10-02-2026,21-11-2026,89,68,13327,Non-Billable,990739,Onsite,Active
+ALC0105,PRJ011,EMP013,Chanakya Chana,Lead,Next Gen Application Development,EMP098,Kashish Raj,EMP048,Pratyush Saran,TEAM010,7,Lead,31-08-2025,06-04-2026,79,99,5616,Non-Billable,1554671,Onsite,Exited
+ALC0106,PRJ011,EMP065,Amara Parikh,QA Engineer,Next Gen Application Development,EMP098,Kashish Raj,EMP033,Akshay Sekhon,TEAM001,7,Lead,11-08-2025,31-12-2025,73,85,2680,Billable,1097820,Remote,Active
+ALC0107,PRJ011,EMP099,Praneel Sule,Lead,Next Gen Application Development,EMP098,Kashish Raj,EMP056,Vedant Seshadri,TEAM002,7,Analyst,15-12-2025,02-07-2026,78,72,1436,Non-Billable,611687,Hybrid,Exited
+ALC0108,PRJ011,EMP070,Indali Chawla,Lead,AI Native Application Development,EMP098,Kashish Raj,EMP048,Ekapad Khatri,TEAM004,7,Developer,08-07-2025,04-01-2026,70,56,14749,Non-Billable,2159645,Remote,Active
+ALC0109,PRJ011,EMP095,Hemal Lata,Consultant,Client Success,EMP098,Kashish Raj,EMP090,Rishi Ganesan,TEAM003,7,Lead,09-03-2026,27-05-2026,78,89,1086,Billable,539854,Hybrid,Active
+ALC0110,PRJ012,EMP071,Ira Khosla,QA Engineer,BI & AI Strategies,EMP001,Adweta Solanki,EMP016,Ekapad Muni,TEAM001,7,Analyst,26-08-2025,21-03-2026,76,90,14007,Non-Billable,631716,Remote,Exited
+ALC0111,PRJ012,EMP094,Ekaja Sawhney,Analyst,AI Native Application Development,EMP001,Adweta Solanki,EMP081,Kalpit Panchal,TEAM009,7,Consultant,06-08-2025,06-08-2026,65,95,3352,Non-Billable,1400179,Remote,Exited
+ALC0112,PRJ012,EMP078,Ekanta Apte,Analyst,Client Success,EMP001,Adweta Solanki,EMP024,Tamanna Singh,TEAM002,7,Consultant,15-03-2026,14-09-2026,73,54,9618,Billable,1318840,Hybrid,Active
+ALC0113,PRJ012,EMP068,Ijaya Bedi,Consultant,BI & AI Strategies,EMP001,Adweta Solanki,EMP096,Nimrat Doshi,TEAM001,7,QA,18-02-2026,03-11-2026,100,54,6649,Billable,2037088,Onsite,Active
+ALC0114,PRJ012,EMP055,Azad Nadkarni,Consultant,Next Gen Application Development,EMP001,Adweta Solanki,EMP006,Avni Dayal,TEAM006,7,Consultant,20-07-2025,12-07-2026,71,91,3868,Non-Billable,1958336,Hybrid,Active
+ALC0115,PRJ012,EMP015,Kalpit Mutti,Developer,Client Success,EMP001,Adweta Solanki,EMP005,Rachita Prabhakar,TEAM005,7,Analyst,20-11-2025,29-03-2026,52,100,4268,Billable,1161852,Hybrid,Exited
+ALC0116,PRJ012,EMP100,Ethan Wali,Lead,BI & AI Strategies,EMP001,Adweta Solanki,EMP005,Rohan Bhargava,TEAM004,7,QA,14-07-2025,17-06-2026,72,99,1783,Non-Billable,1072976,Remote,Exited
+ALC0117,PRJ013,EMP052,Ekalinga Ravi,Lead,AI Native Application Development,EMP099,Praneel Sule,EMP056,Girish Puri,TEAM010,11,Analyst,07-10-2025,17-01-2026,84,68,6262,Billable,667916,Hybrid,Exited
+ALC0118,PRJ013,EMP096,Tara Bhargava,Lead,Client Success,EMP099,Praneel Sule,EMP022,Azaan Chaudhuri,TEAM008,11,QA,06-08-2025,10-03-2026,78,52,12908,Non-Billable,1789437,Hybrid,Exited
+ALC0119,PRJ013,EMP057,Tristan Korpal,Developer,Client Success,EMP099,Praneel Sule,EMP047,Ekaja Nanda,TEAM009,11,Analyst,14-07-2025,11-10-2025,51,59,14904,Non-Billable,572978,Remote,Active
+ALC0120,PRJ013,EMP050,Ishwar Taneja,Consultant,BI & AI Strategies,EMP099,Praneel Sule,EMP050,Nitesh Sarin,TEAM010,11,Developer,01-12-2025,30-05-2026,88,59,12125,Non-Billable,2489827,Hybrid,Exited
+ALC0121,PRJ013,EMP044,Aradhana Shenoy,Developer,Next Gen Application Development,EMP099,Praneel Sule,EMP068,Gayathri Swaminathan,TEAM006,11,Lead,04-09-2025,18-06-2026,70,91,5566,Billable,737918,Remote,Active
+ALC0122,PRJ013,EMP024,Ishita Shankar,Analyst,Client Success,EMP099,Praneel Sule,EMP072,Balveer Ratti,TEAM002,11,QA,29-12-2025,09-11-2026,99,66,12534,Non-Billable,949986,Onsite,Exited
+ALC0123,PRJ013,EMP064,Reva Jayaraman,QA Engineer,AI Native Application Development,EMP099,Praneel Sule,EMP018,Abeer Cherian,TEAM002,11,Lead,28-05-2025,04-04-2026,61,95,8292,Billable,2199769,Onsite,Exited
+ALC0124,PRJ013,EMP089,Alexander Singhal,Developer,BI & AI Strategies,EMP099,Praneel Sule,EMP039,Abeer Handa,TEAM003,11,Analyst,28-11-2025,23-07-2026,100,73,9335,Billable,754515,Remote,Active
+ALC0125,PRJ013,EMP048,Faqid Badami,Lead,AI Native Application Development,EMP099,Praneel Sule,EMP047,Ekantika Vyas,TEAM009,11,Consultant,25-02-2026,25-08-2026,73,79,14167,Billable,1783348,Remote,Active
+ALC0126,PRJ013,EMP067,Vivaan Gandhi,Lead,Client Success,EMP099,Praneel Sule,EMP068,Ojasvi Narasimhan,TEAM007,11,Lead,22-07-2025,25-02-2026,86,54,3053,Non-Billable,1847081,Remote,Exited
+ALC0127,PRJ013,EMP035,Nidhi Ray,Analyst,BI & AI Strategies,EMP099,Praneel Sule,EMP017,Bahadurjit Mohan,TEAM009,11,Consultant,30-01-2026,24-11-2026,61,99,3114,Non-Billable,1554581,Remote,Active
+ALC0128,PRJ014,EMP020,Qabil Chaudhry,Consultant,Next Gen Application Development,EMP092,Ekani Buch,EMP081,Amaira More,TEAM005,13,Consultant,18-08-2025,26-07-2026,84,55,9234,Billable,1741112,Onsite,Active
+ALC0129,PRJ014,EMP039,Ayaan Johal,Analyst,BI & AI Strategies,EMP092,Ekani Buch,EMP073,Abhiram Maharaj,TEAM001,13,Developer,11-12-2025,07-05-2026,55,52,11509,Non-Billable,1865518,Remote,Exited
+ALC0130,PRJ014,EMP022,Ekavir Barman,Lead,BI & AI Strategies,EMP092,Ekani Buch,EMP083,Neelima Rout,TEAM005,13,Lead,18-01-2026,03-04-2026,65,93,7653,Non-Billable,1451150,Remote,Active
+ALC0131,PRJ014,EMP021,Saanvi Garde,Lead,Client Success,EMP092,Ekani Buch,EMP062,Abhimanyu Cheema,TEAM008,13,Analyst,27-11-2025,16-04-2026,71,88,3353,Non-Billable,2306665,Onsite,Exited
+ALC0132,PRJ014,EMP042,Amruta Mall,Lead,Next Gen Application Development,EMP092,Ekani Buch,EMP098,Kevin Kalla,TEAM006,13,Consultant,11-12-2025,04-08-2026,85,56,6228,Billable,1478263,Remote,Exited
+ALC0133,PRJ014,EMP091,Ubika Sachdev,QA Engineer,Next Gen Application Development,EMP092,Ekani Buch,EMP013,Xiti Raghavan,TEAM001,13,QA,09-07-2025,25-04-2026,74,89,7850,Billable,2314681,Remote,Exited
+ALC0134,PRJ014,EMP029,Alexander Chadha,Consultant,Next Gen Application Development,EMP092,Ekani Buch,EMP098,Chanakya Som,TEAM003,13,Lead,06-05-2026,26-04-2027,82,79,9171,Non-Billable,1543061,Remote,Active
+ALC0135,PRJ014,EMP045,Tanveer Murthy,Analyst,Client Success,EMP092,Ekani Buch,EMP031,Jeremiah Babu,TEAM004,13,Consultant,16-06-2025,04-03-2026,72,53,1828,Non-Billable,1537868,Onsite,Exited
+ALC0136,PRJ014,EMP067,Vivaan Gandhi,Analyst,AI Native Application Development,EMP092,Ekani Buch,EMP014,Faris Venkatesh,TEAM007,13,Analyst,13-07-2025,04-02-2026,66,96,6992,Non-Billable,1267426,Remote,Exited
+ALC0137,PRJ014,EMP037,Samarth Goel,Analyst,Next Gen Application Development,EMP092,Ekani Buch,EMP047,Amol Pathak,TEAM009,13,QA,04-05-2026,29-07-2026,54,74,9261,Non-Billable,2103071,Onsite,Exited
+ALC0138,PRJ014,EMP011,Logan Trivedi,QA Engineer,AI Native Application Development,EMP092,Ekani Buch,EMP051,Ikbal Swaminathan,TEAM006,13,QA,08-05-2026,05-09-2026,85,73,13369,Billable,917454,Onsite,Exited
+ALC0139,PRJ014,EMP033,Yashodhara Mane,Developer,AI Native Application Development,EMP092,Ekani Buch,EMP005,Zayan Sarin,TEAM003,13,QA,20-01-2026,02-12-2026,80,83,8487,Billable,1771420,Onsite,Active
+ALC0140,PRJ014,EMP026,Madhav Roy,Analyst,BI & AI Strategies,EMP092,Ekani Buch,EMP021,Samar Kanda,TEAM007,13,Consultant,25-12-2025,09-08-2026,97,69,10727,Non-Billable,1563916,Onsite,Exited
+ALC0141,PRJ015,EMP039,Ayaan Johal,Lead,BI & AI Strategies,EMP071,Ira Khosla,EMP084,Qarin Mohanty,TEAM010,14,Consultant,14-02-2026,14-02-2027,64,96,1841,Non-Billable,857589,Onsite,Exited
+ALC0142,PRJ015,EMP061,Yashodhara Chadha,QA Engineer,AI Native Application Development,EMP071,Ira Khosla,EMP074,David Kapoor,TEAM002,14,Analyst,15-03-2026,28-07-2026,51,78,6139,Non-Billable,817574,Hybrid,Active
+ALC0143,PRJ015,EMP003,Naveen Dugar,Analyst,Client Success,EMP071,Ira Khosla,EMP095,Manya Issac,TEAM001,14,Analyst,12-06-2025,09-03-2026,83,63,10189,Non-Billable,1888790,Hybrid,Exited
+ALC0144,PRJ015,EMP048,Faqid Badami,QA Engineer,Client Success,EMP071,Ira Khosla,EMP069,Lajita Das,TEAM006,14,Consultant,12-12-2025,20-07-2026,72,93,13648,Non-Billable,1779423,Hybrid,Active
+ALC0145,PRJ015,EMP043,Urvashi Brar,Consultant,BI & AI Strategies,EMP071,Ira Khosla,EMP029,Atharv Korpal,TEAM005,14,QA,15-01-2026,20-07-2026,95,63,12308,Non-Billable,1164882,Hybrid,Exited
+ALC0146,PRJ015,EMP087,Omya Issac,Consultant,BI & AI Strategies,EMP071,Ira Khosla,EMP016,Damyanti Hayer,TEAM010,14,Consultant,07-03-2026,16-02-2027,74,75,14408,Non-Billable,2121233,Remote,Exited
+ALC0147,PRJ015,EMP015,Kalpit Mutti,Consultant,AI Native Application Development,EMP071,Ira Khosla,EMP045,Upasna Dugar,TEAM008,14,QA,02-06-2025,22-08-2025,97,80,4505,Billable,2236340,Onsite,Exited
+ALC0148,PRJ015,EMP054,Vasatika Thaker,Consultant,Next Gen Application Development,EMP071,Ira Khosla,EMP014,Azad Kata,TEAM010,14,Consultant,17-02-2026,30-01-2027,65,65,1831,Billable,1837866,Remote,Active
+ALC0149,PRJ015,EMP075,Indrajit Pradhan,Lead,BI & AI Strategies,EMP071,Ira Khosla,EMP092,Ira Saini,TEAM008,14,Developer,05-07-2025,24-10-2025,93,99,3252,Billable,1654172,Remote,Exited
+ALC0150,PRJ015,EMP040,Zilmil Ganesan,Lead,Next Gen Application Development,EMP071,Ira Khosla,EMP097,Pushti Radhakrishnan,TEAM005,14,QA,11-02-2026,11-12-2026,68,91,1969,Billable,1867969,Onsite,Active
+ALC0151,PRJ015,EMP093,Charles Balan,Developer,Next Gen Application Development,EMP071,Ira Khosla,EMP054,Chaitanya Randhawa,TEAM003,14,Developer,03-06-2025,02-05-2026,75,100,9116,Billable,2464210,Onsite,Exited
+ALC0152,PRJ015,EMP089,Alexander Singhal,Developer,BI & AI Strategies,EMP071,Ira Khosla,EMP073,Harish Thakur,TEAM010,14,Developer,24-03-2026,11-06-2026,71,68,8444,Non-Billable,2364913,Remote,Exited
+ALC0153,PRJ015,EMP081,Suhani Parmer,QA Engineer,AI Native Application Development,EMP071,Ira Khosla,EMP043,Quincy Korpal,TEAM003,14,Lead,10-06-2025,26-12-2025,91,66,12773,Billable,529536,Onsite,Exited
+ALC0154,PRJ015,EMP004,Darpan Borra,Analyst,Next Gen Application Development,EMP071,Ira Khosla,EMP023,Yuvraj Sarraf,TEAM010,14,Lead,26-02-2026,25-09-2026,77,82,6372,Billable,1340608,Onsite,Active
+ALC0155,PRJ016,EMP018,Jeet Ranganathan,Lead,BI & AI Strategies,EMP028,Reva Chacko,EMP043,Upadhriti Deshpande,TEAM005,7,Consultant,08-11-2025,07-05-2026,96,86,1187,Non-Billable,1870873,Hybrid,Active
+ALC0156,PRJ016,EMP062,Chandani Mane,Developer,Client Success,EMP028,Reva Chacko,EMP040,Yashasvi Ramanathan,TEAM003,7,Lead,10-01-2026,11-04-2026,93,82,12527,Non-Billable,1947643,Remote,Exited
+ALC0157,PRJ016,EMP042,Amruta Mall,Analyst,Next Gen Application Development,EMP028,Reva Chacko,EMP029,Bahadurjit Kaul,TEAM003,7,Lead,10-01-2026,15-09-2026,59,79,13250,Non-Billable,1372091,Onsite,Exited
+ALC0158,PRJ016,EMP032,Wakeeta Deshpande,QA Engineer,Next Gen Application Development,EMP028,Reva Chacko,EMP088,Chasmum Korpal,TEAM010,7,Developer,14-09-2025,15-08-2026,83,78,9653,Non-Billable,663793,Onsite,Active
+ALC0159,PRJ016,EMP001,Adweta Solanki,Analyst,Next Gen Application Development,EMP028,Reva Chacko,EMP074,Gayathri Garde,TEAM009,7,Analyst,05-06-2025,04-09-2025,60,70,14999,Non-Billable,743772,Onsite,Active
+ALC0160,PRJ016,EMP034,Indrajit Shan,Lead,AI Native Application Development,EMP028,Reva Chacko,EMP066,Gopal Suri,TEAM008,7,Developer,23-03-2026,16-03-2027,79,58,9409,Non-Billable,1457975,Onsite,Active
+ALC0161,PRJ016,EMP050,Ishwar Taneja,Lead,BI & AI Strategies,EMP028,Reva Chacko,EMP093,Abha Khatri,TEAM001,7,Lead,18-08-2025,30-07-2026,66,50,13219,Billable,1712806,Remote,Active
+ALC0162,PRJ017,EMP045,Tanveer Murthy,Lead,BI & AI Strategies,EMP087,Omya Issac,EMP049,Vamakshi Gokhale,TEAM008,11,Lead,15-04-2026,22-08-2026,74,55,12185,Billable,1870560,Hybrid,Active
+ALC0163,PRJ017,EMP090,Mohini Aurora,Analyst,Client Success,EMP087,Omya Issac,EMP068,Vivaan Karnik,TEAM003,11,Analyst,05-10-2025,05-03-2026,50,98,1372,Non-Billable,1470989,Onsite,Exited
+ALC0164,PRJ017,EMP009,Madhav Agate,Lead,Next Gen Application Development,EMP087,Omya Issac,EMP032,Ekansh Natt,TEAM008,11,QA,17-07-2025,14-06-2026,59,67,4088,Billable,567564,Onsite,Exited
+ALC0165,PRJ017,EMP070,Indali Chawla,QA Engineer,Next Gen Application Development,EMP087,Omya Issac,EMP009,Dhriti Chacko,TEAM002,11,Consultant,28-07-2025,04-10-2025,52,78,10794,Billable,1013244,Onsite,Active
+ALC0166,PRJ017,EMP008,Balveer Bains,Lead,Next Gen Application Development,EMP087,Omya Issac,EMP070,Ekta Pillay,TEAM004,11,Developer,25-05-2025,14-02-2026,58,82,5739,Billable,2210827,Onsite,Exited
+ALC0167,PRJ017,EMP061,Yashodhara Chadha,Analyst,BI & AI Strategies,EMP087,Omya Issac,EMP031,Anya Dada,TEAM005,11,Analyst,05-09-2025,26-08-2026,92,83,4621,Non-Billable,1130196,Hybrid,Active
+ALC0168,PRJ017,EMP005,Vinaya Dyal,Analyst,Next Gen Application Development,EMP087,Omya Issac,EMP081,Lakshmi Desai,TEAM007,11,Consultant,11-12-2025,21-11-2026,81,53,6642,Non-Billable,2147951,Onsite,Exited
+ALC0169,PRJ017,EMP037,Samarth Goel,Lead,Next Gen Application Development,EMP087,Omya Issac,EMP039,Forum Thakkar,TEAM007,11,Analyst,20-10-2025,20-07-2026,98,84,8758,Billable,2281197,Remote,Exited
+ALC0170,PRJ017,EMP053,Ekaraj Pandya,Lead,AI Native Application Development,EMP087,Omya Issac,EMP072,Karan Choudhury,TEAM007,11,Lead,03-03-2026,14-07-2026,85,83,3196,Non-Billable,1009311,Hybrid,Active
+ALC0171,PRJ017,EMP024,Ishita Shankar,Developer,Client Success,EMP087,Omya Issac,EMP048,Nilima Pillai,TEAM002,11,Consultant,08-07-2025,22-02-2026,96,62,1844,Non-Billable,1290978,Onsite,Active
+ALC0172,PRJ017,EMP099,Praneel Sule,QA Engineer,Next Gen Application Development,EMP087,Omya Issac,EMP062,Niharika Nath,TEAM004,11,QA,20-03-2026,25-06-2026,69,50,4470,Billable,2054986,Remote,Exited
+ALC0173,PRJ018,EMP090,Mohini Aurora,Lead,Client Success,EMP032,Wakeeta Deshpande,EMP069,Raagini Iyengar,TEAM006,8,QA,24-08-2025,16-03-2026,66,73,9401,Non-Billable,1477281,Remote,Exited
+ALC0174,PRJ018,EMP078,Ekanta Apte,QA Engineer,BI & AI Strategies,EMP032,Wakeeta Deshpande,EMP041,Andrew Chaudhuri,TEAM007,8,Developer,31-07-2025,11-03-2026,86,64,13144,Billable,534015,Hybrid,Exited
+ALC0175,PRJ018,EMP091,Ubika Sachdev,QA Engineer,Next Gen Application Development,EMP032,Wakeeta Deshpande,EMP043,Yoshita Kara,TEAM004,8,Lead,06-02-2026,05-09-2026,86,65,9180,Non-Billable,1039653,Hybrid,Exited
+ALC0176,PRJ018,EMP027,Kala Maharaj,QA Engineer,BI & AI Strategies,EMP032,Wakeeta Deshpande,EMP022,Pooja Chatterjee,TEAM003,8,Consultant,06-02-2026,28-11-2026,81,61,9882,Billable,1598791,Remote,Active
+ALC0177,PRJ018,EMP051,Gaurika Sami,Developer,Client Success,EMP032,Wakeeta Deshpande,EMP018,Frado Narang,TEAM004,8,Developer,26-02-2026,21-05-2026,95,59,1149,Billable,1560598,Hybrid,Exited
+ALC0178,PRJ018,EMP031,Aryan Gokhale,Analyst,Client Success,EMP032,Wakeeta Deshpande,EMP085,Vansha Bala,TEAM008,8,Developer,15-06-2025,13-09-2025,50,84,10038,Non-Billable,524853,Remote,Exited
+ALC0179,PRJ018,EMP071,Ira Khosla,Consultant,AI Native Application Development,EMP032,Wakeeta Deshpande,EMP065,Michael Oak,TEAM007,8,Analyst,08-05-2026,07-04-2027,56,56,9591,Billable,1005348,Remote,Exited
+ALC0180,PRJ018,EMP042,Amruta Mall,Consultant,Client Success,EMP032,Wakeeta Deshpande,EMP011,Warhi Tella,TEAM006,8,Lead,22-11-2025,21-07-2026,79,86,4984,Billable,1129092,Onsite,Active
+ALC0181,PRJ019,EMP084,Geetika Lanka,Consultant,AI Native Application Development,EMP062,Chandani Mane,EMP068,Wyatt Prakash,TEAM001,15,Analyst,18-05-2026,24-02-2027,63,94,10286,Non-Billable,1068527,Remote,Active
+ALC0182,PRJ019,EMP098,Kashish Raj,Analyst,AI Native Application Development,EMP062,Chandani Mane,EMP023,Timothy Kothari,TEAM006,15,Developer,21-11-2025,12-06-2026,63,87,3362,Non-Billable,2447991,Remote,Exited
+ALC0183,PRJ019,EMP005,Vinaya Dyal,Analyst,Next Gen Application Development,EMP062,Chandani Mane,EMP073,Urvashi Ravi,TEAM007,15,Consultant,04-04-2026,25-08-2026,71,74,13379,Billable,2157794,Onsite,Active
+ALC0184,PRJ019,EMP012,Nimrat Sarraf,Consultant,AI Native Application Development,EMP062,Chandani Mane,EMP013,Samesh Saxena,TEAM007,15,Analyst,20-07-2025,01-06-2026,54,71,10915,Non-Billable,2122262,Hybrid,Active
+ALC0185,PRJ019,EMP052,Ekalinga Ravi,Lead,Client Success,EMP062,Chandani Mane,EMP030,Kabir Patla,TEAM006,15,Consultant,15-05-2026,30-11-2026,74,77,4043,Non-Billable,679713,Onsite,Exited
+ALC0186,PRJ019,EMP049,Gaurangi Dugar,Developer,AI Native Application Development,EMP062,Chandani Mane,EMP035,Indira Bhat,TEAM003,15,Lead,26-07-2025,28-01-2026,95,100,11385,Billable,2051169,Hybrid,Exited
+ALC0187,PRJ019,EMP071,Ira Khosla,Developer,AI Native Application Development,EMP062,Chandani Mane,EMP001,Xalak Bala,TEAM005,15,Lead,19-09-2025,21-05-2026,73,98,5419,Billable,777887,Remote,Active
+ALC0188,PRJ019,EMP061,Yashodhara Chadha,Lead,Client Success,EMP062,Chandani Mane,EMP014,Warhi Chad,TEAM001,15,Developer,19-08-2025,26-05-2026,72,85,2524,Non-Billable,2311348,Hybrid,Active
+ALC0189,PRJ019,EMP008,Balveer Bains,Lead,Client Success,EMP062,Chandani Mane,EMP100,Chakrika Dara,TEAM002,15,Consultant,31-07-2025,25-02-2026,65,86,9537,Billable,1937211,Hybrid,Active
+ALC0190,PRJ019,EMP082,Agastya Gill,Consultant,BI & AI Strategies,EMP062,Chandani Mane,EMP035,Gaurang Keer,TEAM008,15,Analyst,31-10-2025,11-03-2026,54,60,8121,Non-Billable,1383115,Hybrid,Exited
+ALC0191,PRJ019,EMP002,Kalpit Deol,Consultant,BI & AI Strategies,EMP062,Chandani Mane,EMP032,Faris Hayre,TEAM008,15,Consultant,03-10-2025,10-01-2026,89,62,8501,Billable,784142,Hybrid,Active
+ALC0192,PRJ019,EMP090,Mohini Aurora,Consultant,Client Success,EMP062,Chandani Mane,EMP043,Rehaan Brar,TEAM008,15,QA,26-11-2025,15-08-2026,77,91,10738,Billable,1130058,Hybrid,Active
+ALC0193,PRJ019,EMP022,Ekavir Barman,Consultant,Next Gen Application Development,EMP062,Chandani Mane,EMP051,Fiyaz Som,TEAM006,15,QA,11-03-2026,10-01-2027,97,94,11369,Non-Billable,1707706,Remote,Exited
+ALC0194,PRJ019,EMP011,Logan Trivedi,Consultant,Client Success,EMP062,Chandani Mane,EMP047,Rishi Bhardwaj,TEAM002,15,Consultant,13-01-2026,22-09-2026,62,87,9939,Billable,1929655,Onsite,Active
+ALC0195,PRJ019,EMP064,Reva Jayaraman,QA Engineer,Client Success,EMP062,Chandani Mane,EMP038,Damyanti Edwin,TEAM002,15,Lead,19-07-2025,11-05-2026,93,81,3280,Non-Billable,1007555,Hybrid,Active
+ALC0196,PRJ020,EMP049,Gaurangi Dugar,Developer,BI & AI Strategies,EMP020,Qabil Chaudhry,EMP090,Qasim Walia,TEAM009,11,Consultant,16-03-2026,17-02-2027,90,55,2791,Billable,1879090,Onsite,Exited
+ALC0197,PRJ020,EMP010,Patrick Mani,Analyst,AI Native Application Development,EMP020,Qabil Chaudhry,EMP073,Yashawini Purohit,TEAM007,11,QA,16-09-2025,08-02-2026,100,77,2735,Billable,706792,Hybrid,Active
+ALC0198,PRJ020,EMP058,Lakshmi Sangha,Analyst,Next Gen Application Development,EMP020,Qabil Chaudhry,EMP058,Ranbir De,TEAM006,11,Lead,25-10-2025,11-09-2026,79,99,12133,Billable,1223449,Remote,Exited
+ALC0199,PRJ020,EMP077,Wakeeta Dayal,Consultant,Client Success,EMP020,Qabil Chaudhry,EMP011,Ekaja Jani,TEAM002,11,Analyst,14-01-2026,07-05-2026,72,69,6620,Non-Billable,2144733,Remote,Exited
+ALC0200,PRJ020,EMP062,Chandani Mane,Lead,AI Native Application Development,EMP020,Qabil Chaudhry,EMP057,Lucky Chatterjee,TEAM008,11,QA,07-09-2025,03-05-2026,54,69,1732,Billable,547364,Hybrid,Active
+ALC0201,PRJ020,EMP075,Indrajit Pradhan,QA Engineer,Next Gen Application Development,EMP020,Qabil Chaudhry,EMP071,Nidra Jha,TEAM003,11,QA,25-12-2025,18-05-2026,85,77,8570,Billable,2173015,Hybrid,Active
+ALC0202,PRJ020,EMP052,Ekalinga Ravi,Lead,Client Success,EMP020,Qabil Chaudhry,EMP004,Yash Chacko,TEAM010,11,Analyst,12-10-2025,16-03-2026,78,87,8037,Non-Billable,509332,Onsite,Active
+ALC0203,PRJ020,EMP069,Dominic Dewan,Consultant,AI Native Application Development,EMP020,Qabil Chaudhry,EMP074,Kamya Nori,TEAM002,11,Consultant,05-02-2026,20-07-2026,61,73,6340,Billable,1459552,Remote,Exited
+ALC0204,PRJ020,EMP065,Amara Parikh,Analyst,BI & AI Strategies,EMP020,Qabil Chaudhry,EMP077,Eiravati Naidu,TEAM007,11,Consultant,20-01-2026,26-11-2026,75,87,2871,Non-Billable,1238165,Hybrid,Active
+ALC0205,PRJ020,EMP089,Alexander Singhal,Analyst,AI Native Application Development,EMP020,Qabil Chaudhry,EMP087,Tripti Wadhwa,TEAM003,11,QA,03-05-2026,01-12-2026,57,65,6003,Billable,883872,Hybrid,Active
+ALC0206,PRJ020,EMP054,Vasatika Thaker,Lead,Client Success,EMP020,Qabil Chaudhry,EMP077,Omya Barad,TEAM003,11,Consultant,22-09-2025,09-08-2026,74,77,4043,Non-Billable,1832743,Onsite,Active

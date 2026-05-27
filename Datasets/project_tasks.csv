@@ -1,0 +1,601 @@
+task_id,project_id,phase_id,assignee_id,employee_name,task_title,task_category,task_status,priority,estimated_hours,actual_hours,due_date,completed_date,rework_flag,blocker_reason
+TSK00001,PRJ001,PHS0001,EMP074,Yuvraj Bora,Vision-oriented attitude-oriented capacity,Testing,In Review,Medium,12,25,24-05-2026,19-05-2026,No,Client Delay
+TSK00002,PRJ001,PHS0001,EMP085,Zansi Dewan,Ameliorated systematic project,Testing,In Review,Low,72,76,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00003,PRJ001,PHS0001,EMP098,Kashish Raj,Future-proofed multi-tasking emulation,Testing,In Review,Low,41,59,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00004,PRJ001,PHS0001,EMP054,Vasatika Thaker,Visionary homogeneous success,Documentation,In Review,High,36,54,24-05-2026,22-05-2026,No,Environment Issue
+TSK00005,PRJ001,PHS0001,EMP082,Agastya Gill,Centralized solution-oriented middleware,Development,Done,Medium,23,33,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00006,PRJ001,PHS0002,EMP007,Chanchal Sinha,Multi-tiered encompassing workforce,Testing,In Progress,Medium,75,79,24-05-2026,21-05-2026,No,Environment Issue
+TSK00007,PRJ001,PHS0002,EMP041,Chatura Oza,Innovative 24hour standardization,Testing,To Do,Critical,80,89,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00008,PRJ001,PHS0002,EMP001,Adweta Solanki,Universal intangible firmware,Analysis,In Review,Medium,48,63,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00009,PRJ001,PHS0002,EMP017,Ishani Dhar,Organic scalable architecture,Analysis,Done,Critical,70,90,24-05-2026,24-05-2026,No,Environment Issue
+TSK00010,PRJ001,PHS0002,EMP069,Dominic Dewan,Open-source fault-tolerant productivity,Testing,In Review,Low,57,52,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00011,PRJ001,PHS0003,EMP081,Suhani Parmer,Customizable methodical implementation,Testing,In Progress,High,10,26,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00012,PRJ001,PHS0003,EMP076,Qadim Mander,Advanced well-modulated help-desk,Documentation,In Progress,Low,21,28,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00013,PRJ001,PHS0003,EMP067,Vivaan Gandhi,Reduced modular website,Documentation,Done,Medium,45,54,24-05-2026,19-05-2026,No,Environment Issue
+TSK00014,PRJ001,PHS0003,EMP022,Ekavir Barman,Persistent explicit encryption,Analysis,To Do,Medium,53,72,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00015,PRJ001,PHS0003,EMP076,Qadim Mander,Persistent directional challenge,Testing,To Do,High,35,53,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00016,PRJ001,PHS0004,EMP080,Anay Soman,Function-based next generation database,Development,Blocked,Low,40,59,24-05-2026,20-05-2026,Yes,
+TSK00017,PRJ001,PHS0004,EMP054,Vasatika Thaker,Versatile mobile knowledgebase,Analysis,Done,Low,14,31,24-05-2026,24-05-2026,No,Environment Issue
+TSK00018,PRJ001,PHS0004,EMP088,Qabil Rege,Visionary transitional utilization,Development,In Review,Critical,27,28,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00019,PRJ001,PHS0004,EMP066,Harita Doshi,Secured 24/7 adapter,Development,In Review,Low,25,33,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00020,PRJ001,PHS0004,EMP100,Ethan Wali,Realigned tangible definition,Documentation,Blocked,Medium,33,47,24-05-2026,23-05-2026,No,Environment Issue
+TSK00021,PRJ001,PHS0005,EMP071,Ira Khosla,User-centric upward-trending hub,Analysis,In Progress,Critical,45,45,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00022,PRJ001,PHS0005,EMP012,Nimrat Sarraf,Implemented asynchronous Local Area Network,Development,Blocked,Critical,8,3,24-05-2026,19-05-2026,Yes,
+TSK00023,PRJ001,PHS0005,EMP093,Charles Balan,Multi-layered executive conglomeration,Development,In Review,Medium,73,70,24-05-2026,19-05-2026,No,Client Delay
+TSK00024,PRJ001,PHS0005,EMP013,Chanakya Chana,Optimized exuding portal,Testing,To Do,High,41,50,24-05-2026,24-05-2026,No,Client Delay
+TSK00025,PRJ001,PHS0005,EMP013,Chanakya Chana,Synergized web-enabled concept,Development,To Do,Medium,62,80,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00026,PRJ001,PHS0006,EMP035,Nidhi Ray,Balanced tangible access,Development,In Review,High,53,62,24-05-2026,20-05-2026,Yes,
+TSK00027,PRJ001,PHS0006,EMP035,Nidhi Ray,Future-proofed coherent methodology,Analysis,Done,Critical,59,66,24-05-2026,21-05-2026,Yes,
+TSK00028,PRJ001,PHS0006,EMP008,Balveer Bains,Networked coherent model,Testing,To Do,Critical,24,41,24-05-2026,19-05-2026,No,Environment Issue
+TSK00029,PRJ001,PHS0006,EMP100,Ethan Wali,Right-sized holistic extranet,Documentation,Blocked,Low,31,45,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00030,PRJ001,PHS0006,EMP057,Tristan Korpal,Switchable content-based strategy,Development,To Do,High,70,68,24-05-2026,21-05-2026,No,
+TSK00031,PRJ002,PHS0007,EMP074,Yuvraj Bora,Managed hybrid matrices,Testing,In Review,Low,75,94,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00032,PRJ002,PHS0007,EMP087,Omya Issac,Public-key bandwidth-monitored alliance,Analysis,In Progress,Low,69,75,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00033,PRJ002,PHS0007,EMP022,Ekavir Barman,Switchable clear-thinking hub,Development,Done,High,72,82,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00034,PRJ002,PHS0007,EMP029,Alexander Chadha,Self-enabling fault-tolerant protocol,Analysis,Done,Medium,43,39,24-05-2026,20-05-2026,Yes,Environment Issue
+TSK00035,PRJ002,PHS0007,EMP058,Lakshmi Sangha,Reduced directional access,Development,Done,Critical,64,84,24-05-2026,20-05-2026,No,
+TSK00036,PRJ002,PHS0008,EMP003,Naveen Dugar,Intuitive 24/7 matrices,Development,Done,Critical,71,89,24-05-2026,19-05-2026,Yes,
+TSK00037,PRJ002,PHS0008,EMP080,Anay Soman,Ameliorated attitude-oriented Graphic Interface,Documentation,Blocked,Medium,19,39,24-05-2026,20-05-2026,No,Client Delay
+TSK00038,PRJ002,PHS0008,EMP059,Rajata Dar,Decentralized composite knowledge user,Documentation,Blocked,Critical,54,50,24-05-2026,23-05-2026,No,Environment Issue
+TSK00039,PRJ002,PHS0008,EMP029,Alexander Chadha,Decentralized executive application,Development,In Review,High,22,20,24-05-2026,19-05-2026,No,Client Delay
+TSK00040,PRJ002,PHS0008,EMP064,Reva Jayaraman,Cloned stable time-frame,Testing,Done,Low,21,17,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00041,PRJ002,PHS0009,EMP028,Reva Chacko,Triple-buffered multimedia definition,Analysis,In Progress,High,32,30,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00042,PRJ002,PHS0009,EMP076,Qadim Mander,Object-based high-level matrices,Development,Done,Critical,13,28,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00043,PRJ002,PHS0009,EMP007,Chanchal Sinha,Re-contextualized background firmware,Analysis,Blocked,Critical,8,19,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00044,PRJ002,PHS0009,EMP085,Zansi Dewan,Monitored client-server data-warehouse,Documentation,Blocked,Critical,24,22,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00045,PRJ002,PHS0009,EMP038,Thomas Dada,Stand-alone incremental benchmark,Analysis,In Progress,Medium,43,50,24-05-2026,22-05-2026,No,Client Delay
+TSK00046,PRJ002,PHS0010,EMP095,Hemal Lata,Visionary foreground functionalities,Testing,In Progress,Medium,78,83,24-05-2026,19-05-2026,No,Client Delay
+TSK00047,PRJ002,PHS0010,EMP023,Dev Agrawal,Multi-layered object-oriented matrices,Documentation,To Do,High,24,41,24-05-2026,19-05-2026,No,Environment Issue
+TSK00048,PRJ002,PHS0010,EMP002,Kalpit Deol,Cloned uniform capability,Development,To Do,Critical,76,80,24-05-2026,21-05-2026,Yes,
+TSK00049,PRJ002,PHS0010,EMP097,Panini Sandhu,Multi-tiered zero-defect paradigm,Testing,In Review,High,15,16,24-05-2026,22-05-2026,Yes,
+TSK00050,PRJ002,PHS0010,EMP005,Vinaya Dyal,Vision-oriented asynchronous conglomeration,Documentation,Done,Low,45,46,24-05-2026,20-05-2026,Yes,Environment Issue
+TSK00051,PRJ002,PHS0011,EMP037,Samarth Goel,Secured fresh-thinking capability,Development,Done,Critical,38,49,24-05-2026,19-05-2026,No,Client Delay
+TSK00052,PRJ002,PHS0011,EMP096,Tara Bhargava,Extended modular alliance,Documentation,In Progress,Critical,78,74,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00053,PRJ002,PHS0011,EMP026,Madhav Roy,Up-sized bi-directional encryption,Testing,In Review,Critical,77,95,24-05-2026,20-05-2026,Yes,
+TSK00054,PRJ002,PHS0011,EMP066,Harita Doshi,Upgradable value-added matrix,Development,Done,Low,31,31,24-05-2026,19-05-2026,No,Client Delay
+TSK00055,PRJ002,PHS0011,EMP021,Saanvi Garde,Virtual real-time throughput,Documentation,To Do,High,79,82,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00056,PRJ002,PHS0012,EMP077,Wakeeta Dayal,Grass-roots didactic budgetary management,Development,Blocked,High,13,12,24-05-2026,22-05-2026,No,Client Delay
+TSK00057,PRJ002,PHS0012,EMP041,Chatura Oza,Down-sized web-enabled artificial intelligence,Testing,In Progress,Low,17,37,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00058,PRJ002,PHS0012,EMP012,Nimrat Sarraf,Vision-oriented human-resource complexity,Documentation,In Progress,Medium,77,89,24-05-2026,21-05-2026,No,Client Delay
+TSK00059,PRJ002,PHS0012,EMP097,Panini Sandhu,Reduced even-keeled application,Analysis,Blocked,Low,54,58,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00060,PRJ002,PHS0012,EMP079,Balvan Shere,Horizontal even-keeled array,Testing,To Do,High,65,67,24-05-2026,19-05-2026,No,
+TSK00061,PRJ003,PHS0013,EMP093,Charles Balan,Stand-alone fault-tolerant utilization,Documentation,To Do,High,57,60,24-05-2026,20-05-2026,No,Environment Issue
+TSK00062,PRJ003,PHS0013,EMP025,Udarsh Kaul,Persevering asymmetric framework,Documentation,Blocked,Low,13,17,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00063,PRJ003,PHS0013,EMP081,Suhani Parmer,Focused tangible synergy,Development,In Progress,Medium,76,88,24-05-2026,24-05-2026,No,
+TSK00064,PRJ003,PHS0013,EMP095,Hemal Lata,Reactive foreground framework,Analysis,To Do,Medium,34,46,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00065,PRJ003,PHS0013,EMP010,Patrick Mani,Secured secondary framework,Development,In Progress,High,50,46,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00066,PRJ003,PHS0014,EMP058,Lakshmi Sangha,Persevering upward-trending neural-net,Analysis,Done,High,41,49,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00067,PRJ003,PHS0014,EMP083,Siddharth Banerjee,Face-to-face high-level throughput,Development,Blocked,Low,23,35,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00068,PRJ003,PHS0014,EMP088,Qabil Rege,Fundamental dynamic pricing structure,Documentation,Blocked,Low,72,70,24-05-2026,22-05-2026,No,Environment Issue
+TSK00069,PRJ003,PHS0014,EMP004,Darpan Borra,Persistent non-volatile methodology,Analysis,In Progress,Medium,56,63,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00070,PRJ003,PHS0014,EMP019,Eta Narang,Diverse cohesive definition,Documentation,In Review,Low,77,81,24-05-2026,19-05-2026,Yes,
+TSK00071,PRJ003,PHS0015,EMP077,Wakeeta Dayal,Automated scalable forecast,Analysis,Blocked,Low,13,8,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00072,PRJ003,PHS0015,EMP083,Siddharth Banerjee,Stand-alone zero-defect parallelism,Testing,In Progress,Medium,52,53,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00073,PRJ003,PHS0015,EMP086,Shivansh Sachdev,Mandatory zero administration matrices,Development,Blocked,Critical,32,30,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00074,PRJ003,PHS0015,EMP026,Madhav Roy,Synergistic impactful alliance,Analysis,In Review,High,16,19,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00075,PRJ003,PHS0015,EMP009,Madhav Agate,Profound attitude-oriented support,Testing,In Review,Critical,20,24,24-05-2026,20-05-2026,No,Client Delay
+TSK00076,PRJ003,PHS0016,EMP020,Qabil Chaudhry,Distributed asymmetric toolset,Documentation,In Review,Critical,47,64,24-05-2026,20-05-2026,Yes,
+TSK00077,PRJ003,PHS0016,EMP092,Ekani Buch,Re-engineered high-level strategy,Analysis,In Review,High,48,50,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00078,PRJ003,PHS0016,EMP046,Xiti Baral,Exclusive attitude-oriented ability,Documentation,Done,Low,69,78,24-05-2026,21-05-2026,Yes,
+TSK00079,PRJ003,PHS0016,EMP026,Madhav Roy,Virtual full-range forecast,Documentation,To Do,Low,43,42,24-05-2026,20-05-2026,Yes,
+TSK00080,PRJ003,PHS0016,EMP028,Reva Chacko,Persistent intangible circuit,Development,Blocked,High,59,78,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00081,PRJ003,PHS0017,EMP099,Praneel Sule,Profit-focused even-keeled task-force,Documentation,In Progress,Critical,54,61,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00082,PRJ003,PHS0017,EMP085,Zansi Dewan,Networked fault-tolerant open system,Testing,Blocked,Medium,54,65,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00083,PRJ003,PHS0017,EMP073,Rachana Rajan,Multi-tiered asymmetric solution,Testing,Done,High,28,28,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00084,PRJ003,PHS0017,EMP034,Indrajit Shan,Front-line value-added adapter,Documentation,In Progress,Low,70,72,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00085,PRJ003,PHS0017,EMP006,Jagdish Mahal,Function-based grid-enabled Local Area Network,Development,In Review,Low,57,67,24-05-2026,21-05-2026,No,Client Delay
+TSK00086,PRJ003,PHS0018,EMP049,Gaurangi Dugar,Decentralized intermediate process improvement,Analysis,In Review,Low,77,90,24-05-2026,23-05-2026,No,Environment Issue
+TSK00087,PRJ003,PHS0018,EMP046,Xiti Baral,Synergistic needs-based artificial intelligence,Documentation,Done,Critical,36,47,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00088,PRJ003,PHS0018,EMP010,Patrick Mani,Virtual bi-directional data-warehouse,Documentation,In Progress,Medium,64,64,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00089,PRJ003,PHS0018,EMP016,Daniel Sem,Exclusive 4thgeneration task-force,Testing,Done,High,54,68,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00090,PRJ003,PHS0018,EMP076,Qadim Mander,Multi-tiered regional portal,Testing,Done,Low,69,79,24-05-2026,23-05-2026,Yes,
+TSK00091,PRJ004,PHS0019,EMP021,Saanvi Garde,Public-key background Internet solution,Testing,Blocked,Low,24,37,24-05-2026,20-05-2026,Yes,
+TSK00092,PRJ004,PHS0019,EMP067,Vivaan Gandhi,Visionary foreground knowledge user,Analysis,Blocked,Low,29,32,24-05-2026,23-05-2026,No,
+TSK00093,PRJ004,PHS0019,EMP061,Yashodhara Chadha,Digitized 4thgeneration function,Analysis,In Progress,Medium,35,44,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00094,PRJ004,PHS0019,EMP066,Harita Doshi,Open-source responsive time-frame,Documentation,In Progress,High,31,45,24-05-2026,19-05-2026,No,
+TSK00095,PRJ004,PHS0019,EMP017,Ishani Dhar,Robust web-enabled utilization,Development,To Do,Medium,37,44,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00096,PRJ004,PHS0020,EMP079,Balvan Shere,Operative motivating circuit,Development,Blocked,Low,20,20,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00097,PRJ004,PHS0020,EMP001,Adweta Solanki,User-centric 6thgeneration frame,Analysis,Blocked,Critical,24,38,24-05-2026,20-05-2026,No,
+TSK00098,PRJ004,PHS0020,EMP062,Chandani Mane,Exclusive incremental flexibility,Analysis,In Review,Low,75,83,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00099,PRJ004,PHS0020,EMP011,Logan Trivedi,Re-engineered intangible access,Documentation,Blocked,Critical,40,50,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00100,PRJ004,PHS0020,EMP001,Adweta Solanki,User-friendly 6thgeneration hierarchy,Development,Blocked,Low,8,25,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00101,PRJ004,PHS0021,EMP014,Unni Om,Optional systemic parallelism,Testing,Done,High,48,56,24-05-2026,22-05-2026,No,Environment Issue
+TSK00102,PRJ004,PHS0021,EMP036,Abhimanyu Contractor,Reduced needs-based superstructure,Analysis,In Progress,Critical,80,86,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00103,PRJ004,PHS0021,EMP062,Chandani Mane,Enhanced local core,Documentation,In Review,High,55,67,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00104,PRJ004,PHS0021,EMP058,Lakshmi Sangha,Cross-group next generation benchmark,Testing,To Do,Medium,23,41,24-05-2026,23-05-2026,No,Client Delay
+TSK00105,PRJ004,PHS0021,EMP088,Qabil Rege,User-centric methodical data-warehouse,Development,In Progress,Critical,78,92,24-05-2026,19-05-2026,Yes,
+TSK00106,PRJ004,PHS0022,EMP056,Widisha Lad,Triple-buffered executive solution,Development,To Do,High,26,36,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00107,PRJ004,PHS0022,EMP093,Charles Balan,Enhanced bi-directional Internet solution,Analysis,Done,High,18,32,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00108,PRJ004,PHS0022,EMP026,Madhav Roy,Robust user-facing utilization,Documentation,In Progress,Low,71,80,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00109,PRJ004,PHS0022,EMP084,Geetika Lanka,Optional real-time core,Development,In Progress,Low,12,18,24-05-2026,23-05-2026,No,Environment Issue
+TSK00110,PRJ004,PHS0022,EMP052,Ekalinga Ravi,Pre-emptive attitude-oriented support,Testing,Blocked,Low,53,69,24-05-2026,21-05-2026,Yes,
+TSK00111,PRJ004,PHS0023,EMP072,Triveni Comar,Pre-emptive non-volatile superstructure,Documentation,In Review,High,78,82,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00112,PRJ004,PHS0023,EMP001,Adweta Solanki,Right-sized object-oriented algorithm,Documentation,In Progress,Critical,66,73,24-05-2026,20-05-2026,Yes,
+TSK00113,PRJ004,PHS0023,EMP015,Kalpit Mutti,Diverse background adapter,Documentation,Blocked,High,72,76,24-05-2026,22-05-2026,No,Environment Issue
+TSK00114,PRJ004,PHS0023,EMP097,Panini Sandhu,Persistent disintermediate definition,Documentation,Done,Critical,80,90,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00115,PRJ004,PHS0023,EMP049,Gaurangi Dugar,Organized discrete circuit,Testing,In Progress,High,22,25,24-05-2026,24-05-2026,No,Client Delay
+TSK00116,PRJ004,PHS0024,EMP090,Mohini Aurora,Multi-tiered holistic capability,Documentation,In Progress,High,74,86,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00117,PRJ004,PHS0024,EMP023,Dev Agrawal,Customizable bandwidth-monitored flexibility,Analysis,In Review,High,51,48,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00118,PRJ004,PHS0024,EMP025,Udarsh Kaul,Re-engineered cohesive structure,Analysis,In Progress,Medium,31,49,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00119,PRJ004,PHS0024,EMP032,Wakeeta Deshpande,Upgradable 6thgeneration Local Area Network,Documentation,In Progress,Low,34,36,24-05-2026,23-05-2026,Yes,
+TSK00120,PRJ004,PHS0024,EMP098,Kashish Raj,Implemented 5thgeneration Graphical User Interface,Development,Done,High,71,85,24-05-2026,24-05-2026,No,Environment Issue
+TSK00121,PRJ005,PHS0025,EMP098,Kashish Raj,Open-source systematic service-desk,Documentation,Done,Medium,43,53,24-05-2026,23-05-2026,Yes,
+TSK00122,PRJ005,PHS0025,EMP062,Chandani Mane,Customizable executive functionalities,Development,Blocked,High,75,95,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00123,PRJ005,PHS0025,EMP067,Vivaan Gandhi,Customizable interactive interface,Analysis,In Review,Low,66,64,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00124,PRJ005,PHS0025,EMP042,Amruta Mall,Fundamental maximized middleware,Documentation,Blocked,High,56,69,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00125,PRJ005,PHS0025,EMP079,Balvan Shere,Synergized multi-state implementation,Documentation,In Review,Medium,38,41,24-05-2026,21-05-2026,No,Environment Issue
+TSK00126,PRJ005,PHS0026,EMP097,Panini Sandhu,Diverse homogeneous middleware,Documentation,In Review,Critical,34,42,24-05-2026,19-05-2026,No,Environment Issue
+TSK00127,PRJ005,PHS0026,EMP074,Yuvraj Bora,Switchable web-enabled knowledgebase,Testing,To Do,High,31,44,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00128,PRJ005,PHS0026,EMP095,Hemal Lata,Object-based bandwidth-monitored circuit,Testing,Done,Low,56,57,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00129,PRJ005,PHS0026,EMP067,Vivaan Gandhi,Reactive next generation extranet,Documentation,Done,High,71,70,24-05-2026,19-05-2026,No,
+TSK00130,PRJ005,PHS0026,EMP021,Saanvi Garde,Reactive bi-directional workforce,Development,In Progress,High,58,56,24-05-2026,19-05-2026,No,
+TSK00131,PRJ005,PHS0027,EMP034,Indrajit Shan,Front-line impactful utilization,Documentation,In Review,High,65,83,24-05-2026,22-05-2026,No,
+TSK00132,PRJ005,PHS0027,EMP087,Omya Issac,Vision-oriented fresh-thinking projection,Testing,Blocked,Medium,60,58,24-05-2026,22-05-2026,No,Client Delay
+TSK00133,PRJ005,PHS0027,EMP063,Bhavini Seth,Versatile 3rdgeneration matrices,Analysis,To Do,Critical,49,65,24-05-2026,20-05-2026,No,Environment Issue
+TSK00134,PRJ005,PHS0027,EMP044,Aradhana Shenoy,Expanded attitude-oriented core,Analysis,Blocked,Critical,26,26,24-05-2026,19-05-2026,Yes,
+TSK00135,PRJ005,PHS0027,EMP041,Chatura Oza,Digitized 5thgeneration hardware,Documentation,In Review,High,28,33,24-05-2026,23-05-2026,No,Client Delay
+TSK00136,PRJ005,PHS0028,EMP096,Tara Bhargava,Open-source responsive matrix,Analysis,Done,Medium,64,83,24-05-2026,22-05-2026,Yes,
+TSK00137,PRJ005,PHS0028,EMP085,Zansi Dewan,Synergized actuating synergy,Documentation,To Do,Medium,24,42,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00138,PRJ005,PHS0028,EMP061,Yashodhara Chadha,Digitized multi-state initiative,Development,To Do,Critical,21,19,24-05-2026,24-05-2026,Yes,
+TSK00139,PRJ005,PHS0028,EMP011,Logan Trivedi,Team-oriented 3rdgeneration intranet,Analysis,In Review,Medium,41,55,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00140,PRJ005,PHS0028,EMP017,Ishani Dhar,Virtual coherent benchmark,Testing,To Do,Low,64,79,24-05-2026,23-05-2026,No,Client Delay
+TSK00141,PRJ005,PHS0029,EMP035,Nidhi Ray,Assimilated value-added matrices,Analysis,In Progress,Medium,68,77,24-05-2026,20-05-2026,No,Environment Issue
+TSK00142,PRJ005,PHS0029,EMP069,Dominic Dewan,Virtual secondary strategy,Documentation,In Review,Critical,75,90,24-05-2026,19-05-2026,Yes,
+TSK00143,PRJ005,PHS0029,EMP053,Ekaraj Pandya,Open-architected systemic access,Documentation,In Progress,High,64,68,24-05-2026,22-05-2026,Yes,
+TSK00144,PRJ005,PHS0029,EMP045,Tanveer Murthy,Organized non-volatile Graphical User Interface,Documentation,Done,Low,74,93,24-05-2026,23-05-2026,No,Environment Issue
+TSK00145,PRJ005,PHS0029,EMP038,Thomas Dada,Organic bi-directional paradigm,Testing,To Do,High,46,41,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00146,PRJ005,PHS0030,EMP032,Wakeeta Deshpande,Business-focused bottom-line emulation,Testing,Done,Critical,79,87,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00147,PRJ005,PHS0030,EMP031,Aryan Gokhale,User-friendly zero administration capacity,Documentation,In Review,High,18,26,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00148,PRJ005,PHS0030,EMP038,Thomas Dada,Upgradable analyzing implementation,Development,Done,Critical,16,16,24-05-2026,23-05-2026,No,Environment Issue
+TSK00149,PRJ005,PHS0030,EMP020,Qabil Chaudhry,Switchable neutral extranet,Development,Blocked,Low,32,37,24-05-2026,24-05-2026,Yes,
+TSK00150,PRJ005,PHS0030,EMP092,Ekani Buch,Organized bottom-line frame,Analysis,To Do,Medium,44,47,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00151,PRJ006,PHS0031,EMP044,Aradhana Shenoy,Stand-alone interactive hub,Analysis,In Review,Critical,9,19,24-05-2026,23-05-2026,No,Environment Issue
+TSK00152,PRJ006,PHS0031,EMP097,Panini Sandhu,Profound background budgetary management,Testing,To Do,High,12,17,24-05-2026,24-05-2026,No,
+TSK00153,PRJ006,PHS0031,EMP025,Udarsh Kaul,Enhanced mission-critical neural-net,Documentation,Done,Low,77,87,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00154,PRJ006,PHS0031,EMP032,Wakeeta Deshpande,Ameliorated needs-based pricing structure,Development,In Progress,Critical,57,76,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00155,PRJ006,PHS0031,EMP040,Zilmil Ganesan,Innovative upward-trending firmware,Documentation,In Progress,Low,68,75,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00156,PRJ006,PHS0032,EMP026,Madhav Roy,Inverse cohesive instruction set,Documentation,To Do,Medium,69,84,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00157,PRJ006,PHS0032,EMP022,Ekavir Barman,Function-based interactive paradigm,Documentation,Blocked,Low,63,68,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00158,PRJ006,PHS0032,EMP089,Alexander Singhal,Open-architected interactive function,Analysis,Blocked,Medium,9,5,24-05-2026,20-05-2026,No,
+TSK00159,PRJ006,PHS0032,EMP012,Nimrat Sarraf,Multi-channeled bifurcated Graphic Interface,Documentation,To Do,Low,39,39,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00160,PRJ006,PHS0032,EMP017,Ishani Dhar,Reverse-engineered static archive,Analysis,In Progress,High,76,96,24-05-2026,24-05-2026,No,Environment Issue
+TSK00161,PRJ006,PHS0033,EMP049,Gaurangi Dugar,Exclusive background synergy,Documentation,In Progress,High,32,27,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00162,PRJ006,PHS0033,EMP070,Indali Chawla,Profit-focused 4thgeneration installation,Analysis,In Progress,Medium,64,76,24-05-2026,22-05-2026,No,Client Delay
+TSK00163,PRJ006,PHS0033,EMP071,Ira Khosla,Integrated client-server support,Testing,To Do,Medium,67,70,24-05-2026,20-05-2026,No,Client Delay
+TSK00164,PRJ006,PHS0033,EMP059,Rajata Dar,Reverse-engineered multi-tasking product,Development,Blocked,Critical,41,53,24-05-2026,22-05-2026,Yes,
+TSK00165,PRJ006,PHS0033,EMP031,Aryan Gokhale,Synchronized motivating matrix,Documentation,To Do,Critical,54,73,24-05-2026,20-05-2026,Yes,Environment Issue
+TSK00166,PRJ006,PHS0034,EMP037,Samarth Goel,Networked heuristic system engine,Documentation,Done,High,78,77,24-05-2026,20-05-2026,Yes,
+TSK00167,PRJ006,PHS0034,EMP006,Jagdish Mahal,Fundamental foreground hardware,Testing,In Progress,Low,74,90,24-05-2026,24-05-2026,Yes,
+TSK00168,PRJ006,PHS0034,EMP005,Vinaya Dyal,Mandatory transitional standardization,Analysis,Done,High,70,71,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00169,PRJ006,PHS0034,EMP010,Patrick Mani,Programmable system-worthy paradigm,Development,In Progress,Critical,36,50,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00170,PRJ006,PHS0034,EMP096,Tara Bhargava,Sharable reciprocal knowledge user,Analysis,In Review,Low,15,21,24-05-2026,20-05-2026,No,
+TSK00171,PRJ006,PHS0035,EMP028,Reva Chacko,Synergized radical standardization,Development,To Do,Medium,17,21,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00172,PRJ006,PHS0035,EMP032,Wakeeta Deshpande,Mandatory optimizing methodology,Testing,Blocked,Critical,32,43,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00173,PRJ006,PHS0035,EMP055,Azad Nadkarni,Business-focused bi-directional implementation,Development,In Progress,Medium,66,83,24-05-2026,19-05-2026,No,Client Delay
+TSK00174,PRJ006,PHS0035,EMP057,Tristan Korpal,Cloned contextually-based initiative,Documentation,In Review,High,28,40,24-05-2026,20-05-2026,No,Environment Issue
+TSK00175,PRJ006,PHS0035,EMP078,Ekanta Apte,Pre-emptive cohesive portal,Testing,Blocked,Medium,63,81,24-05-2026,22-05-2026,No,Client Delay
+TSK00176,PRJ006,PHS0036,EMP051,Gaurika Sami,Upgradable mobile archive,Development,To Do,High,54,63,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00177,PRJ006,PHS0036,EMP029,Alexander Chadha,Extended mission-critical strategy,Testing,In Review,Low,46,41,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00178,PRJ006,PHS0036,EMP046,Xiti Baral,Right-sized hybrid superstructure,Testing,In Progress,High,20,16,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00179,PRJ006,PHS0036,EMP012,Nimrat Sarraf,Virtual national orchestration,Analysis,Blocked,Medium,37,40,24-05-2026,22-05-2026,Yes,Client Delay
+TSK00180,PRJ006,PHS0036,EMP089,Alexander Singhal,Object-based transitional process improvement,Development,Blocked,High,69,69,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00181,PRJ007,PHS0037,EMP099,Praneel Sule,Ergonomic 24hour moderator,Documentation,In Review,Critical,18,37,24-05-2026,24-05-2026,No,
+TSK00182,PRJ007,PHS0037,EMP078,Ekanta Apte,Grass-roots impactful structure,Development,Done,Low,37,55,24-05-2026,19-05-2026,No,
+TSK00183,PRJ007,PHS0037,EMP020,Qabil Chaudhry,Future-proofed dedicated extranet,Documentation,Blocked,Medium,48,60,24-05-2026,20-05-2026,Yes,
+TSK00184,PRJ007,PHS0037,EMP074,Yuvraj Bora,Optional directional matrix,Development,In Progress,Critical,58,67,24-05-2026,20-05-2026,No,Environment Issue
+TSK00185,PRJ007,PHS0037,EMP011,Logan Trivedi,Re-contextualized even-keeled Local Area Network,Analysis,Blocked,Low,26,25,24-05-2026,22-05-2026,No,Client Delay
+TSK00186,PRJ007,PHS0038,EMP056,Widisha Lad,Cloned real-time protocol,Testing,In Progress,Critical,18,25,24-05-2026,20-05-2026,Yes,Environment Issue
+TSK00187,PRJ007,PHS0038,EMP026,Madhav Roy,Sharable didactic forecast,Testing,In Progress,Low,58,73,24-05-2026,20-05-2026,No,Environment Issue
+TSK00188,PRJ007,PHS0038,EMP012,Nimrat Sarraf,Pre-emptive object-oriented alliance,Development,Done,Critical,49,65,24-05-2026,20-05-2026,No,Client Delay
+TSK00189,PRJ007,PHS0038,EMP077,Wakeeta Dayal,Robust uniform product,Development,In Review,Medium,32,37,24-05-2026,22-05-2026,No,Environment Issue
+TSK00190,PRJ007,PHS0038,EMP030,Dakshesh Kala,Visionary impactful capability,Testing,In Review,Medium,26,35,24-05-2026,24-05-2026,Yes,
+TSK00191,PRJ007,PHS0039,EMP019,Eta Narang,Re-contextualized even-keeled extranet,Documentation,To Do,High,14,16,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00192,PRJ007,PHS0039,EMP043,Urvashi Brar,Integrated directional framework,Testing,Blocked,Medium,65,75,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00193,PRJ007,PHS0039,EMP094,Ekaja Sawhney,Secured content-based neural-net,Testing,To Do,Critical,78,88,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00194,PRJ007,PHS0039,EMP026,Madhav Roy,Integrated asynchronous synergy,Documentation,To Do,Critical,29,25,24-05-2026,22-05-2026,Yes,
+TSK00195,PRJ007,PHS0039,EMP085,Zansi Dewan,Enterprise-wide tertiary architecture,Documentation,To Do,Low,57,73,24-05-2026,22-05-2026,No,Environment Issue
+TSK00196,PRJ007,PHS0040,EMP091,Ubika Sachdev,Synergized asymmetric extranet,Development,In Review,Critical,37,44,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00197,PRJ007,PHS0040,EMP072,Triveni Comar,Optimized 5thgeneration Local Area Network,Development,To Do,Medium,33,44,24-05-2026,21-05-2026,No,Client Delay
+TSK00198,PRJ007,PHS0040,EMP021,Saanvi Garde,Intuitive analyzing alliance,Development,In Review,High,70,77,24-05-2026,19-05-2026,No,Client Delay
+TSK00199,PRJ007,PHS0040,EMP008,Balveer Bains,Centralized analyzing interface,Documentation,Done,Low,38,49,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00200,PRJ007,PHS0040,EMP085,Zansi Dewan,Grass-roots executive collaboration,Testing,To Do,Critical,27,32,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00201,PRJ007,PHS0041,EMP055,Azad Nadkarni,Open-architected eco-centric middleware,Documentation,Blocked,High,38,51,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00202,PRJ007,PHS0041,EMP075,Indrajit Pradhan,Team-oriented bandwidth-monitored core,Testing,In Progress,High,34,49,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00203,PRJ007,PHS0041,EMP021,Saanvi Garde,Exclusive dedicated model,Documentation,To Do,Low,26,41,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00204,PRJ007,PHS0041,EMP098,Kashish Raj,Centralized asynchronous structure,Documentation,Done,Critical,26,44,24-05-2026,24-05-2026,No,Environment Issue
+TSK00205,PRJ007,PHS0041,EMP014,Unni Om,User-centric solution-oriented customer loyalty,Testing,In Progress,Low,43,42,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00206,PRJ007,PHS0042,EMP004,Darpan Borra,Persistent motivating strategy,Documentation,To Do,Critical,37,39,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00207,PRJ007,PHS0042,EMP063,Bhavini Seth,Open-architected upward-trending instruction set,Analysis,In Progress,Medium,55,55,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00208,PRJ007,PHS0042,EMP035,Nidhi Ray,Monitored coherent software,Analysis,In Progress,Medium,12,20,24-05-2026,24-05-2026,Yes,
+TSK00209,PRJ007,PHS0042,EMP063,Bhavini Seth,Function-based content-based budgetary management,Documentation,Done,Medium,30,39,24-05-2026,20-05-2026,No,Environment Issue
+TSK00210,PRJ007,PHS0042,EMP049,Gaurangi Dugar,Advanced solution-oriented groupware,Documentation,Done,Low,13,27,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00211,PRJ008,PHS0043,EMP067,Vivaan Gandhi,Mandatory systemic middleware,Analysis,To Do,Critical,66,62,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00212,PRJ008,PHS0043,EMP039,Ayaan Johal,Enhanced executive ability,Documentation,Done,Medium,45,54,24-05-2026,21-05-2026,No,Client Delay
+TSK00213,PRJ008,PHS0043,EMP019,Eta Narang,Vision-oriented exuding Internet solution,Analysis,Done,Low,14,31,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00214,PRJ008,PHS0043,EMP053,Ekaraj Pandya,Automated impactful matrices,Documentation,Done,Low,77,76,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00215,PRJ008,PHS0043,EMP033,Yashodhara Mane,Ergonomic analyzing data-warehouse,Documentation,In Progress,Low,33,42,24-05-2026,24-05-2026,Yes,
+TSK00216,PRJ008,PHS0044,EMP011,Logan Trivedi,Grass-roots bi-directional interface,Analysis,Blocked,Medium,65,80,24-05-2026,22-05-2026,No,Environment Issue
+TSK00217,PRJ008,PHS0044,EMP043,Urvashi Brar,Stand-alone real-time forecast,Testing,In Progress,Medium,13,32,24-05-2026,23-05-2026,Yes,
+TSK00218,PRJ008,PHS0044,EMP094,Ekaja Sawhney,Customizable asynchronous methodology,Analysis,In Review,Medium,61,65,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00219,PRJ008,PHS0044,EMP098,Kashish Raj,Intuitive bottom-line complexity,Documentation,To Do,Critical,33,28,24-05-2026,20-05-2026,No,Environment Issue
+TSK00220,PRJ008,PHS0044,EMP078,Ekanta Apte,Business-focused next generation task-force,Analysis,In Progress,Medium,77,97,24-05-2026,24-05-2026,No,Environment Issue
+TSK00221,PRJ008,PHS0045,EMP077,Wakeeta Dayal,Configurable mobile Graphical User Interface,Development,In Progress,High,60,69,24-05-2026,24-05-2026,Yes,
+TSK00222,PRJ008,PHS0045,EMP084,Geetika Lanka,Intuitive upward-trending access,Documentation,To Do,Medium,31,30,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00223,PRJ008,PHS0045,EMP014,Unni Om,Team-oriented asynchronous policy,Analysis,In Progress,Medium,50,47,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00224,PRJ008,PHS0045,EMP047,Gautam Dhar,Horizontal background archive,Development,To Do,High,66,84,24-05-2026,20-05-2026,No,Client Delay
+TSK00225,PRJ008,PHS0045,EMP071,Ira Khosla,Pre-emptive transitional array,Development,In Review,Critical,56,53,24-05-2026,21-05-2026,Yes,
+TSK00226,PRJ008,PHS0046,EMP053,Ekaraj Pandya,Diverse directional ability,Testing,In Progress,Low,43,48,24-05-2026,20-05-2026,Yes,
+TSK00227,PRJ008,PHS0046,EMP078,Ekanta Apte,Streamlined executive collaboration,Documentation,Done,High,69,87,24-05-2026,19-05-2026,No,Client Delay
+TSK00228,PRJ008,PHS0046,EMP064,Reva Jayaraman,Streamlined attitude-oriented Internet solution,Analysis,Done,Medium,24,38,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00229,PRJ008,PHS0046,EMP004,Darpan Borra,Triple-buffered object-oriented ability,Analysis,To Do,Medium,32,27,24-05-2026,24-05-2026,No,Environment Issue
+TSK00230,PRJ008,PHS0046,EMP072,Triveni Comar,Reverse-engineered hybrid encoding,Testing,To Do,Medium,13,18,24-05-2026,22-05-2026,No,Client Delay
+TSK00231,PRJ008,PHS0047,EMP065,Amara Parikh,User-friendly regional firmware,Documentation,To Do,Low,16,20,24-05-2026,22-05-2026,No,Client Delay
+TSK00232,PRJ008,PHS0047,EMP079,Balvan Shere,Reactive real-time task-force,Development,In Progress,Medium,58,76,24-05-2026,20-05-2026,No,Client Delay
+TSK00233,PRJ008,PHS0047,EMP083,Siddharth Banerjee,De-engineered leadingedge archive,Testing,Done,Medium,69,79,24-05-2026,24-05-2026,No,Client Delay
+TSK00234,PRJ008,PHS0047,EMP096,Tara Bhargava,Fundamental zero administration neural-net,Development,Blocked,High,67,87,24-05-2026,21-05-2026,No,
+TSK00235,PRJ008,PHS0047,EMP043,Urvashi Brar,Sharable national success,Documentation,To Do,Medium,34,47,24-05-2026,19-05-2026,No,
+TSK00236,PRJ008,PHS0048,EMP069,Dominic Dewan,Phased mission-critical array,Testing,Blocked,Critical,51,58,24-05-2026,19-05-2026,Yes,
+TSK00237,PRJ008,PHS0048,EMP091,Ubika Sachdev,Ergonomic discrete model,Development,In Review,Critical,47,64,24-05-2026,22-05-2026,Yes,Environment Issue
+TSK00238,PRJ008,PHS0048,EMP039,Ayaan Johal,Multi-lateral exuding circuit,Testing,Blocked,High,38,44,24-05-2026,21-05-2026,Yes,
+TSK00239,PRJ008,PHS0048,EMP100,Ethan Wali,Streamlined neutral complexity,Testing,To Do,Critical,55,75,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00240,PRJ008,PHS0048,EMP044,Aradhana Shenoy,Managed motivating success,Analysis,Blocked,High,72,71,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00241,PRJ009,PHS0049,EMP017,Ishani Dhar,Implemented non-volatile open architecture,Testing,To Do,Critical,20,31,24-05-2026,19-05-2026,No,
+TSK00242,PRJ009,PHS0049,EMP088,Qabil Rege,Diverse solution-oriented Local Area Network,Development,In Review,Critical,8,12,24-05-2026,24-05-2026,Yes,
+TSK00243,PRJ009,PHS0049,EMP096,Tara Bhargava,Persistent full-range structure,Documentation,To Do,High,74,93,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00244,PRJ009,PHS0049,EMP036,Abhimanyu Contractor,Vision-oriented eco-centric attitude,Documentation,Done,Low,33,34,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00245,PRJ009,PHS0049,EMP002,Kalpit Deol,Vision-oriented needs-based toolset,Development,In Progress,High,28,31,24-05-2026,24-05-2026,No,Client Delay
+TSK00246,PRJ009,PHS0050,EMP074,Yuvraj Bora,Configurable tangible policy,Testing,In Progress,Low,26,43,24-05-2026,22-05-2026,No,Client Delay
+TSK00247,PRJ009,PHS0050,EMP017,Ishani Dhar,Exclusive transitional parallelism,Development,Done,Low,77,86,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00248,PRJ009,PHS0050,EMP051,Gaurika Sami,Re-engineered systemic access,Testing,Blocked,Critical,14,11,24-05-2026,21-05-2026,No,Client Delay
+TSK00249,PRJ009,PHS0050,EMP098,Kashish Raj,Function-based bandwidth-monitored open architecture,Development,Done,Medium,50,51,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00250,PRJ009,PHS0050,EMP088,Qabil Rege,Diverse client-server collaboration,Analysis,Done,Medium,20,29,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00251,PRJ009,PHS0051,EMP024,Ishita Shankar,Enhanced neutral archive,Documentation,In Review,Critical,41,47,24-05-2026,21-05-2026,No,
+TSK00252,PRJ009,PHS0051,EMP045,Tanveer Murthy,Virtual tertiary parallelism,Analysis,Done,Medium,16,26,24-05-2026,24-05-2026,No,Client Delay
+TSK00253,PRJ009,PHS0051,EMP052,Ekalinga Ravi,Advanced impactful help-desk,Development,In Review,Low,24,35,24-05-2026,24-05-2026,No,Environment Issue
+TSK00254,PRJ009,PHS0051,EMP031,Aryan Gokhale,Cross-platform analyzing policy,Testing,Blocked,Medium,59,72,24-05-2026,21-05-2026,No,Environment Issue
+TSK00255,PRJ009,PHS0051,EMP089,Alexander Singhal,Team-oriented value-added protocol,Analysis,Done,High,16,21,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00256,PRJ009,PHS0052,EMP074,Yuvraj Bora,Polarized 3rdgeneration help-desk,Analysis,To Do,Critical,17,35,24-05-2026,19-05-2026,No,
+TSK00257,PRJ009,PHS0052,EMP052,Ekalinga Ravi,Seamless hybrid function,Development,Blocked,Low,64,64,24-05-2026,22-05-2026,No,Client Delay
+TSK00258,PRJ009,PHS0052,EMP008,Balveer Bains,Managed optimizing structure,Development,In Progress,Medium,71,86,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00259,PRJ009,PHS0052,EMP038,Thomas Dada,Exclusive multimedia circuit,Analysis,Blocked,Critical,27,36,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00260,PRJ009,PHS0052,EMP087,Omya Issac,Team-oriented didactic flexibility,Documentation,Done,High,48,52,24-05-2026,20-05-2026,Yes,
+TSK00261,PRJ009,PHS0053,EMP038,Thomas Dada,Compatible web-enabled capability,Development,In Review,Low,73,80,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00262,PRJ009,PHS0053,EMP031,Aryan Gokhale,Extended value-added secured line,Analysis,Blocked,Critical,22,26,24-05-2026,24-05-2026,No,Environment Issue
+TSK00263,PRJ009,PHS0053,EMP070,Indali Chawla,Diverse bifurcated implementation,Testing,In Progress,Critical,59,66,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00264,PRJ009,PHS0053,EMP054,Vasatika Thaker,Adaptive fresh-thinking database,Testing,In Review,Medium,79,86,24-05-2026,22-05-2026,Yes,
+TSK00265,PRJ009,PHS0053,EMP019,Eta Narang,Enterprise-wide user-facing circuit,Analysis,Done,Medium,17,32,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00266,PRJ009,PHS0054,EMP078,Ekanta Apte,Innovative 6thgeneration framework,Analysis,Blocked,Medium,61,70,24-05-2026,19-05-2026,No,Environment Issue
+TSK00267,PRJ009,PHS0054,EMP046,Xiti Baral,Fully-configurable fresh-thinking model,Testing,In Progress,Critical,78,87,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00268,PRJ009,PHS0054,EMP035,Nidhi Ray,Team-oriented static hardware,Analysis,Blocked,High,38,55,24-05-2026,20-05-2026,Yes,
+TSK00269,PRJ009,PHS0054,EMP048,Faqid Badami,Reduced bottom-line synergy,Development,Blocked,Critical,80,90,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00270,PRJ009,PHS0054,EMP060,Ishanvi Choudhry,Synergized intangible system engine,Development,Blocked,Low,75,94,24-05-2026,22-05-2026,Yes,Environment Issue
+TSK00271,PRJ010,PHS0055,EMP070,Indali Chawla,Assimilated holistic migration,Documentation,Blocked,Low,17,33,24-05-2026,19-05-2026,No,
+TSK00272,PRJ010,PHS0055,EMP061,Yashodhara Chadha,Customer-focused object-oriented challenge,Documentation,Done,High,68,77,24-05-2026,20-05-2026,No,Client Delay
+TSK00273,PRJ010,PHS0055,EMP077,Wakeeta Dayal,Team-oriented scalable algorithm,Documentation,Blocked,High,29,25,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00274,PRJ010,PHS0055,EMP085,Zansi Dewan,Quality-focused radical toolset,Documentation,Blocked,Low,29,42,24-05-2026,24-05-2026,No,Environment Issue
+TSK00275,PRJ010,PHS0055,EMP010,Patrick Mani,Compatible well-modulated process improvement,Documentation,In Review,Medium,18,17,24-05-2026,20-05-2026,No,Client Delay
+TSK00276,PRJ010,PHS0056,EMP015,Kalpit Mutti,Object-based multi-state implementation,Testing,Blocked,Medium,40,35,24-05-2026,19-05-2026,No,Client Delay
+TSK00277,PRJ010,PHS0056,EMP031,Aryan Gokhale,Digitized value-added open architecture,Analysis,In Progress,Low,30,33,24-05-2026,19-05-2026,No,
+TSK00278,PRJ010,PHS0056,EMP064,Reva Jayaraman,De-engineered analyzing support,Analysis,Done,Medium,26,40,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00279,PRJ010,PHS0056,EMP045,Tanveer Murthy,Organic cohesive task-force,Development,In Review,Low,34,47,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00280,PRJ010,PHS0056,EMP039,Ayaan Johal,Cross-group asymmetric toolset,Analysis,Blocked,Medium,67,74,24-05-2026,21-05-2026,No,Environment Issue
+TSK00281,PRJ010,PHS0057,EMP068,Ijaya Bedi,Profit-focused motivating service-desk,Analysis,To Do,High,68,71,24-05-2026,23-05-2026,No,Environment Issue
+TSK00282,PRJ010,PHS0057,EMP006,Jagdish Mahal,Programmable didactic middleware,Development,Blocked,High,48,59,24-05-2026,19-05-2026,No,Client Delay
+TSK00283,PRJ010,PHS0057,EMP013,Chanakya Chana,Future-proofed scalable frame,Documentation,Blocked,Critical,50,53,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00284,PRJ010,PHS0057,EMP087,Omya Issac,Open-source global policy,Testing,In Review,Low,32,43,24-05-2026,22-05-2026,Yes,
+TSK00285,PRJ010,PHS0057,EMP068,Ijaya Bedi,Business-focused grid-enabled framework,Development,Done,High,9,17,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00286,PRJ010,PHS0058,EMP004,Darpan Borra,Ergonomic systematic array,Development,To Do,Medium,40,41,24-05-2026,24-05-2026,Yes,
+TSK00287,PRJ010,PHS0058,EMP049,Gaurangi Dugar,Secured heuristic policy,Testing,To Do,Medium,19,33,24-05-2026,23-05-2026,No,Client Delay
+TSK00288,PRJ010,PHS0058,EMP082,Agastya Gill,Upgradable asymmetric utilization,Analysis,In Review,Critical,67,83,24-05-2026,24-05-2026,No,Client Delay
+TSK00289,PRJ010,PHS0058,EMP036,Abhimanyu Contractor,Re-engineered hybrid matrices,Development,Done,Critical,28,47,24-05-2026,24-05-2026,No,
+TSK00290,PRJ010,PHS0058,EMP057,Tristan Korpal,Balanced 5thgeneration protocol,Development,Done,Medium,41,44,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00291,PRJ010,PHS0059,EMP070,Indali Chawla,Total asymmetric framework,Analysis,In Progress,Low,70,68,24-05-2026,23-05-2026,No,Client Delay
+TSK00292,PRJ010,PHS0059,EMP010,Patrick Mani,Secured human-resource middleware,Documentation,Done,Low,21,17,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00293,PRJ010,PHS0059,EMP050,Ishwar Taneja,Assimilated tertiary protocol,Documentation,In Progress,High,8,4,24-05-2026,19-05-2026,No,
+TSK00294,PRJ010,PHS0059,EMP062,Chandani Mane,Ergonomic web-enabled alliance,Analysis,Done,Low,73,90,24-05-2026,21-05-2026,Yes,
+TSK00295,PRJ010,PHS0059,EMP016,Daniel Sem,Balanced coherent software,Documentation,In Review,High,57,74,24-05-2026,21-05-2026,No,
+TSK00296,PRJ010,PHS0060,EMP044,Aradhana Shenoy,Open-source global database,Development,Done,High,19,25,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00297,PRJ010,PHS0060,EMP085,Zansi Dewan,Customer-focused cohesive focus group,Testing,In Review,Critical,78,74,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00298,PRJ010,PHS0060,EMP057,Tristan Korpal,Fully-configurable 5thgeneration implementation,Testing,In Progress,Low,70,67,24-05-2026,19-05-2026,Yes,
+TSK00299,PRJ010,PHS0060,EMP009,Madhav Agate,Future-proofed non-volatile middleware,Documentation,Done,Critical,38,48,24-05-2026,21-05-2026,Yes,
+TSK00300,PRJ010,PHS0060,EMP093,Charles Balan,Intuitive client-server interface,Development,Done,Low,51,47,24-05-2026,22-05-2026,Yes,Environment Issue
+TSK00301,PRJ011,PHS0061,EMP075,Indrajit Pradhan,Universal intermediate infrastructure,Testing,To Do,Low,76,75,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00302,PRJ011,PHS0061,EMP006,Jagdish Mahal,Front-line attitude-oriented extranet,Testing,In Progress,Low,10,20,24-05-2026,20-05-2026,Yes,
+TSK00303,PRJ011,PHS0061,EMP059,Rajata Dar,Face-to-face systematic circuit,Testing,Blocked,Low,47,67,24-05-2026,24-05-2026,Yes,
+TSK00304,PRJ011,PHS0061,EMP029,Alexander Chadha,Universal eco-centric array,Development,In Progress,Critical,71,85,24-05-2026,20-05-2026,No,Environment Issue
+TSK00305,PRJ011,PHS0061,EMP074,Yuvraj Bora,Horizontal leadingedge infrastructure,Testing,In Review,Medium,49,47,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00306,PRJ011,PHS0062,EMP036,Abhimanyu Contractor,Innovative analyzing benchmark,Testing,Done,Medium,50,47,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00307,PRJ011,PHS0062,EMP006,Jagdish Mahal,Front-line bifurcated alliance,Testing,To Do,Critical,64,66,24-05-2026,20-05-2026,Yes,
+TSK00308,PRJ011,PHS0062,EMP001,Adweta Solanki,Enterprise-wide mission-critical open architecture,Testing,To Do,High,70,67,24-05-2026,24-05-2026,No,Environment Issue
+TSK00309,PRJ011,PHS0062,EMP082,Agastya Gill,Innovative intangible utilization,Documentation,Blocked,Critical,24,25,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00310,PRJ011,PHS0062,EMP005,Vinaya Dyal,Reactive foreground flexibility,Testing,Done,Low,30,44,24-05-2026,19-05-2026,No,Client Delay
+TSK00311,PRJ011,PHS0063,EMP031,Aryan Gokhale,Synergized national pricing structure,Testing,To Do,Low,61,56,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00312,PRJ011,PHS0063,EMP085,Zansi Dewan,Programmable actuating process improvement,Testing,In Review,Low,67,86,24-05-2026,19-05-2026,Yes,
+TSK00313,PRJ011,PHS0063,EMP064,Reva Jayaraman,Adaptive non-volatile projection,Testing,In Progress,Low,27,43,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00314,PRJ011,PHS0063,EMP033,Yashodhara Mane,Multi-tiered tertiary firmware,Documentation,Blocked,Critical,44,45,24-05-2026,21-05-2026,Yes,
+TSK00315,PRJ011,PHS0063,EMP021,Saanvi Garde,Programmable value-added website,Development,Done,Low,14,26,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00316,PRJ011,PHS0064,EMP042,Amruta Mall,Reactive leadingedge archive,Analysis,In Progress,High,64,77,24-05-2026,20-05-2026,Yes,
+TSK00317,PRJ011,PHS0064,EMP031,Aryan Gokhale,Innovative logistical help-desk,Analysis,In Progress,Critical,49,51,24-05-2026,24-05-2026,Yes,
+TSK00318,PRJ011,PHS0064,EMP007,Chanchal Sinha,Horizontal well-modulated access,Analysis,In Progress,Medium,68,81,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00319,PRJ011,PHS0064,EMP059,Rajata Dar,Public-key cohesive support,Testing,In Review,High,57,63,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00320,PRJ011,PHS0064,EMP073,Rachana Rajan,Extended scalable standardization,Development,In Review,Medium,24,20,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00321,PRJ011,PHS0065,EMP098,Kashish Raj,Persevering context-sensitive groupware,Documentation,In Progress,High,66,74,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00322,PRJ011,PHS0065,EMP053,Ekaraj Pandya,Exclusive clear-thinking policy,Analysis,In Progress,Critical,78,80,24-05-2026,24-05-2026,No,Client Delay
+TSK00323,PRJ011,PHS0065,EMP095,Hemal Lata,Quality-focused bandwidth-monitored infrastructure,Testing,In Progress,High,9,27,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00324,PRJ011,PHS0065,EMP054,Vasatika Thaker,Multi-lateral empowering artificial intelligence,Development,To Do,Critical,27,40,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00325,PRJ011,PHS0065,EMP090,Mohini Aurora,Vision-oriented uniform superstructure,Development,Done,Critical,75,82,24-05-2026,21-05-2026,Yes,
+TSK00326,PRJ011,PHS0066,EMP089,Alexander Singhal,Re-engineered object-oriented secured line,Analysis,In Progress,Medium,79,98,24-05-2026,24-05-2026,No,Client Delay
+TSK00327,PRJ011,PHS0066,EMP003,Naveen Dugar,Up-sized 5thgeneration complexity,Analysis,In Review,Medium,38,53,24-05-2026,24-05-2026,No,
+TSK00328,PRJ011,PHS0066,EMP091,Ubika Sachdev,Persistent zero tolerance hardware,Analysis,In Progress,High,66,75,24-05-2026,23-05-2026,No,
+TSK00329,PRJ011,PHS0066,EMP043,Urvashi Brar,Synergistic optimal concept,Development,In Review,Critical,17,24,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00330,PRJ011,PHS0066,EMP095,Hemal Lata,Implemented didactic complexity,Development,Blocked,High,18,32,24-05-2026,22-05-2026,Yes,
+TSK00331,PRJ012,PHS0067,EMP080,Anay Soman,Robust client-driven encryption,Development,In Review,High,57,63,24-05-2026,21-05-2026,Yes,
+TSK00332,PRJ012,PHS0067,EMP018,Jeet Ranganathan,Switchable human-resource analyzer,Documentation,In Progress,Low,79,96,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00333,PRJ012,PHS0067,EMP035,Nidhi Ray,Diverse next generation open system,Analysis,In Review,Low,36,41,24-05-2026,22-05-2026,Yes,Client Delay
+TSK00334,PRJ012,PHS0067,EMP065,Amara Parikh,Balanced explicit website,Development,Done,High,52,61,24-05-2026,21-05-2026,No,Client Delay
+TSK00335,PRJ012,PHS0067,EMP012,Nimrat Sarraf,Realigned discrete hub,Development,Done,Medium,16,17,24-05-2026,21-05-2026,No,
+TSK00336,PRJ012,PHS0068,EMP015,Kalpit Mutti,Profound systemic paradigm,Testing,Done,Medium,21,21,24-05-2026,22-05-2026,Yes,
+TSK00337,PRJ012,PHS0068,EMP070,Indali Chawla,Advanced optimal Local Area Network,Testing,Done,High,45,53,24-05-2026,19-05-2026,No,Environment Issue
+TSK00338,PRJ012,PHS0068,EMP009,Madhav Agate,Ameliorated fresh-thinking array,Development,In Progress,High,10,14,24-05-2026,23-05-2026,No,Client Delay
+TSK00339,PRJ012,PHS0068,EMP086,Shivansh Sachdev,Enhanced uniform groupware,Analysis,Done,High,49,59,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00340,PRJ012,PHS0068,EMP030,Dakshesh Kala,Cross-group hybrid focus group,Analysis,In Review,High,29,49,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00341,PRJ012,PHS0069,EMP022,Ekavir Barman,Persevering 24hour concept,Testing,Blocked,High,53,57,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00342,PRJ012,PHS0069,EMP015,Kalpit Mutti,Optional interactive initiative,Development,In Review,Medium,27,27,24-05-2026,23-05-2026,No,Client Delay
+TSK00343,PRJ012,PHS0069,EMP072,Triveni Comar,Function-based incremental time-frame,Development,In Review,High,55,55,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00344,PRJ012,PHS0069,EMP069,Dominic Dewan,Object-based national open architecture,Documentation,To Do,Low,65,77,24-05-2026,23-05-2026,No,Environment Issue
+TSK00345,PRJ012,PHS0069,EMP020,Qabil Chaudhry,Synergized coherent task-force,Development,Blocked,High,26,35,24-05-2026,22-05-2026,No,Environment Issue
+TSK00346,PRJ012,PHS0070,EMP086,Shivansh Sachdev,Assimilated discrete productivity,Testing,Blocked,Critical,45,64,24-05-2026,20-05-2026,No,
+TSK00347,PRJ012,PHS0070,EMP087,Omya Issac,Right-sized tangible definition,Development,In Review,Low,69,65,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00348,PRJ012,PHS0070,EMP042,Amruta Mall,Decentralized logistical service-desk,Development,Blocked,Medium,65,71,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00349,PRJ012,PHS0070,EMP069,Dominic Dewan,Managed static implementation,Analysis,To Do,Critical,33,28,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00350,PRJ012,PHS0070,EMP066,Harita Doshi,Ameliorated asymmetric encryption,Development,In Review,Critical,48,62,24-05-2026,20-05-2026,Yes,Environment Issue
+TSK00351,PRJ012,PHS0071,EMP002,Kalpit Deol,Grass-roots bifurcated utilization,Documentation,In Review,High,55,62,24-05-2026,22-05-2026,No,Environment Issue
+TSK00352,PRJ012,PHS0071,EMP094,Ekaja Sawhney,Enhanced 4thgeneration methodology,Analysis,Done,Critical,79,76,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00353,PRJ012,PHS0071,EMP018,Jeet Ranganathan,Diverse content-based forecast,Development,In Progress,Medium,62,80,24-05-2026,21-05-2026,No,Environment Issue
+TSK00354,PRJ012,PHS0071,EMP076,Qadim Mander,Managed directional workforce,Analysis,To Do,Low,75,80,24-05-2026,24-05-2026,No,Client Delay
+TSK00355,PRJ012,PHS0071,EMP060,Ishanvi Choudhry,Total asynchronous capacity,Testing,In Progress,Medium,61,61,24-05-2026,20-05-2026,No,Client Delay
+TSK00356,PRJ012,PHS0072,EMP039,Ayaan Johal,Persevering 24hour contingency,Documentation,Done,Critical,78,88,24-05-2026,24-05-2026,Yes,
+TSK00357,PRJ012,PHS0072,EMP039,Ayaan Johal,Phased coherent time-frame,Analysis,To Do,High,8,7,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00358,PRJ012,PHS0072,EMP032,Wakeeta Deshpande,Operative contextually-based paradigm,Development,To Do,High,70,87,24-05-2026,19-05-2026,No,
+TSK00359,PRJ012,PHS0072,EMP073,Rachana Rajan,Inverse reciprocal methodology,Analysis,In Review,Critical,54,67,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00360,PRJ012,PHS0072,EMP003,Naveen Dugar,Ameliorated 5thgeneration matrix,Documentation,In Progress,Low,73,91,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00361,PRJ013,PHS0073,EMP046,Xiti Baral,Organic responsive firmware,Testing,To Do,High,67,84,24-05-2026,23-05-2026,No,Environment Issue
+TSK00362,PRJ013,PHS0073,EMP038,Thomas Dada,Sharable asynchronous open architecture,Development,Blocked,Medium,53,49,24-05-2026,22-05-2026,Yes,
+TSK00363,PRJ013,PHS0073,EMP041,Chatura Oza,Decentralized 24hour analyzer,Documentation,In Review,High,29,41,24-05-2026,22-05-2026,Yes,Client Delay
+TSK00364,PRJ013,PHS0073,EMP067,Vivaan Gandhi,Optimized intangible Local Area Network,Documentation,In Review,Critical,26,21,24-05-2026,23-05-2026,No,Client Delay
+TSK00365,PRJ013,PHS0073,EMP020,Qabil Chaudhry,Sharable zero administration contingency,Testing,In Progress,Low,28,26,24-05-2026,23-05-2026,No,Environment Issue
+TSK00366,PRJ013,PHS0074,EMP003,Naveen Dugar,Grass-roots radical strategy,Analysis,In Review,High,17,15,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00367,PRJ013,PHS0074,EMP098,Kashish Raj,Object-based bandwidth-monitored hub,Documentation,In Progress,High,64,78,24-05-2026,20-05-2026,Yes,
+TSK00368,PRJ013,PHS0074,EMP019,Eta Narang,Total tertiary strategy,Testing,In Review,Medium,36,35,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00369,PRJ013,PHS0074,EMP098,Kashish Raj,Self-enabling modular groupware,Development,To Do,Low,18,26,24-05-2026,19-05-2026,No,Environment Issue
+TSK00370,PRJ013,PHS0074,EMP005,Vinaya Dyal,Cross-platform mission-critical firmware,Development,Done,Low,13,14,24-05-2026,24-05-2026,No,
+TSK00371,PRJ013,PHS0075,EMP002,Kalpit Deol,Distributed local task-force,Development,To Do,Medium,16,20,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00372,PRJ013,PHS0075,EMP019,Eta Narang,User-centric multi-tasking projection,Documentation,Blocked,High,52,47,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00373,PRJ013,PHS0075,EMP079,Balvan Shere,Open-source foreground encryption,Testing,Blocked,Low,72,91,24-05-2026,19-05-2026,Yes,
+TSK00374,PRJ013,PHS0075,EMP025,Udarsh Kaul,Assimilated national budgetary management,Documentation,In Progress,Low,75,76,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00375,PRJ013,PHS0075,EMP047,Gautam Dhar,Up-sized intangible structure,Testing,Done,Low,72,89,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00376,PRJ013,PHS0076,EMP066,Harita Doshi,Pre-emptive multimedia throughput,Testing,Done,Low,56,64,24-05-2026,23-05-2026,No,
+TSK00377,PRJ013,PHS0076,EMP018,Jeet Ranganathan,Persevering client-server archive,Analysis,In Review,High,67,65,24-05-2026,20-05-2026,Yes,
+TSK00378,PRJ013,PHS0076,EMP050,Ishwar Taneja,Proactive modular project,Documentation,Done,High,49,59,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00379,PRJ013,PHS0076,EMP055,Azad Nadkarni,Universal holistic firmware,Testing,To Do,Critical,78,86,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00380,PRJ013,PHS0076,EMP087,Omya Issac,Cloned web-enabled algorithm,Development,Done,Critical,9,25,24-05-2026,21-05-2026,Yes,
+TSK00381,PRJ013,PHS0077,EMP089,Alexander Singhal,Front-line fault-tolerant functionalities,Development,In Progress,Low,26,33,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00382,PRJ013,PHS0077,EMP052,Ekalinga Ravi,De-engineered transitional migration,Development,In Progress,Critical,51,52,24-05-2026,20-05-2026,No,Client Delay
+TSK00383,PRJ013,PHS0077,EMP052,Ekalinga Ravi,Up-sized even-keeled strategy,Documentation,Done,Critical,42,61,24-05-2026,19-05-2026,No,Client Delay
+TSK00384,PRJ013,PHS0077,EMP014,Unni Om,Inverse intangible throughput,Development,In Review,Critical,26,45,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00385,PRJ013,PHS0077,EMP095,Hemal Lata,Balanced well-modulated contingency,Development,To Do,Critical,25,20,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00386,PRJ013,PHS0078,EMP042,Amruta Mall,Profound system-worthy migration,Testing,In Review,Low,56,70,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00387,PRJ013,PHS0078,EMP085,Zansi Dewan,Down-sized mission-critical toolset,Analysis,Done,High,67,68,24-05-2026,22-05-2026,No,
+TSK00388,PRJ013,PHS0078,EMP050,Ishwar Taneja,Future-proofed holistic conglomeration,Analysis,In Review,Critical,12,20,24-05-2026,24-05-2026,No,Environment Issue
+TSK00389,PRJ013,PHS0078,EMP072,Triveni Comar,Horizontal tertiary open architecture,Documentation,In Progress,Critical,12,8,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00390,PRJ013,PHS0078,EMP063,Bhavini Seth,Optimized impactful project,Development,Blocked,Critical,47,64,24-05-2026,21-05-2026,No,Environment Issue
+TSK00391,PRJ014,PHS0079,EMP008,Balveer Bains,Ameliorated coherent capacity,Analysis,In Review,Critical,79,79,24-05-2026,20-05-2026,No,Client Delay
+TSK00392,PRJ014,PHS0079,EMP004,Darpan Borra,Grass-roots attitude-oriented hub,Development,In Progress,High,44,49,24-05-2026,24-05-2026,No,
+TSK00393,PRJ014,PHS0079,EMP055,Azad Nadkarni,Re-engineered system-worthy middleware,Documentation,In Review,Critical,51,58,24-05-2026,24-05-2026,No,
+TSK00394,PRJ014,PHS0079,EMP083,Siddharth Banerjee,Fully-configurable full-range superstructure,Documentation,Blocked,Low,39,41,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00395,PRJ014,PHS0079,EMP003,Naveen Dugar,Phased web-enabled paradigm,Documentation,To Do,Critical,22,27,24-05-2026,23-05-2026,No,Environment Issue
+TSK00396,PRJ014,PHS0080,EMP061,Yashodhara Chadha,Distributed full-range architecture,Development,In Review,Critical,42,37,24-05-2026,19-05-2026,No,Client Delay
+TSK00397,PRJ014,PHS0080,EMP013,Chanakya Chana,Persistent static ability,Testing,In Review,Critical,20,40,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00398,PRJ014,PHS0080,EMP026,Madhav Roy,Self-enabling hybrid workforce,Analysis,To Do,Medium,46,52,24-05-2026,21-05-2026,No,Client Delay
+TSK00399,PRJ014,PHS0080,EMP052,Ekalinga Ravi,Organized user-facing info-mediaries,Testing,Blocked,Low,14,18,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00400,PRJ014,PHS0080,EMP068,Ijaya Bedi,Universal national focus group,Analysis,Done,Medium,42,39,24-05-2026,20-05-2026,No,
+TSK00401,PRJ014,PHS0081,EMP056,Widisha Lad,Re-engineered attitude-oriented array,Documentation,In Progress,Critical,46,57,24-05-2026,22-05-2026,No,Client Delay
+TSK00402,PRJ014,PHS0081,EMP098,Kashish Raj,Intuitive well-modulated conglomeration,Testing,To Do,Medium,73,82,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00403,PRJ014,PHS0081,EMP069,Dominic Dewan,Implemented well-modulated ability,Analysis,Blocked,Low,67,70,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00404,PRJ014,PHS0081,EMP020,Qabil Chaudhry,Decentralized holistic knowledgebase,Documentation,Done,Critical,67,66,24-05-2026,23-05-2026,No,
+TSK00405,PRJ014,PHS0081,EMP037,Samarth Goel,Organic logistical model,Testing,In Review,Medium,34,42,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00406,PRJ014,PHS0082,EMP004,Darpan Borra,Fundamental real-time methodology,Testing,In Review,Critical,22,21,24-05-2026,23-05-2026,No,Environment Issue
+TSK00407,PRJ014,PHS0082,EMP026,Madhav Roy,Total full-range initiative,Testing,In Review,Medium,62,77,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00408,PRJ014,PHS0082,EMP023,Dev Agrawal,Down-sized national open system,Development,Done,Low,43,59,24-05-2026,20-05-2026,Yes,
+TSK00409,PRJ014,PHS0082,EMP009,Madhav Agate,Phased fresh-thinking success,Analysis,In Review,Low,48,62,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00410,PRJ014,PHS0082,EMP095,Hemal Lata,Business-focused dedicated monitoring,Development,Blocked,High,38,36,24-05-2026,20-05-2026,No,
+TSK00411,PRJ014,PHS0083,EMP099,Praneel Sule,Quality-focused exuding instruction set,Documentation,In Review,Critical,38,52,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00412,PRJ014,PHS0083,EMP023,Dev Agrawal,Centralized web-enabled synergy,Testing,In Review,Critical,35,34,24-05-2026,24-05-2026,No,Client Delay
+TSK00413,PRJ014,PHS0083,EMP048,Faqid Badami,Optimized global artificial intelligence,Development,In Review,Critical,15,25,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00414,PRJ014,PHS0083,EMP047,Gautam Dhar,Distributed 3rdgeneration instruction set,Analysis,In Review,High,43,63,24-05-2026,23-05-2026,Yes,
+TSK00415,PRJ014,PHS0083,EMP031,Aryan Gokhale,Innovative eco-centric portal,Documentation,Blocked,Critical,14,31,24-05-2026,19-05-2026,No,Client Delay
+TSK00416,PRJ014,PHS0084,EMP057,Tristan Korpal,Balanced homogeneous installation,Analysis,To Do,Critical,23,35,24-05-2026,23-05-2026,No,Client Delay
+TSK00417,PRJ014,PHS0084,EMP039,Ayaan Johal,Pre-emptive didactic paradigm,Testing,In Progress,Critical,19,38,24-05-2026,23-05-2026,No,Environment Issue
+TSK00418,PRJ014,PHS0084,EMP100,Ethan Wali,Triple-buffered multi-tasking strategy,Analysis,Done,Critical,12,15,24-05-2026,24-05-2026,No,Environment Issue
+TSK00419,PRJ014,PHS0084,EMP034,Indrajit Shan,Quality-focused transitional emulation,Development,In Review,Critical,20,20,24-05-2026,19-05-2026,No,Environment Issue
+TSK00420,PRJ014,PHS0084,EMP083,Siddharth Banerjee,Centralized radical data-warehouse,Testing,Done,Medium,11,30,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00421,PRJ015,PHS0085,EMP041,Chatura Oza,Total cohesive structure,Development,To Do,Medium,33,48,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00422,PRJ015,PHS0085,EMP058,Lakshmi Sangha,Organized bifurcated project,Analysis,In Progress,High,60,80,24-05-2026,22-05-2026,Yes,Client Delay
+TSK00423,PRJ015,PHS0085,EMP054,Vasatika Thaker,Balanced fault-tolerant moratorium,Documentation,In Progress,Critical,44,45,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00424,PRJ015,PHS0085,EMP083,Siddharth Banerjee,Business-focused eco-centric firmware,Testing,To Do,Critical,10,5,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00425,PRJ015,PHS0085,EMP080,Anay Soman,User-friendly radical knowledge user,Analysis,Blocked,High,29,25,24-05-2026,21-05-2026,Yes,
+TSK00426,PRJ015,PHS0086,EMP016,Daniel Sem,Persistent client-driven matrix,Development,Blocked,Critical,55,55,24-05-2026,20-05-2026,No,Environment Issue
+TSK00427,PRJ015,PHS0086,EMP027,Kala Maharaj,Vision-oriented multi-state installation,Testing,In Review,High,23,25,24-05-2026,19-05-2026,No,Environment Issue
+TSK00428,PRJ015,PHS0086,EMP077,Wakeeta Dayal,Automated methodical utilization,Testing,In Review,Medium,24,32,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00429,PRJ015,PHS0086,EMP004,Darpan Borra,Self-enabling neutral open architecture,Documentation,In Review,Medium,60,80,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00430,PRJ015,PHS0086,EMP083,Siddharth Banerjee,Compatible clear-thinking productivity,Analysis,To Do,Low,55,68,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00431,PRJ015,PHS0087,EMP088,Qabil Rege,Compatible secondary flexibility,Testing,Done,Critical,49,66,24-05-2026,21-05-2026,No,
+TSK00432,PRJ015,PHS0087,EMP007,Chanchal Sinha,Up-sized attitude-oriented methodology,Documentation,In Progress,Critical,20,32,24-05-2026,24-05-2026,No,
+TSK00433,PRJ015,PHS0087,EMP080,Anay Soman,Multi-tiered non-volatile task-force,Analysis,In Review,Critical,8,11,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00434,PRJ015,PHS0087,EMP023,Dev Agrawal,Phased web-enabled instruction set,Documentation,In Progress,Critical,79,75,24-05-2026,20-05-2026,No,Environment Issue
+TSK00435,PRJ015,PHS0087,EMP091,Ubika Sachdev,Triple-buffered transitional info-mediaries,Analysis,In Progress,High,24,21,24-05-2026,22-05-2026,Yes,Client Delay
+TSK00436,PRJ015,PHS0088,EMP036,Abhimanyu Contractor,Synergized well-modulated monitoring,Documentation,Done,High,13,12,24-05-2026,21-05-2026,No,Client Delay
+TSK00437,PRJ015,PHS0088,EMP022,Ekavir Barman,Multi-lateral zero administration implementation,Documentation,Done,Medium,74,79,24-05-2026,21-05-2026,No,
+TSK00438,PRJ015,PHS0088,EMP030,Dakshesh Kala,De-engineered uniform circuit,Testing,To Do,Critical,32,31,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00439,PRJ015,PHS0088,EMP064,Reva Jayaraman,Profound intangible project,Development,Done,High,67,75,24-05-2026,24-05-2026,No,Environment Issue
+TSK00440,PRJ015,PHS0088,EMP019,Eta Narang,Operative object-oriented approach,Development,In Review,Low,71,69,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00441,PRJ015,PHS0089,EMP066,Harita Doshi,Cross-platform user-facing ability,Documentation,Blocked,Medium,31,31,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00442,PRJ015,PHS0089,EMP099,Praneel Sule,Intuitive systematic portal,Analysis,To Do,High,61,58,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00443,PRJ015,PHS0089,EMP076,Qadim Mander,Profit-focused uniform conglomeration,Development,In Review,Medium,23,30,24-05-2026,22-05-2026,Yes,
+TSK00444,PRJ015,PHS0089,EMP062,Chandani Mane,Polarized optimizing capability,Analysis,In Review,Low,66,83,24-05-2026,19-05-2026,No,
+TSK00445,PRJ015,PHS0089,EMP094,Ekaja Sawhney,Mandatory neutral infrastructure,Testing,In Progress,Low,65,70,24-05-2026,19-05-2026,No,Client Delay
+TSK00446,PRJ015,PHS0090,EMP071,Ira Khosla,Multi-layered disintermediate encryption,Analysis,To Do,Critical,15,33,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00447,PRJ015,PHS0090,EMP012,Nimrat Sarraf,Optional real-time pricing structure,Development,In Progress,Medium,38,57,24-05-2026,21-05-2026,No,Environment Issue
+TSK00448,PRJ015,PHS0090,EMP020,Qabil Chaudhry,Team-oriented homogeneous knowledgebase,Development,In Review,Critical,44,59,24-05-2026,19-05-2026,No,Client Delay
+TSK00449,PRJ015,PHS0090,EMP013,Chanakya Chana,Pre-emptive 24hour Internet solution,Documentation,Blocked,Medium,24,30,24-05-2026,19-05-2026,No,Environment Issue
+TSK00450,PRJ015,PHS0090,EMP073,Rachana Rajan,Distributed context-sensitive service-desk,Analysis,To Do,Critical,57,67,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00451,PRJ016,PHS0091,EMP012,Nimrat Sarraf,Automated motivating paradigm,Development,Blocked,High,63,78,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00452,PRJ016,PHS0091,EMP081,Suhani Parmer,Inverse actuating Internet solution,Development,In Review,Critical,27,37,24-05-2026,20-05-2026,No,
+TSK00453,PRJ016,PHS0091,EMP017,Ishani Dhar,Future-proofed 4thgeneration protocol,Documentation,In Progress,Critical,69,73,24-05-2026,23-05-2026,No,
+TSK00454,PRJ016,PHS0091,EMP066,Harita Doshi,Re-engineered mobile orchestration,Development,Blocked,Critical,78,75,24-05-2026,24-05-2026,No,
+TSK00455,PRJ016,PHS0091,EMP073,Rachana Rajan,Cloned contextually-based Graphic Interface,Documentation,In Review,High,67,83,24-05-2026,19-05-2026,Yes,
+TSK00456,PRJ016,PHS0092,EMP060,Ishanvi Choudhry,Front-line zero tolerance encryption,Testing,In Progress,Critical,22,40,24-05-2026,19-05-2026,Yes,
+TSK00457,PRJ016,PHS0092,EMP041,Chatura Oza,Upgradable 24/7 secured line,Analysis,Done,High,61,78,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00458,PRJ016,PHS0092,EMP096,Tara Bhargava,De-engineered content-based challenge,Documentation,To Do,Critical,35,35,24-05-2026,24-05-2026,Yes,
+TSK00459,PRJ016,PHS0092,EMP022,Ekavir Barman,Object-based transitional implementation,Analysis,Done,Critical,58,56,24-05-2026,24-05-2026,No,Client Delay
+TSK00460,PRJ016,PHS0092,EMP089,Alexander Singhal,De-engineered intangible hierarchy,Analysis,In Review,Low,54,71,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00461,PRJ016,PHS0093,EMP003,Naveen Dugar,User-centric systematic model,Testing,To Do,Medium,9,10,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00462,PRJ016,PHS0093,EMP069,Dominic Dewan,Public-key neutral hardware,Testing,To Do,High,38,46,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00463,PRJ016,PHS0093,EMP015,Kalpit Mutti,Right-sized foreground orchestration,Testing,In Progress,Critical,68,76,24-05-2026,24-05-2026,No,Environment Issue
+TSK00464,PRJ016,PHS0093,EMP032,Wakeeta Deshpande,Optimized solution-oriented paradigm,Testing,In Review,Critical,10,19,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00465,PRJ016,PHS0093,EMP092,Ekani Buch,Focused 24hour support,Analysis,Done,Critical,9,7,24-05-2026,19-05-2026,No,
+TSK00466,PRJ016,PHS0094,EMP066,Harita Doshi,Public-key optimizing initiative,Analysis,In Progress,Low,70,77,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00467,PRJ016,PHS0094,EMP035,Nidhi Ray,Fully-configurable content-based matrix,Analysis,Done,Low,48,60,24-05-2026,24-05-2026,No,Client Delay
+TSK00468,PRJ016,PHS0094,EMP003,Naveen Dugar,Automated 3rdgeneration Graphical User Interface,Testing,In Review,Medium,65,82,24-05-2026,21-05-2026,No,Client Delay
+TSK00469,PRJ016,PHS0094,EMP029,Alexander Chadha,Mandatory full-range throughput,Documentation,Blocked,Critical,64,66,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00470,PRJ016,PHS0094,EMP084,Geetika Lanka,Adaptive systematic conglomeration,Documentation,Done,Medium,57,65,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00471,PRJ016,PHS0095,EMP017,Ishani Dhar,Customer-focused reciprocal project,Testing,In Progress,Medium,19,35,24-05-2026,21-05-2026,No,
+TSK00472,PRJ016,PHS0095,EMP031,Aryan Gokhale,Public-key maximized Graphical User Interface,Testing,Blocked,Low,61,71,24-05-2026,22-05-2026,Yes,Client Delay
+TSK00473,PRJ016,PHS0095,EMP021,Saanvi Garde,Persevering didactic process improvement,Testing,Blocked,Low,41,47,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00474,PRJ016,PHS0095,EMP030,Dakshesh Kala,Profound foreground product,Development,Blocked,Medium,63,61,24-05-2026,20-05-2026,No,Client Delay
+TSK00475,PRJ016,PHS0095,EMP099,Praneel Sule,Down-sized attitude-oriented flexibility,Development,Blocked,High,51,71,24-05-2026,22-05-2026,Yes,
+TSK00476,PRJ016,PHS0096,EMP097,Panini Sandhu,Adaptive global orchestration,Development,To Do,Low,14,23,24-05-2026,21-05-2026,Yes,
+TSK00477,PRJ016,PHS0096,EMP027,Kala Maharaj,Total empowering adapter,Documentation,In Progress,High,29,44,24-05-2026,24-05-2026,No,Environment Issue
+TSK00478,PRJ016,PHS0096,EMP047,Gautam Dhar,Upgradable holistic hub,Documentation,In Progress,Low,20,19,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00479,PRJ016,PHS0096,EMP032,Wakeeta Deshpande,Fully-configurable mission-critical toolset,Analysis,In Review,High,61,80,24-05-2026,24-05-2026,Yes,
+TSK00480,PRJ016,PHS0096,EMP097,Panini Sandhu,Enhanced context-sensitive groupware,Analysis,In Review,Medium,42,48,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00481,PRJ017,PHS0097,EMP053,Ekaraj Pandya,Optional asynchronous productivity,Analysis,Done,High,37,36,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00482,PRJ017,PHS0097,EMP092,Ekani Buch,Expanded coherent collaboration,Development,To Do,High,26,45,24-05-2026,24-05-2026,No,Environment Issue
+TSK00483,PRJ017,PHS0097,EMP051,Gaurika Sami,Re-contextualized 24hour moratorium,Development,In Progress,Low,29,37,24-05-2026,24-05-2026,No,Environment Issue
+TSK00484,PRJ017,PHS0097,EMP071,Ira Khosla,Horizontal optimizing monitoring,Documentation,In Review,High,59,75,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00485,PRJ017,PHS0097,EMP090,Mohini Aurora,Extended zero-defect initiative,Analysis,Done,Medium,75,89,24-05-2026,23-05-2026,No,Client Delay
+TSK00486,PRJ017,PHS0098,EMP039,Ayaan Johal,User-friendly 24/7 product,Development,To Do,High,59,78,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00487,PRJ017,PHS0098,EMP028,Reva Chacko,Enterprise-wide user-facing workforce,Development,Blocked,High,74,86,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00488,PRJ017,PHS0098,EMP076,Qadim Mander,Optional full-range productivity,Documentation,In Progress,High,10,5,24-05-2026,20-05-2026,No,
+TSK00489,PRJ017,PHS0098,EMP081,Suhani Parmer,Grass-roots analyzing matrices,Documentation,To Do,Low,15,21,24-05-2026,22-05-2026,Yes,Environment Issue
+TSK00490,PRJ017,PHS0098,EMP001,Adweta Solanki,Ameliorated coherent workforce,Analysis,In Review,Medium,46,59,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00491,PRJ017,PHS0099,EMP092,Ekani Buch,Configurable user-facing hub,Testing,Done,Medium,46,50,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00492,PRJ017,PHS0099,EMP100,Ethan Wali,Right-sized system-worthy flexibility,Documentation,Done,Low,74,87,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00493,PRJ017,PHS0099,EMP008,Balveer Bains,Down-sized fresh-thinking encryption,Analysis,In Progress,Critical,60,57,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00494,PRJ017,PHS0099,EMP068,Ijaya Bedi,Profound hybrid capacity,Analysis,Blocked,Critical,17,23,24-05-2026,19-05-2026,No,Environment Issue
+TSK00495,PRJ017,PHS0099,EMP063,Bhavini Seth,Streamlined intermediate structure,Analysis,In Progress,Medium,62,71,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00496,PRJ017,PHS0100,EMP066,Harita Doshi,Synergistic maximized software,Development,In Progress,Critical,66,65,24-05-2026,19-05-2026,No,
+TSK00497,PRJ017,PHS0100,EMP016,Daniel Sem,Expanded methodical algorithm,Analysis,To Do,Low,28,40,24-05-2026,22-05-2026,No,Client Delay
+TSK00498,PRJ017,PHS0100,EMP016,Daniel Sem,Visionary heuristic challenge,Documentation,In Review,High,13,24,24-05-2026,23-05-2026,No,Client Delay
+TSK00499,PRJ017,PHS0100,EMP019,Eta Narang,Balanced 24hour neural-net,Analysis,To Do,High,70,65,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00500,PRJ017,PHS0100,EMP001,Adweta Solanki,Networked zero tolerance attitude,Development,Blocked,High,31,49,24-05-2026,21-05-2026,Yes,
+TSK00501,PRJ017,PHS0101,EMP040,Zilmil Ganesan,Realigned discrete groupware,Analysis,In Review,Critical,61,71,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00502,PRJ017,PHS0101,EMP059,Rajata Dar,Front-line web-enabled emulation,Analysis,Done,Medium,25,36,24-05-2026,19-05-2026,No,
+TSK00503,PRJ017,PHS0101,EMP051,Gaurika Sami,Enterprise-wide asymmetric knowledge user,Documentation,Blocked,Low,60,67,24-05-2026,23-05-2026,No,Client Delay
+TSK00504,PRJ017,PHS0101,EMP004,Darpan Borra,Synergized fault-tolerant attitude,Documentation,Blocked,Low,19,19,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00505,PRJ017,PHS0101,EMP073,Rachana Rajan,Adaptive fresh-thinking neural-net,Testing,Done,Low,77,90,24-05-2026,24-05-2026,Yes,Dependency Issue
+TSK00506,PRJ017,PHS0102,EMP032,Wakeeta Deshpande,Optional 4thgeneration Internet solution,Analysis,To Do,High,10,13,24-05-2026,23-05-2026,No,
+TSK00507,PRJ017,PHS0102,EMP056,Widisha Lad,Integrated modular groupware,Testing,Done,Low,70,65,24-05-2026,22-05-2026,No,Environment Issue
+TSK00508,PRJ017,PHS0102,EMP013,Chanakya Chana,Realigned non-volatile synergy,Testing,In Review,Medium,40,37,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00509,PRJ017,PHS0102,EMP053,Ekaraj Pandya,User-centric global Local Area Network,Testing,To Do,High,19,18,24-05-2026,22-05-2026,Yes,
+TSK00510,PRJ017,PHS0102,EMP013,Chanakya Chana,Optional logistical collaboration,Documentation,In Progress,Critical,15,19,24-05-2026,21-05-2026,No,Client Delay
+TSK00511,PRJ018,PHS0103,EMP026,Madhav Roy,Profound bi-directional workforce,Testing,Blocked,Medium,56,54,24-05-2026,24-05-2026,No,Environment Issue
+TSK00512,PRJ018,PHS0103,EMP041,Chatura Oza,Up-sized 5thgeneration functionalities,Analysis,Blocked,Critical,22,25,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00513,PRJ018,PHS0103,EMP030,Dakshesh Kala,Function-based holistic protocol,Development,In Review,Low,11,19,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00514,PRJ018,PHS0103,EMP058,Lakshmi Sangha,Persevering dynamic matrices,Development,Blocked,Medium,46,59,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00515,PRJ018,PHS0103,EMP069,Dominic Dewan,Multi-tiered methodical infrastructure,Analysis,Blocked,Critical,77,77,24-05-2026,23-05-2026,Yes,
+TSK00516,PRJ018,PHS0104,EMP084,Geetika Lanka,Re-contextualized demand-driven success,Testing,To Do,Low,67,81,24-05-2026,22-05-2026,No,Client Delay
+TSK00517,PRJ018,PHS0104,EMP045,Tanveer Murthy,Multi-layered fresh-thinking policy,Testing,Blocked,High,40,56,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00518,PRJ018,PHS0104,EMP039,Ayaan Johal,Optimized dedicated knowledgebase,Development,Done,Low,76,89,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00519,PRJ018,PHS0104,EMP065,Amara Parikh,Synchronized logistical utilization,Documentation,In Review,High,63,64,24-05-2026,20-05-2026,No,Client Delay
+TSK00520,PRJ018,PHS0104,EMP044,Aradhana Shenoy,Virtual 5thgeneration framework,Testing,Done,High,39,55,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00521,PRJ018,PHS0105,EMP001,Adweta Solanki,Re-contextualized content-based paradigm,Development,In Progress,Critical,8,22,24-05-2026,21-05-2026,No,Environment Issue
+TSK00522,PRJ018,PHS0105,EMP084,Geetika Lanka,Compatible 24/7 project,Development,Blocked,Low,76,73,24-05-2026,19-05-2026,No,
+TSK00523,PRJ018,PHS0105,EMP046,Xiti Baral,Optimized bi-directional functionalities,Analysis,In Progress,Low,53,60,24-05-2026,20-05-2026,Yes,Environment Issue
+TSK00524,PRJ018,PHS0105,EMP002,Kalpit Deol,Universal needs-based productivity,Testing,To Do,High,55,56,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00525,PRJ018,PHS0105,EMP039,Ayaan Johal,Public-key explicit array,Testing,In Progress,Critical,19,33,24-05-2026,19-05-2026,No,
+TSK00526,PRJ018,PHS0106,EMP091,Ubika Sachdev,User-friendly radical service-desk,Testing,To Do,Medium,43,53,24-05-2026,19-05-2026,No,
+TSK00527,PRJ018,PHS0106,EMP064,Reva Jayaraman,Universal homogeneous help-desk,Testing,Blocked,Medium,43,56,24-05-2026,20-05-2026,Yes,
+TSK00528,PRJ018,PHS0106,EMP017,Ishani Dhar,Cross-platform uniform product,Documentation,Blocked,Medium,24,42,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00529,PRJ018,PHS0106,EMP069,Dominic Dewan,Decentralized system-worthy productivity,Documentation,Blocked,Critical,10,27,24-05-2026,19-05-2026,Yes,Environment Issue
+TSK00530,PRJ018,PHS0106,EMP053,Ekaraj Pandya,Upgradable intangible benchmark,Documentation,To Do,Critical,14,19,24-05-2026,21-05-2026,No,Client Delay
+TSK00531,PRJ018,PHS0107,EMP093,Charles Balan,Switchable needs-based infrastructure,Testing,To Do,High,74,93,24-05-2026,24-05-2026,No,Environment Issue
+TSK00532,PRJ018,PHS0107,EMP025,Udarsh Kaul,Multi-lateral homogeneous protocol,Documentation,To Do,Low,48,43,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00533,PRJ018,PHS0107,EMP022,Ekavir Barman,Centralized value-added core,Documentation,In Review,Low,17,19,24-05-2026,23-05-2026,Yes,
+TSK00534,PRJ018,PHS0107,EMP076,Qadim Mander,Reactive explicit projection,Documentation,In Review,Medium,69,77,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00535,PRJ018,PHS0107,EMP043,Urvashi Brar,Up-sized directional Local Area Network,Testing,To Do,Critical,38,43,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00536,PRJ018,PHS0108,EMP005,Vinaya Dyal,Self-enabling explicit analyzer,Analysis,In Review,Low,23,20,24-05-2026,24-05-2026,Yes,
+TSK00537,PRJ018,PHS0108,EMP079,Balvan Shere,Realigned even-keeled challenge,Analysis,To Do,Low,64,60,24-05-2026,22-05-2026,Yes,
+TSK00538,PRJ018,PHS0108,EMP013,Chanakya Chana,Re-contextualized human-resource firmware,Analysis,In Progress,Low,45,52,24-05-2026,21-05-2026,No,Environment Issue
+TSK00539,PRJ018,PHS0108,EMP080,Anay Soman,Fundamental contextually-based secured line,Development,In Review,Low,67,87,24-05-2026,21-05-2026,No,Client Delay
+TSK00540,PRJ018,PHS0108,EMP002,Kalpit Deol,Realigned cohesive software,Development,Blocked,Medium,32,30,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00541,PRJ019,PHS0109,EMP093,Charles Balan,Adaptive multimedia product,Analysis,In Progress,Medium,53,61,24-05-2026,21-05-2026,Yes,
+TSK00542,PRJ019,PHS0109,EMP075,Indrajit Pradhan,User-centric hybrid collaboration,Analysis,Blocked,High,15,14,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00543,PRJ019,PHS0109,EMP078,Ekanta Apte,Multi-layered methodical collaboration,Documentation,In Review,High,26,36,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00544,PRJ019,PHS0109,EMP072,Triveni Comar,Fully-configurable grid-enabled conglomeration,Development,Done,High,15,17,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00545,PRJ019,PHS0109,EMP044,Aradhana Shenoy,Automated fresh-thinking Graphic Interface,Testing,Done,Critical,33,53,24-05-2026,24-05-2026,No,Client Delay
+TSK00546,PRJ019,PHS0110,EMP021,Saanvi Garde,Open-architected executive installation,Development,Done,Low,46,54,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00547,PRJ019,PHS0110,EMP089,Alexander Singhal,Fully-configurable actuating utilization,Testing,Done,Medium,8,23,24-05-2026,23-05-2026,Yes,Environment Issue
+TSK00548,PRJ019,PHS0110,EMP049,Gaurangi Dugar,Sharable upward-trending framework,Testing,Done,Medium,50,70,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00549,PRJ019,PHS0110,EMP004,Darpan Borra,Multi-tiered attitude-oriented paradigm,Development,In Progress,High,9,6,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00550,PRJ019,PHS0110,EMP026,Madhav Roy,Horizontal client-driven forecast,Testing,In Review,Medium,54,50,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00551,PRJ019,PHS0111,EMP032,Wakeeta Deshpande,Mandatory web-enabled pricing structure,Testing,In Progress,Low,30,35,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00552,PRJ019,PHS0111,EMP018,Jeet Ranganathan,Reactive mission-critical process improvement,Analysis,To Do,High,20,15,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00553,PRJ019,PHS0111,EMP048,Faqid Badami,Cross-platform optimal policy,Testing,Blocked,Critical,66,68,24-05-2026,22-05-2026,Yes,
+TSK00554,PRJ019,PHS0111,EMP025,Udarsh Kaul,Persevering 24hour customer loyalty,Analysis,In Review,High,26,25,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00555,PRJ019,PHS0111,EMP076,Qadim Mander,Synergized fresh-thinking functionalities,Testing,Blocked,High,13,32,24-05-2026,20-05-2026,Yes,Client Delay
+TSK00556,PRJ019,PHS0112,EMP036,Abhimanyu Contractor,Re-engineered national focus group,Testing,Blocked,Critical,39,35,24-05-2026,19-05-2026,Yes,
+TSK00557,PRJ019,PHS0112,EMP079,Balvan Shere,Universal content-based support,Development,In Progress,Critical,68,88,24-05-2026,19-05-2026,No,Environment Issue
+TSK00558,PRJ019,PHS0112,EMP042,Amruta Mall,User-centric even-keeled website,Documentation,Blocked,Critical,74,83,24-05-2026,23-05-2026,No,Environment Issue
+TSK00559,PRJ019,PHS0112,EMP082,Agastya Gill,Balanced non-volatile algorithm,Development,In Progress,Medium,42,55,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00560,PRJ019,PHS0112,EMP040,Zilmil Ganesan,Organic bi-directional function,Analysis,Done,Medium,38,45,24-05-2026,23-05-2026,No,Client Delay
+TSK00561,PRJ019,PHS0113,EMP097,Panini Sandhu,Proactive non-volatile groupware,Development,In Review,Critical,78,75,24-05-2026,23-05-2026,No,Dependency Issue
+TSK00562,PRJ019,PHS0113,EMP080,Anay Soman,Operative tangible Graphic Interface,Documentation,Done,Critical,13,22,24-05-2026,20-05-2026,No,Environment Issue
+TSK00563,PRJ019,PHS0113,EMP041,Chatura Oza,Extended 4thgeneration intranet,Documentation,Done,Low,60,66,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00564,PRJ019,PHS0113,EMP010,Patrick Mani,Optimized web-enabled definition,Documentation,To Do,High,37,40,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00565,PRJ019,PHS0113,EMP010,Patrick Mani,Balanced multi-tasking system engine,Documentation,To Do,Medium,37,35,24-05-2026,24-05-2026,No,Dependency Issue
+TSK00566,PRJ019,PHS0114,EMP096,Tara Bhargava,Exclusive grid-enabled neural-net,Documentation,In Progress,Medium,50,53,24-05-2026,22-05-2026,No,
+TSK00567,PRJ019,PHS0114,EMP052,Ekalinga Ravi,Intuitive real-time extranet,Analysis,Blocked,Low,46,50,24-05-2026,22-05-2026,No,Dependency Issue
+TSK00568,PRJ019,PHS0114,EMP093,Charles Balan,Monitored 5thgeneration moderator,Testing,Done,Medium,58,60,24-05-2026,23-05-2026,No,Environment Issue
+TSK00569,PRJ019,PHS0114,EMP041,Chatura Oza,Object-based global conglomeration,Testing,Done,Critical,51,71,24-05-2026,24-05-2026,Yes,Environment Issue
+TSK00570,PRJ019,PHS0114,EMP048,Faqid Badami,Ergonomic static encryption,Testing,Blocked,Medium,65,77,24-05-2026,24-05-2026,No,
+TSK00571,PRJ020,PHS0115,EMP046,Xiti Baral,Up-sized explicit projection,Documentation,In Progress,Critical,71,91,24-05-2026,19-05-2026,No,Environment Issue
+TSK00572,PRJ020,PHS0115,EMP076,Qadim Mander,Fundamental composite info-mediaries,Development,Blocked,Low,76,80,24-05-2026,22-05-2026,Yes,Dependency Issue
+TSK00573,PRJ020,PHS0115,EMP078,Ekanta Apte,Enterprise-wide stable array,Analysis,Done,Medium,50,63,24-05-2026,19-05-2026,No,
+TSK00574,PRJ020,PHS0115,EMP061,Yashodhara Chadha,Profound high-level capacity,Development,In Review,Critical,76,83,24-05-2026,23-05-2026,No,
+TSK00575,PRJ020,PHS0115,EMP071,Ira Khosla,User-friendly neutral application,Testing,To Do,Critical,29,27,24-05-2026,19-05-2026,Yes,Dependency Issue
+TSK00576,PRJ020,PHS0116,EMP037,Samarth Goel,Re-contextualized human-resource workforce,Testing,In Progress,High,33,30,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00577,PRJ020,PHS0116,EMP002,Kalpit Deol,Cross-group regional toolset,Testing,In Review,Critical,15,21,24-05-2026,20-05-2026,No,Dependency Issue
+TSK00578,PRJ020,PHS0116,EMP054,Vasatika Thaker,Down-sized heuristic utilization,Analysis,To Do,Critical,22,21,24-05-2026,20-05-2026,Yes,Dependency Issue
+TSK00579,PRJ020,PHS0116,EMP091,Ubika Sachdev,Team-oriented regional attitude,Analysis,In Progress,High,34,38,24-05-2026,21-05-2026,Yes,Environment Issue
+TSK00580,PRJ020,PHS0116,EMP019,Eta Narang,Visionary static focus group,Analysis,To Do,Critical,43,44,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00581,PRJ020,PHS0117,EMP060,Ishanvi Choudhry,Multi-tiered 6thgeneration hardware,Development,To Do,High,80,90,24-05-2026,21-05-2026,No,Client Delay
+TSK00582,PRJ020,PHS0117,EMP023,Dev Agrawal,Seamless user-facing hub,Analysis,In Progress,Medium,46,53,24-05-2026,20-05-2026,No,Environment Issue
+TSK00583,PRJ020,PHS0117,EMP090,Mohini Aurora,Total analyzing hardware,Development,Done,Low,57,73,24-05-2026,23-05-2026,Yes,Dependency Issue
+TSK00584,PRJ020,PHS0117,EMP038,Thomas Dada,Business-focused dedicated array,Development,In Progress,Critical,43,58,24-05-2026,20-05-2026,No,
+TSK00585,PRJ020,PHS0117,EMP065,Amara Parikh,Multi-layered background benchmark,Documentation,Done,Critical,55,52,24-05-2026,24-05-2026,Yes,Client Delay
+TSK00586,PRJ020,PHS0118,EMP060,Ishanvi Choudhry,Synchronized attitude-oriented middleware,Development,To Do,Critical,34,45,24-05-2026,24-05-2026,No,Client Delay
+TSK00587,PRJ020,PHS0118,EMP005,Vinaya Dyal,Face-to-face 24/7 intranet,Development,In Review,Low,59,60,24-05-2026,21-05-2026,Yes,Client Delay
+TSK00588,PRJ020,PHS0118,EMP009,Madhav Agate,Cloned systematic strategy,Development,Blocked,Medium,67,77,24-05-2026,21-05-2026,No,Dependency Issue
+TSK00589,PRJ020,PHS0118,EMP022,Ekavir Barman,Balanced content-based circuit,Development,Blocked,Low,68,71,24-05-2026,23-05-2026,Yes,Client Delay
+TSK00590,PRJ020,PHS0118,EMP051,Gaurika Sami,Virtual stable productivity,Testing,To Do,Low,23,35,24-05-2026,19-05-2026,No,Dependency Issue
+TSK00591,PRJ020,PHS0119,EMP028,Reva Chacko,Re-contextualized multi-state orchestration,Development,Blocked,Medium,64,70,24-05-2026,23-05-2026,No,
+TSK00592,PRJ020,PHS0119,EMP092,Ekani Buch,Multi-tiered actuating concept,Development,Done,High,74,89,24-05-2026,19-05-2026,No,
+TSK00593,PRJ020,PHS0119,EMP099,Praneel Sule,Fundamental exuding moratorium,Testing,In Progress,High,8,4,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00594,PRJ020,PHS0119,EMP004,Darpan Borra,Sharable grid-enabled conglomeration,Development,In Review,Medium,19,14,24-05-2026,21-05-2026,Yes,Dependency Issue
+TSK00595,PRJ020,PHS0119,EMP022,Ekavir Barman,Down-sized high-level extranet,Testing,To Do,Critical,20,40,24-05-2026,19-05-2026,Yes,Client Delay
+TSK00596,PRJ020,PHS0120,EMP025,Udarsh Kaul,Diverse multimedia solution,Testing,Blocked,Critical,49,61,24-05-2026,19-05-2026,No,
+TSK00597,PRJ020,PHS0120,EMP046,Xiti Baral,Distributed bottom-line database,Documentation,In Progress,Low,37,38,24-05-2026,24-05-2026,No,Client Delay
+TSK00598,PRJ020,PHS0120,EMP059,Rajata Dar,Profit-focused dynamic parallelism,Testing,To Do,High,9,16,24-05-2026,23-05-2026,No,
+TSK00599,PRJ020,PHS0120,EMP039,Ayaan Johal,Face-to-face tangible paradigm,Analysis,To Do,Medium,16,17,24-05-2026,21-05-2026,No,
+TSK00600,PRJ020,PHS0120,EMP050,Ishwar Taneja,Intuitive content-based archive,Testing,In Review,Medium,49,64,24-05-2026,19-05-2026,No,Environment Issue

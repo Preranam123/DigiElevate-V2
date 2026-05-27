@@ -1,0 +1,61 @@
+contract_id,client_id,contract_type,project_name,project_start_date,project_end_date,contract_start_date,contract_end_date,total_contract_value,renewal_date,auto_renew_flag,payment_status,billing_frequency,contract_status
+CON001,CLT040,Time & Material,Generate One-To-One Experiences,03-10-2024,29-07-2026,03-10-2024,29-07-2026,7692234,29-06-2026,Yes,Paid,Annual,Active
+CON002,CLT001,Time & Material,Enable Magnetic Metrics,17-01-2025,30-06-2026,17-01-2025,30-06-2026,4998671,31-05-2026,No,Overdue,Monthly,Active
+CON003,CLT011,Fixed Bid,Monetize Front-End Action-Items,27-04-2025,12-03-2027,27-04-2025,12-03-2027,6965417,10-02-2027,Yes,Pending,Annual,Active
+CON004,CLT013,Support,Transition 24/7 Markets,03-06-2024,02-04-2025,03-06-2024,02-04-2025,3716991,03-03-2025,No,Paid,Annual,Expired
+CON005,CLT007,MSA,E-Enable Holistic Schemas,27-06-2024,21-02-2026,27-06-2024,21-02-2026,9978611,22-01-2026,Yes,Pending,Quarterly,Under Review
+CON006,CLT038,Fixed Bid,Disintermediate Synergistic Infrastructures,02-08-2024,29-06-2026,02-08-2024,29-06-2026,8468955,30-05-2026,Yes,Overdue,Annual,Active
+CON007,CLT036,Support,Productize E-Business E-Tailers,26-04-2025,09-01-2027,26-04-2025,09-01-2027,8628410,10-12-2026,Yes,Overdue,Annual,Active
+CON008,CLT009,Support,Re-Contextualize Back-End Portals,12-09-2024,25-06-2025,12-09-2024,25-06-2025,5499642,26-05-2025,No,Pending,Annual,Under Review
+CON009,CLT016,Support,Integrate One-To-One Deliverables,31-10-2024,03-02-2026,31-10-2024,03-02-2026,5852216,04-01-2026,No,Pending,Monthly,Active
+CON010,CLT027,Time & Material,Productize Customized Interfaces,27-03-2025,01-03-2027,27-03-2025,01-03-2027,9290659,30-01-2027,No,Overdue,Annual,Under Review
+CON011,CLT014,Fixed Bid,Embrace End-To-End Paradigms,30-09-2024,20-10-2025,30-09-2024,20-10-2025,4975114,20-09-2025,No,Overdue,Monthly,Under Review
+CON012,CLT012,Time & Material,Engage Transparent Markets,06-04-2025,02-03-2027,06-04-2025,02-03-2027,2036178,31-01-2027,No,Overdue,Quarterly,Under Review
+CON013,CLT037,Time & Material,Harness 24/365 E-Business,07-10-2024,06-06-2026,07-10-2024,06-06-2026,7186467,07-05-2026,Yes,Overdue,Monthly,Active
+CON014,CLT025,MSA,Scale Global Action-Items,03-07-2024,27-05-2025,03-07-2024,27-05-2025,1049670,27-04-2025,Yes,Pending,Monthly,Expired
+CON015,CLT017,MSA,Matrix Dot-Com E-Tailers,21-10-2024,15-09-2025,21-10-2024,15-09-2025,5051637,16-08-2025,Yes,Overdue,Monthly,Expired
+CON016,CLT029,Fixed Bid,Monetize Collaborative Schemas,19-10-2024,30-07-2025,19-10-2024,30-07-2025,9516557,30-06-2025,No,Paid,Annual,Under Review
+CON017,CLT019,Support,Deploy Robust Bandwidth,13-02-2025,29-09-2025,13-02-2025,29-09-2025,6602088,30-08-2025,No,Overdue,Quarterly,Under Review
+CON018,CLT004,Time & Material,Engineer B2C E-Commerce,06-08-2024,15-02-2025,06-08-2024,15-02-2025,3507238,16-01-2025,No,Paid,Annual,Under Review
+CON019,CLT024,Fixed Bid,Envisioneer Granular Mindshare,28-08-2024,13-09-2025,28-08-2024,13-09-2025,5035483,14-08-2025,No,Paid,Annual,Active
+CON020,CLT012,MSA,Synergize Compelling Mindshare,23-08-2024,15-08-2025,23-08-2024,15-08-2025,6428336,16-07-2025,Yes,Pending,Quarterly,Under Review
+CON021,CLT017,Fixed Bid,Orchestrate Dot-Com Users,09-09-2024,19-07-2025,09-09-2024,19-07-2025,9897660,19-06-2025,No,Paid,Quarterly,Expired
+CON022,CLT010,Fixed Bid,Optimize Back-End Paradigms,31-10-2024,08-06-2025,31-10-2024,08-06-2025,5512833,09-05-2025,Yes,Overdue,Annual,Under Review
+CON023,CLT020,Time & Material,Unleash Killer E-Tailers,13-01-2025,26-11-2026,13-01-2025,26-11-2026,1322736,27-10-2026,No,Overdue,Monthly,Active
+CON024,CLT034,Fixed Bid,Extend Bricks-And-Clicks Relationships,09-10-2024,15-06-2025,09-10-2024,15-06-2025,7078168,16-05-2025,No,Paid,Quarterly,Active
+CON025,CLT014,Time & Material,Enhance Revolutionary Models,26-08-2024,27-01-2026,26-08-2024,27-01-2026,6153183,28-12-2025,No,Paid,Annual,Under Review
+CON026,CLT031,MSA,Disintermediate Extensible Applications,29-06-2024,04-01-2025,29-06-2024,04-01-2025,5905039,05-12-2024,No,Paid,Annual,Under Review
+CON027,CLT040,MSA,Deploy Global Convergence,09-09-2024,12-11-2025,09-09-2024,12-11-2025,5484429,13-10-2025,No,Paid,Quarterly,Expired
+CON028,CLT035,MSA,Utilize End-To-End Convergence,21-02-2025,05-06-2026,21-02-2025,05-06-2026,8771603,06-05-2026,No,Overdue,Annual,Expired
+CON029,CLT032,Time & Material,Engineer Collaborative Bandwidth,17-10-2024,29-05-2025,17-10-2024,29-05-2025,3329821,29-04-2025,No,Overdue,Monthly,Active
+CON030,CLT011,MSA,Syndicate E-Business Communities,08-01-2025,14-07-2025,08-01-2025,14-07-2025,3636326,14-06-2025,Yes,Overdue,Quarterly,Active
+CON031,CLT014,MSA,Grow Leading-Edge Niches,19-07-2024,05-04-2026,19-07-2024,05-04-2026,2679573,06-03-2026,Yes,Pending,Annual,Expired
+CON032,CLT003,MSA,Morph Seamless Networks,05-05-2025,29-01-2026,05-05-2025,29-01-2026,1010467,30-12-2025,Yes,Pending,Annual,Active
+CON033,CLT037,Time & Material,Strategize Transparent Convergence,01-04-2025,19-05-2026,01-04-2025,19-05-2026,6938943,19-04-2026,No,Pending,Annual,Expired
+CON034,CLT028,MSA,Synergize Compelling Markets,22-09-2024,07-02-2026,22-09-2024,07-02-2026,6634756,08-01-2026,Yes,Overdue,Monthly,Under Review
+CON035,CLT040,MSA,Generate Seamless Vortals,18-05-2025,17-01-2026,18-05-2025,17-01-2026,1317848,18-12-2025,No,Overdue,Monthly,Expired
+CON036,CLT020,Time & Material,Seize Scalable E-Commerce,01-03-2025,24-11-2025,01-03-2025,24-11-2025,7442987,25-10-2025,No,Pending,Annual,Active
+CON037,CLT031,Fixed Bid,Productize Front-End Vortals,29-05-2024,04-05-2025,29-05-2024,04-05-2025,2388101,04-04-2025,No,Overdue,Quarterly,Under Review
+CON038,CLT010,Time & Material,Orchestrate Extensible Systems,19-09-2024,17-01-2026,19-09-2024,17-01-2026,287069,18-12-2025,Yes,Paid,Monthly,Active
+CON039,CLT037,MSA,Disintermediate World-Class Models,31-08-2024,06-04-2026,31-08-2024,06-04-2026,5211869,07-03-2026,Yes,Overdue,Annual,Under Review
+CON040,CLT023,Support,Architect Dynamic Convergence,30-01-2025,02-03-2026,30-01-2025,02-03-2026,8699207,31-01-2026,Yes,Paid,Monthly,Active
+CON041,CLT040,Fixed Bid,Brand Clicks-And-Mortar Niches,19-07-2024,30-09-2025,19-07-2024,30-09-2025,2023047,31-08-2025,Yes,Overdue,Annual,Active
+CON042,CLT036,MSA,Generate Rich Paradigms,19-04-2025,31-01-2027,19-04-2025,31-01-2027,4976342,01-01-2027,Yes,Pending,Monthly,Active
+CON043,CLT038,Time & Material,Visualize Impactful Architectures,09-01-2025,18-11-2026,09-01-2025,18-11-2026,6091787,19-10-2026,Yes,Overdue,Annual,Active
+CON044,CLT007,MSA,Enable Sticky Synergies,17-08-2024,01-12-2025,17-08-2024,01-12-2025,3346367,01-11-2025,No,Pending,Quarterly,Expired
+CON045,CLT040,Fixed Bid,Productize Efficient Technologies,18-03-2025,24-07-2026,18-03-2025,24-07-2026,9588388,24-06-2026,No,Pending,Quarterly,Active
+CON046,CLT001,Fixed Bid,Benchmark Value-Added Platforms,08-10-2024,20-02-2026,08-10-2024,20-02-2026,3816584,21-01-2026,No,Pending,Quarterly,Active
+CON047,CLT022,Support,Expedite Compelling Architectures,18-03-2025,18-01-2027,18-03-2025,18-01-2027,7571866,19-12-2026,No,Pending,Quarterly,Under Review
+CON048,CLT007,MSA,Mesh Proactive Info-Mediaries,15-01-2025,09-01-2026,15-01-2025,09-01-2026,4807954,10-12-2025,Yes,Overdue,Monthly,Expired
+CON049,CLT005,MSA,Cultivate One-To-One Niches,03-03-2025,15-11-2025,03-03-2025,15-11-2025,8609040,16-10-2025,Yes,Overdue,Annual,Expired
+CON050,CLT038,MSA,Utilize Granular Systems,06-02-2025,10-03-2026,06-02-2025,10-03-2026,9354211,08-02-2026,No,Overdue,Annual,Expired
+CON051,CLT010,Support,Synergize Dynamic Technologies,15-11-2024,23-05-2026,15-11-2024,23-05-2026,3846463,23-04-2026,No,Paid,Quarterly,Under Review
+CON052,CLT033,Support,Orchestrate Intuitive Portals,27-09-2024,26-06-2025,27-09-2024,26-06-2025,6204651,27-05-2025,Yes,Overdue,Monthly,Under Review
+CON053,CLT011,Fixed Bid,Reinvent B2B Web Services,08-08-2024,15-07-2026,08-08-2024,15-07-2026,7586336,15-06-2026,Yes,Paid,Annual,Under Review
+CON054,CLT010,Time & Material,Brand Cutting-Edge Niches,10-11-2024,16-09-2026,10-11-2024,16-09-2026,778132,17-08-2026,Yes,Pending,Monthly,Active
+CON055,CLT017,Fixed Bid,Evolve Sticky Convergence,04-07-2024,13-01-2026,04-07-2024,13-01-2026,818206,14-12-2025,Yes,Overdue,Quarterly,Expired
+CON056,CLT031,MSA,Transform Out-Of-The-Box Mindshare,17-06-2024,24-03-2026,17-06-2024,24-03-2026,769489,22-02-2026,No,Paid,Annual,Under Review
+CON057,CLT018,Fixed Bid,Envisioneer Distributed Communities,01-02-2025,26-04-2026,01-02-2025,26-04-2026,6419298,27-03-2026,No,Pending,Annual,Under Review
+CON058,CLT005,Time & Material,Scale Proactive Interfaces,08-11-2024,18-10-2026,08-11-2024,18-10-2026,6413749,18-09-2026,Yes,Overdue,Quarterly,Expired
+CON059,CLT023,Support,Streamline Back-End Platforms,19-10-2024,28-08-2026,19-10-2024,28-08-2026,210690,29-07-2026,Yes,Pending,Monthly,Active
+CON060,CLT005,Time & Material,Innovate Cross-Platform Architectures,10-03-2025,14-02-2027,10-03-2025,14-02-2027,3648668,15-01-2027,Yes,Paid,Monthly,Expired

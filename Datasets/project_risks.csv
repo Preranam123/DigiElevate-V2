@@ -1,0 +1,76 @@
+risk_id,project_id,risk_description,probability,impact,risk_severity_score,risk_status,escalation_level,mitigation_plan,resolution_timeline,owner_id,owner_name
+RSK0001,PRJ001,Corrupti nobis neque.,Medium,Medium,2,Escalated,L2,Harum reprehenderit ex dolores.,49,EMP021,Saanvi Garde
+RSK0002,PRJ001,Blanditiis cupiditate sunt atque quod quisquam nihil.,High,High,52,Escalated,L1,Optio velit quam autem iure alias doloremque.,63,EMP025,Udarsh Kaul
+RSK0003,PRJ001,Nam natus explicabo quis ipsam qui aut nobis.,Medium,High,57,Open,L3,Cumque deleniti incidunt ea quam distinctio.,40,EMP080,Anay Soman
+RSK0004,PRJ002,Accusamus ipsam laborum iusto cupiditate aliquid.,Low,Medium,44,Escalated,L3,Praesentium illo quisquam nulla officiis.,63,EMP044,Aradhana Shenoy
+RSK0005,PRJ002,Quo ullam reprehenderit magnam corrupti.,Low,High,44,Closed,L1,A consectetur perspiciatis.,51,EMP085,Zansi Dewan
+RSK0006,PRJ002,Veniam assumenda ducimus.,High,Low,70,Mitigated,L1,Unde consequuntur numquam in.,34,EMP055,Azad Nadkarni
+RSK0007,PRJ002,Atque dolorem minus voluptates iste.,Low,Low,71,Closed,L1,Alias officiis laudantium illum dolore.,49,EMP059,Rajata Dar
+RSK0008,PRJ003,Sunt nobis illo minus.,Medium,High,11,Mitigated,L2,Vero quo dolore qui alias illum.,70,EMP058,Lakshmi Sangha
+RSK0009,PRJ003,Iusto vitae voluptatem.,Low,High,29,Open,L1,Quae voluptate reprehenderit optio laboriosam sint praesentium.,50,EMP025,Udarsh Kaul
+RSK0010,PRJ003,Delectus neque veniam.,High,Low,73,Open,L3,Porro ratione doloremque ab consectetur asperiores quas temporibus.,51,EMP068,Ijaya Bedi
+RSK0011,PRJ003,Nesciunt alias beatae neque quae minima.,Low,High,68,Mitigated,L2,Velit delectus voluptate eos natus amet.,25,EMP070,Indali Chawla
+RSK0012,PRJ004,Porro eos odio iusto rem necessitatibus.,Low,High,82,Mitigated,L3,Occaecati aperiam laborum cumque provident tenetur quidem cumque.,24,EMP088,Qabil Rege
+RSK0013,PRJ004,Odio officia officia.,High,Medium,26,Closed,L1,Voluptates distinctio aspernatur eaque dolorem minus.,56,EMP070,Indali Chawla
+RSK0014,PRJ005,Atque enim deserunt dolor labore accusamus incidunt.,High,Medium,61,Escalated,L2,Praesentium accusamus eaque labore tenetur.,22,EMP050,Ishwar Taneja
+RSK0015,PRJ005,Totam totam doloribus expedita.,Medium,Low,10,Closed,L3,Ipsum corporis eaque provident veritatis architecto aut.,76,EMP093,Charles Balan
+RSK0016,PRJ005,Laudantium ipsum natus sunt nobis eum.,Medium,Low,94,Open,L1,Ex ratione recusandae molestias voluptatibus dolore.,57,EMP086,Shivansh Sachdev
+RSK0017,PRJ005,Iste vero culpa sed itaque.,Low,Medium,21,Mitigated,L2,Iure unde tempora iure quibusdam esse iste non.,25,EMP018,Jeet Ranganathan
+RSK0018,PRJ006,Velit fuga quae necessitatibus ad unde.,High,Low,32,Closed,L1,Incidunt laboriosam maiores animi nihil possimus debitis.,33,EMP051,Gaurika Sami
+RSK0019,PRJ006,Enim provident vero.,Low,Medium,16,Mitigated,L1,Ipsam dolorem a dolore error dolores.,61,EMP036,Abhimanyu Contractor
+RSK0020,PRJ006,Excepturi ipsam quod necessitatibus minima reiciendis.,High,Medium,98,Closed,L1,Dolorum suscipit possimus quod deserunt ullam laboriosam.,86,EMP019,Eta Narang
+RSK0021,PRJ006,Soluta maxime reiciendis dolore architecto nostrum voluptate minima.,High,Medium,68,Open,L3,Eos aperiam repellat aliquam omnis totam impedit.,81,EMP016,Daniel Sem
+RSK0022,PRJ006,Voluptatem fuga a molestiae.,Low,High,57,Closed,L1,Facere distinctio alias totam dolorum omnis excepturi dolores.,74,EMP061,Yashodhara Chadha
+RSK0023,PRJ007,Odio facere ab nam tempore molestiae.,Low,High,44,Closed,L1,Illo voluptates fuga ea unde doloribus optio.,53,EMP020,Qabil Chaudhry
+RSK0024,PRJ007,Incidunt harum facilis necessitatibus vel.,Low,High,60,Escalated,L3,Sequi minus laboriosam fugiat dolores.,26,EMP033,Yashodhara Mane
+RSK0025,PRJ007,Quam numquam iusto illum.,High,Medium,98,Closed,L1,Nihil perferendis maiores exercitationem eligendi consequatur.,71,EMP091,Ubika Sachdev
+RSK0026,PRJ007,Autem minima vitae at necessitatibus.,Low,High,78,Closed,L1,Sed odio totam doloribus veniam.,90,EMP014,Unni Om
+RSK0027,PRJ007,Porro eos sapiente error corporis.,High,Medium,54,Open,L3,Vel quaerat omnis velit sapiente.,18,EMP064,Reva Jayaraman
+RSK0028,PRJ008,In consectetur atque cupiditate nihil.,High,Medium,33,Closed,L2,Explicabo est et fugit.,90,EMP093,Charles Balan
+RSK0029,PRJ008,Corporis tenetur iure minima harum.,Medium,Low,2,Open,L3,Reprehenderit expedita molestias tenetur et.,67,EMP033,Yashodhara Mane
+RSK0030,PRJ008,Possimus sequi modi cum quia minus minima.,High,Medium,29,Escalated,L3,Culpa in ullam amet.,39,EMP032,Wakeeta Deshpande
+RSK0031,PRJ008,Molestiae doloremque pariatur maiores ipsum culpa.,High,Medium,72,Escalated,L3,Quibusdam iusto voluptatibus laboriosam architecto.,71,EMP014,Unni Om
+RSK0032,PRJ009,Quae nesciunt fuga nisi repellat adipisci itaque.,High,Low,76,Open,L3,Tenetur expedita voluptates qui facere tempora laboriosam.,17,EMP006,Jagdish Mahal
+RSK0033,PRJ009,Totam officia repellendus unde modi vero delectus.,Low,Medium,75,Escalated,L2,Tempora cupiditate nostrum sit repellat.,10,EMP016,Daniel Sem
+RSK0034,PRJ009,Deleniti laborum nisi natus minima.,High,Medium,59,Open,L2,Ipsum nobis reiciendis iste ab.,85,EMP045,Tanveer Murthy
+RSK0035,PRJ009,Odio ratione laboriosam vero enim.,Medium,High,4,Mitigated,L3,Ea repellendus et quo fugiat pariatur.,28,EMP096,Tara Bhargava
+RSK0036,PRJ009,Reprehenderit nulla voluptates non vel consequuntur quia.,High,Medium,13,Closed,L2,Quia enim iste vel laudantium.,8,EMP004,Darpan Borra
+RSK0037,PRJ010,Quo illum in.,Medium,High,45,Closed,L1,Odio doloremque illum maxime deserunt sunt.,40,EMP033,Yashodhara Mane
+RSK0038,PRJ010,Quaerat nobis nemo rerum eius animi assumenda doloremque.,Low,Medium,59,Closed,L1,Quisquam maxime cumque illum nihil.,31,EMP058,Lakshmi Sangha
+RSK0039,PRJ010,Beatae labore aut accusantium molestias dignissimos.,High,High,42,Escalated,L2,Magnam explicabo omnis voluptatum beatae.,27,EMP072,Triveni Comar
+RSK0040,PRJ010,A a sapiente totam velit eius inventore.,Low,Medium,46,Mitigated,L2,Aut ipsam suscipit reiciendis reiciendis suscipit.,44,EMP064,Reva Jayaraman
+RSK0041,PRJ010,Nostrum mollitia inventore molestiae eveniet possimus debitis maiores.,High,Low,82,Escalated,L2,Veniam magni perspiciatis cum illo quos corporis.,84,EMP013,Chanakya Chana
+RSK0042,PRJ011,Veritatis dolor incidunt recusandae.,Low,Medium,26,Closed,L3,Libero itaque temporibus omnis.,67,EMP082,Agastya Gill
+RSK0043,PRJ011,Labore soluta dolorum facere dolorum.,Medium,Medium,47,Mitigated,L1,Accusamus eligendi molestias laudantium.,46,EMP045,Tanveer Murthy
+RSK0044,PRJ011,Omnis eum magni cumque voluptate sed accusantium.,Low,Low,75,Closed,L3,Placeat nobis labore sint enim.,87,EMP003,Naveen Dugar
+RSK0045,PRJ011,Quasi numquam quas.,Medium,High,69,Mitigated,L2,Impedit ducimus impedit numquam doloribus vel qui.,84,EMP072,Triveni Comar
+RSK0046,PRJ011,Nemo iure odit laboriosam laborum dolore.,Low,Low,12,Open,L3,A recusandae quis eaque similique aliquam.,81,EMP090,Mohini Aurora
+RSK0047,PRJ012,Optio quis ad eligendi animi.,Low,High,44,Closed,L2,Sit quos velit temporibus dolore accusantium doloribus.,22,EMP034,Indrajit Shan
+RSK0048,PRJ012,Animi ipsum recusandae odit esse.,Low,High,38,Open,L2,Earum assumenda beatae.,33,EMP050,Ishwar Taneja
+RSK0049,PRJ012,Voluptatem voluptates iure necessitatibus expedita quaerat quo odit.,Low,Low,71,Mitigated,L3,Porro laborum illo iste quidem culpa sint itaque.,40,EMP057,Tristan Korpal
+RSK0050,PRJ012,Et minus dolorum enim illum.,Medium,Low,89,Mitigated,L1,Maiores illum voluptatibus omnis voluptate nulla qui.,33,EMP004,Darpan Borra
+RSK0051,PRJ012,Nostrum corrupti ex id esse hic quis.,High,Low,19,Open,L2,Sint nulla ullam id.,36,EMP057,Tristan Korpal
+RSK0052,PRJ013,Maxime enim porro mollitia.,Medium,Medium,54,Mitigated,L2,Explicabo saepe sint quo placeat dolores voluptate.,28,EMP079,Balvan Shere
+RSK0053,PRJ013,Aut a voluptas non perspiciatis dignissimos alias.,High,Medium,81,Escalated,L3,Alias excepturi quis.,38,EMP067,Vivaan Gandhi
+RSK0054,PRJ014,Reprehenderit eveniet tenetur et.,Medium,Medium,47,Mitigated,L2,Corrupti ipsum nobis.,74,EMP034,Indrajit Shan
+RSK0055,PRJ014,Ea accusamus ipsa voluptate.,Low,High,18,Closed,L3,Voluptas totam pariatur id beatae fuga suscipit.,36,EMP046,Xiti Baral
+RSK0056,PRJ014,Cum corporis eos nam quod eligendi hic.,High,Low,13,Escalated,L3,Sit fugiat corporis porro consectetur.,45,EMP069,Dominic Dewan
+RSK0057,PRJ014,Exercitationem aliquam fugit mollitia atque nisi id.,High,Low,93,Closed,L3,Voluptate libero quidem ipsa doloribus soluta rerum.,87,EMP014,Unni Om
+RSK0058,PRJ015,Enim tempora omnis iste ipsum necessitatibus culpa.,Medium,High,7,Escalated,L3,In cumque maiores culpa ex.,61,EMP060,Ishanvi Choudhry
+RSK0059,PRJ015,Quae quidem sed.,High,Medium,9,Mitigated,L1,Accusamus sunt doloribus debitis ea tempore accusantium.,76,EMP064,Reva Jayaraman
+RSK0060,PRJ015,Minima nobis unde laudantium eaque id.,High,High,8,Closed,L2,Odio odio at quod sunt sed.,23,EMP058,Lakshmi Sangha
+RSK0061,PRJ016,Quis sint perferendis accusamus omnis amet.,Medium,Low,93,Closed,L3,Porro nihil quibusdam velit eos quos.,37,EMP088,Qabil Rege
+RSK0062,PRJ016,Non culpa itaque esse temporibus blanditiis.,Low,High,77,Escalated,L2,Laboriosam est numquam asperiores suscipit provident architecto pariatur.,22,EMP094,Ekaja Sawhney
+RSK0063,PRJ017,A nostrum ea sit corrupti nihil mollitia.,High,Medium,40,Closed,L2,Minima asperiores quis.,34,EMP028,Reva Chacko
+RSK0064,PRJ017,Officiis ipsam eum illum explicabo dolorem.,High,Medium,19,Closed,L1,At eius eius modi blanditiis atque.,83,EMP073,Rachana Rajan
+RSK0065,PRJ017,Velit suscipit quod vel earum illo.,High,Medium,76,Open,L1,Perferendis natus voluptates commodi ipsum voluptatum ipsam odio.,83,EMP007,Chanchal Sinha
+RSK0066,PRJ017,Exercitationem animi tempore exercitationem repudiandae possimus neque odit.,High,Medium,94,Mitigated,L3,Deleniti voluptates quisquam architecto esse hic quis quis.,29,EMP009,Madhav Agate
+RSK0067,PRJ017,Reiciendis autem error necessitatibus laborum non.,High,Low,24,Open,L3,Voluptate doloribus quibusdam labore officia molestias.,68,EMP032,Wakeeta Deshpande
+RSK0068,PRJ018,Ratione ipsa quidem vitae.,Low,Low,52,Escalated,L2,Omnis aliquam harum accusantium.,53,EMP043,Urvashi Brar
+RSK0069,PRJ018,Commodi dolores corrupti veritatis dignissimos.,Medium,Low,44,Mitigated,L1,Reiciendis mollitia iste accusamus ex repellat modi.,44,EMP090,Mohini Aurora
+RSK0070,PRJ019,Non neque necessitatibus culpa pariatur at.,High,Medium,33,Escalated,L1,Ex veniam laboriosam itaque.,28,EMP023,Dev Agrawal
+RSK0071,PRJ019,Commodi distinctio nam aut.,Medium,Low,30,Closed,L3,Sint vitae unde.,86,EMP034,Indrajit Shan
+RSK0072,PRJ019,Impedit officiis facere ab laudantium velit officiis.,Medium,Medium,97,Open,L3,Sed numquam error.,37,EMP011,Logan Trivedi
+RSK0073,PRJ019,Dolorem similique sapiente.,High,Low,72,Open,L3,Autem consectetur exercitationem.,52,EMP003,Naveen Dugar
+RSK0074,PRJ020,Soluta aliquid iusto aliquam soluta dolore officia.,Low,High,2,Open,L2,Facilis beatae alias.,54,EMP022,Ekavir Barman
+RSK0075,PRJ020,Minus in quasi voluptatibus deserunt.,Low,High,73,Closed,L1,Odio rerum eos repellat commodi nostrum.,27,EMP040,Zilmil Ganesan

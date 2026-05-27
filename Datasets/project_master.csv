@@ -1,0 +1,21 @@
+project_id,project_name,client_id,department_id,project_manager_id,project_manager_name,project_type,project_category,project_status,priority,project_start_date,project_end_date,budget,actual_cost,revenue_generated,profit_margin,completion_percentage,project_health_score,project_complexity,delivery_status,delay_days
+PRJ001,Innovate B2C Eyeballs,CLT008,DPT001,EMP004,Darpan Borra,Internal,Internal,Planning,Low,12-01-2025,17-02-2026,17434414,7989709,10430766,23.4,23,45,Low,On Track,64
+PRJ002,Repurpose E-Business Convergence,CLT039,DPT004,EMP004,Darpan Borra,Fixed Price,Internal,Cancelled,High,04-05-2025,29-03-2027,14343768,12512815,23516066,46.79,99,91,Low,On Track,89
+PRJ003,Deliver Clicks-And-Mortar Content,CLT028,DPT001,EMP044,Aradhana Shenoy,Fixed Price,Internal,Planning,High,16-06-2024,25-07-2025,11434052,4112365,17021670,75.84,53,94,Medium,Critical,33
+PRJ004,Leverage Open-Source Markets,CLT003,DPT003,EMP094,Ekaja Sawhney,Internal,Strategic,On Hold,Medium,12-01-2026,25-08-2027,36985658,8876941,15327694,42.09,20,85,Low,On Track,84
+PRJ005,Unleash Bleeding-Edge Deliverables,CLT015,DPT004,EMP099,Praneel Sule,Time & Material,Internal,On Hold,Medium,29-11-2025,19-01-2027,6354748,2452791,17089974,85.65,22,63,Medium,On Track,85
+PRJ006,Re-Contextualize Sticky Technologies,CLT018,DPT002,EMP090,Mohini Aurora,Time & Material,Internal,On Hold,Medium,03-01-2026,15-07-2026,41878089,11984920,21046300,43.05,41,83,Medium,On Track,29
+PRJ007,Maximize Interactive Interfaces,CLT003,DPT003,EMP041,Chatura Oza,Fixed Price,Strategic,Completed,Critical,16-05-2025,28-10-2026,18967786,2720921,6360625,57.22,82,96,High,Delayed,18
+PRJ008,Disintermediate Customized Experiences,CLT017,DPT004,EMP018,Jeet Ranganathan,Internal,Internal,On Hold,Medium,08-12-2025,15-12-2026,38672777,36670153,41178225,10.95,84,48,High,Delayed,11
+PRJ009,Synergize Turn-Key Relationships,CLT004,DPT004,EMP015,Kalpit Mutti,Internal,Client,Completed,Critical,21-03-2026,22-12-2026,43107191,11236210,24625096,54.37,97,78,Medium,Critical,32
+PRJ010,Reinvent Global Vortals,CLT036,DPT003,EMP002,Kalpit Deol,Fixed Price,Internal,Completed,Medium,26-05-2025,18-01-2026,46748808,36535468,49233107,25.79,44,69,Low,Critical,33
+PRJ011,Drive Collaborative Eyeballs,CLT033,DPT003,EMP098,Kashish Raj,Internal,Strategic,Cancelled,Medium,05-04-2025,01-02-2026,35069940,7641109,22345987,65.81,90,49,Medium,On Track,69
+PRJ012,Grow Compelling Relationships,CLT034,DPT003,EMP001,Adweta Solanki,Fixed Price,Client,In Progress,Low,12-03-2025,06-06-2026,33789774,1153531,3130359,63.15,56,45,High,Delayed,8
+PRJ013,Re-Contextualize Proactive Mindshare,CLT035,DPT003,EMP099,Praneel Sule,Internal,Strategic,Completed,Medium,10-12-2025,15-08-2026,9616205,8473915,17798088,52.39,31,99,High,Critical,88
+PRJ014,Enable Proactive E-Tailers,CLT013,DPT004,EMP092,Ekani Buch,Internal,Internal,Planning,Medium,12-11-2024,25-01-2026,27775919,23038074,34041218,32.32,57,54,Low,Delayed,2
+PRJ015,Iterate Open-Source E-Services,CLT038,DPT001,EMP071,Ira Khosla,Fixed Price,Client,Planning,High,01-10-2024,21-09-2025,40489547,15278538,15499180,1.42,19,44,High,On Track,35
+PRJ016,Synergize Open-Source Platforms,CLT032,DPT004,EMP028,Reva Chacko,Fixed Price,Client,Planning,Critical,01-01-2026,04-11-2027,9879297,8430103,12606920,33.13,70,62,Medium,Delayed,59
+PRJ017,Envisioneer Dot-Com Channels,CLT004,DPT001,EMP087,Omya Issac,Fixed Price,Client,In Progress,Critical,11-12-2025,19-07-2026,5067647,3877432,16194828,76.06,53,48,Medium,On Track,35
+PRJ018,Incentivize Innovative Channels,CLT030,DPT001,EMP032,Wakeeta Deshpande,Fixed Price,Strategic,Cancelled,Low,31-03-2025,14-10-2025,30738000,27612727,42163766,34.51,80,45,Low,On Track,52
+PRJ019,Transition Front-End Portals,CLT032,DPT001,EMP062,Chandani Mane,Time & Material,Internal,Completed,High,01-11-2025,05-10-2026,27913358,2467477,5329629,53.7,58,67,High,Critical,71
+PRJ020,Re-Intermediate Robust Info-Mediaries,CLT032,DPT001,EMP020,Qabil Chaudhry,Internal,Internal,Planning,Low,02-04-2025,10-02-2026,20911725,7804829,8886015,12.17,84,77,Medium,Critical,67

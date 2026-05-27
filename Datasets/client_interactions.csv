@@ -1,0 +1,301 @@
+interaction_id,client_id,contact_name,employee_id,employee_name,interaction_type,interaction_date,interaction_duration_minutes,meeting_channel,interaction_outcome,followup_required,next_followup_date,response_time_hours
+INT0001,CLT020,Shelia Hill,EMP051,Ryan Hall,Social Media,07-04-2026,62,Phone,Negative,No,,6.2
+INT0002,CLT021,Brian Harmon,EMP083,Dr. Mark Harris DVM,Email,17-09-2025,69,In-person,Positive,Yes,24-09-2025,63.3
+INT0003,CLT036,Amanda Thompson,EMP082,Jeffrey Mccormick,Meeting,09-08-2025,65,Zoom,Positive,Yes,16-08-2025,37.8
+INT0004,CLT020,James Robinson,EMP022,Lucas Franklin,Demo,25-03-2026,100,Teams,Neutral,Yes,01-04-2026,68.3
+INT0005,CLT034,Michael Young,EMP037,Priscilla Weaver,Demo,30-09-2025,35,In-person,Positive,Yes,07-10-2025,45.4
+INT0006,CLT040,Kevin Mccarthy,EMP069,Kaitlyn George,Social Media,26-08-2025,92,Teams,Negative,Yes,02-09-2025,67.9
+INT0007,CLT010,Preston Johnson,EMP022,Lucas Franklin,Social Media,19-02-2026,15,Zoom,Positive,No,,4.2
+INT0008,CLT037,Eugene Adams,EMP034,Karen Buckley,Social Media,21-01-2026,63,Zoom,Neutral,Yes,28-01-2026,64.1
+INT0009,CLT035,Corey Estes,EMP038,Diana Carlson,Email,16-08-2025,41,Phone,Neutral,No,,33.2
+INT0010,CLT004,Christine Young,EMP021,Nancy Dalton MD,Email,17-05-2026,71,Phone,Positive,No,,25.2
+INT0011,CLT010,Morgan Henderson,EMP041,Ashley Burke,Demo,07-09-2025,61,Teams,Neutral,No,,37.6
+INT0012,CLT007,Isaac Jackson,EMP041,Ashley Burke,Email,23-03-2026,25,In-person,Neutral,Yes,30-03-2026,18.6
+INT0013,CLT007,Sandra Ruiz,EMP007,Grace Avery,Email,18-06-2025,120,Phone,Positive,No,,69.4
+INT0014,CLT011,Michelle Torres,EMP042,Stephanie Johnson,Meeting,14-09-2025,107,Teams,Neutral,No,,71.7
+INT0015,CLT030,Julie King,EMP064,Brian Martinez,Email,14-10-2025,12,Zoom,Neutral,No,,36.9
+INT0016,CLT016,Derrick Beck,EMP028,Justin Lee,Call,19-05-2026,16,In-person,Neutral,No,,43.4
+INT0017,CLT031,Loretta Miller,EMP037,Priscilla Weaver,Call,13-02-2026,65,Teams,Neutral,Yes,20-02-2026,52.7
+INT0018,CLT026,Scott Little,EMP047,Nicole Hernandez,Email,08-10-2025,16,Teams,Neutral,Yes,15-10-2025,40.3
+INT0019,CLT005,Trevor Herman,EMP050,Lauren Crosby,Social Media,05-06-2025,45,Zoom,Positive,No,,70.2
+INT0020,CLT026,Cassandra Rangel,EMP048,Sherri Thompson,Social Media,12-03-2026,56,Teams,Positive,No,,43.8
+INT0021,CLT026,Cindy Garcia,EMP065,Brent Allen,Call,22-07-2025,14,Teams,Negative,Yes,29-07-2025,24.6
+INT0022,CLT031,Thomas Byrd,EMP067,Lisa Weaver,Meeting,08-11-2025,87,Teams,Neutral,No,,67.1
+INT0023,CLT021,Pamela Calhoun,EMP021,Nancy Dalton MD,Social Media,08-04-2026,104,In-person,Negative,No,,24.9
+INT0024,CLT033,Mercedes Fischer,EMP069,Kaitlyn George,Social Media,19-03-2026,48,Phone,Positive,No,,27.2
+INT0025,CLT008,Candice Anderson,EMP054,Deborah Martinez,Call,04-01-2026,86,Phone,Neutral,No,,69.7
+INT0026,CLT038,Victoria Wu,EMP074,Melissa Robles,Call,22-08-2025,84,Phone,Positive,Yes,29-08-2025,38.2
+INT0027,CLT040,Keith Ramirez,EMP100,Michael Hurley,Meeting,26-10-2025,115,Teams,Positive,No,,41.7
+INT0028,CLT008,Karina Schmidt,EMP025,Leslie Novak,Email,21-11-2025,50,Phone,Positive,Yes,28-11-2025,30.3
+INT0029,CLT014,Ashley Moody,EMP053,Jeremy Howard,Call,06-05-2026,100,Teams,Negative,No,,15.7
+INT0030,CLT021,Morgan Calderon,EMP085,Kim Smith,Social Media,19-12-2025,58,In-person,Positive,No,,33.6
+INT0031,CLT035,Thomas Murphy,EMP044,Scott Williams,Demo,24-02-2026,88,Phone,Positive,No,,69
+INT0032,CLT018,Amy Powers,EMP072,Kelsey Larson,Meeting,29-04-2026,48,In-person,Negative,No,,15.7
+INT0033,CLT032,Miranda Gutierrez,EMP041,Ashley Burke,Demo,31-01-2026,81,In-person,Neutral,No,,9.7
+INT0034,CLT035,Amanda Haynes,EMP049,Jason Tran,Demo,13-06-2025,108,Teams,Neutral,No,,4
+INT0035,CLT006,Kathleen Taylor,EMP045,William Jones,Demo,07-01-2026,105,Phone,Positive,No,,15.3
+INT0036,CLT035,Carolyn Gallegos,EMP035,Rachel Berry,Meeting,27-11-2025,23,Teams,Positive,No,,4.6
+INT0037,CLT034,Vanessa Phillips,EMP029,Jose Smith,Call,27-09-2025,22,Phone,Neutral,Yes,04-10-2025,51.9
+INT0038,CLT007,Diana Martinez,EMP088,Stacey Reynolds,Call,17-03-2026,80,Teams,Neutral,Yes,24-03-2026,47.4
+INT0039,CLT031,Scott Bush,EMP062,Micheal Hansen DVM,Demo,15-10-2025,51,In-person,Negative,Yes,22-10-2025,5.2
+INT0040,CLT006,Bobby White,EMP084,Steven Ryan,Social Media,04-11-2025,104,Zoom,Positive,Yes,11-11-2025,30.7
+INT0041,CLT012,Tamara Villa,EMP005,Willie Harris,Email,20-04-2026,33,In-person,Positive,No,,1.7
+INT0042,CLT037,Lacey Rodriguez,EMP078,Tara Cordova,Demo,25-02-2026,46,Phone,Negative,Yes,04-03-2026,39.6
+INT0043,CLT032,Glenn King,EMP018,Micheal Oconnor,Demo,13-04-2026,34,Zoom,Neutral,No,,12.5
+INT0044,CLT030,Dwayne Johnson,EMP083,Dr. Mark Harris DVM,Meeting,01-08-2025,11,In-person,Neutral,No,,41.3
+INT0045,CLT013,Chelsea Smith,EMP023,Jordan Olson,Email,19-03-2026,75,In-person,Positive,No,,29.5
+INT0046,CLT007,Laurie Odonnell,EMP024,Jacqueline Gutierrez,Email,05-11-2025,51,Teams,Positive,Yes,12-11-2025,19.5
+INT0047,CLT016,James Mcdaniel,EMP058,Michael Hernandez,Demo,15-02-2026,48,Zoom,Neutral,No,,47.4
+INT0048,CLT016,Stephen Ray,EMP008,Brian Tate,Email,10-05-2026,49,Teams,Neutral,Yes,17-05-2026,49.7
+INT0049,CLT020,Paula Collier,EMP089,Steven Morales,Demo,27-08-2025,57,Teams,Positive,Yes,03-09-2025,69
+INT0050,CLT031,Rebecca Long,EMP020,Lisa Hughes,Social Media,07-03-2026,57,Phone,Negative,No,,40
+INT0051,CLT031,Michael Fuentes,EMP097,Kenneth Hobbs,Meeting,20-06-2025,97,Zoom,Negative,Yes,27-06-2025,32.7
+INT0052,CLT024,Dillon Harper,EMP010,Sandra Sanders,Call,16-08-2025,116,Teams,Negative,Yes,23-08-2025,39.1
+INT0053,CLT011,Mr. Kent Cordova MD,EMP042,Stephanie Johnson,Call,03-10-2025,97,Teams,Negative,No,,42.4
+INT0054,CLT006,William Ford,EMP066,Mr. Jason Robinson MD,Call,15-01-2026,68,Teams,Negative,No,,30.5
+INT0055,CLT037,James Brooks,EMP008,Brian Tate,Demo,07-05-2026,102,Zoom,Neutral,No,,19.1
+INT0056,CLT001,Trevor Harris,EMP096,Sarah Smith,Social Media,21-01-2026,19,Zoom,Neutral,Yes,28-01-2026,25.5
+INT0057,CLT005,Daniel Schaefer,EMP070,Anita Callahan,Call,24-03-2026,70,Zoom,Neutral,Yes,31-03-2026,30
+INT0058,CLT009,Lisa Scott,EMP099,Gloria Lewis,Demo,26-04-2026,58,Phone,Neutral,No,,27.7
+INT0059,CLT035,Michael Mendoza,EMP018,Micheal Oconnor,Call,09-12-2025,32,Phone,Negative,No,,10
+INT0060,CLT015,Frank Williams,EMP001,Barbara Parks,Demo,30-03-2026,69,Phone,Negative,Yes,06-04-2026,27.9
+INT0061,CLT015,Jim Hall,EMP032,Kenneth Rasmussen,Demo,24-09-2025,29,In-person,Positive,No,,67.6
+INT0062,CLT008,Elizabeth Parker,EMP005,Willie Harris,Social Media,24-06-2025,108,Zoom,Positive,No,,15.6
+INT0063,CLT007,Michelle Kane,EMP077,Thomas Kennedy,Email,13-04-2026,86,Zoom,Positive,Yes,20-04-2026,53.6
+INT0064,CLT026,Randall Ruiz,EMP057,Emily Perez,Social Media,07-01-2026,37,Zoom,Positive,Yes,14-01-2026,36.8
+INT0065,CLT019,Austin Clark,EMP030,John Valencia,Social Media,04-03-2026,86,In-person,Positive,No,,22.4
+INT0066,CLT010,Roberto Leonard,EMP085,Kim Smith,Email,03-09-2025,48,In-person,Positive,Yes,10-09-2025,40.5
+INT0067,CLT038,Devin Newman,EMP095,Andrew James,Email,27-12-2025,81,Phone,Positive,Yes,03-01-2026,70
+INT0068,CLT025,Timothy Finley,EMP068,Rebecca Harrison,Email,12-09-2025,62,Teams,Neutral,No,,27.7
+INT0069,CLT035,Danielle Beasley,EMP061,Tony Mccarty,Meeting,07-07-2025,48,Teams,Neutral,Yes,14-07-2025,65.9
+INT0070,CLT036,Rodney Daniels,EMP053,Jeremy Howard,Social Media,26-05-2025,77,Teams,Neutral,No,,18.2
+INT0071,CLT014,Melissa Aguirre,EMP043,Matthew Morris,Email,18-05-2026,118,In-person,Positive,Yes,25-05-2026,39
+INT0072,CLT013,Shannon Miller,EMP007,Grace Avery,Email,01-04-2026,96,Zoom,Positive,No,,14.4
+INT0073,CLT038,Sandra Thomas,EMP093,Christopher Douglas,Email,12-05-2026,36,In-person,Neutral,Yes,19-05-2026,68.9
+INT0074,CLT001,Chad Mack,EMP028,Justin Lee,Call,18-07-2025,105,Phone,Positive,Yes,25-07-2025,50.4
+INT0075,CLT014,Sean Romero,EMP051,Ryan Hall,Social Media,21-03-2026,51,In-person,Neutral,Yes,28-03-2026,34.1
+INT0076,CLT023,Kevin Thompson,EMP040,Amy Hubbard,Demo,13-11-2025,75,Phone,Neutral,No,,8
+INT0077,CLT031,Laura Martinez,EMP098,Chelsea Munoz,Meeting,10-04-2026,57,In-person,Neutral,No,,4.2
+INT0078,CLT015,Eric Smith,EMP095,Andrew James,Call,03-08-2025,43,Phone,Neutral,Yes,10-08-2025,11.8
+INT0079,CLT022,Chelsea Williams,EMP030,John Valencia,Social Media,26-06-2025,116,Teams,Neutral,No,,40.1
+INT0080,CLT022,Christine Santos,EMP033,Lisa Anderson,Email,18-11-2025,68,Teams,Negative,No,,57.4
+INT0081,CLT011,Amanda Chavez,EMP018,Micheal Oconnor,Meeting,10-12-2025,79,Zoom,Negative,No,,3.4
+INT0082,CLT005,Tracey Collins,EMP086,James Fields,Call,11-12-2025,62,Teams,Negative,Yes,18-12-2025,17.4
+INT0083,CLT010,Shannon Rosales,EMP002,Thomas Thomas,Social Media,26-05-2025,68,In-person,Positive,Yes,02-06-2025,44.9
+INT0084,CLT040,Troy Morales,EMP062,Micheal Hansen DVM,Call,18-02-2026,10,Phone,Positive,No,,2.2
+INT0085,CLT018,John Williams,EMP069,Kaitlyn George,Call,09-11-2025,74,Phone,Positive,No,,8.6
+INT0086,CLT007,Chad Porter,EMP068,Rebecca Harrison,Meeting,27-11-2025,34,In-person,Neutral,Yes,04-12-2025,20
+INT0087,CLT026,Justin Flores,EMP011,Joshua Sanchez DVM,Email,28-10-2025,68,Teams,Negative,No,,17
+INT0088,CLT006,Michael Best,EMP084,Steven Ryan,Call,31-03-2026,61,Phone,Neutral,Yes,07-04-2026,40.2
+INT0089,CLT004,Mr. James Santos,EMP082,Jeffrey Mccormick,Meeting,25-12-2025,20,Phone,Neutral,Yes,01-01-2026,46.8
+INT0090,CLT022,Brandy Perez,EMP073,William Moran,Social Media,30-06-2025,15,Teams,Positive,Yes,07-07-2025,65
+INT0091,CLT037,Edward Lambert,EMP061,Tony Mccarty,Call,15-07-2025,19,In-person,Negative,No,,41
+INT0092,CLT003,Gregory Marquez,EMP023,Jordan Olson,Call,20-08-2025,36,Teams,Negative,No,,59.3
+INT0093,CLT005,Juan Simpson,EMP039,Gloria Colon,Social Media,01-03-2026,40,Phone,Negative,Yes,08-03-2026,64.7
+INT0094,CLT022,Patrick Allen,EMP050,Lauren Crosby,Call,12-04-2026,74,In-person,Positive,Yes,19-04-2026,7.9
+INT0095,CLT015,Phillip Allen,EMP010,Sandra Sanders,Social Media,22-03-2026,108,Phone,Neutral,No,,3.1
+INT0096,CLT018,Michelle Logan,EMP058,Michael Hernandez,Meeting,10-12-2025,55,Phone,Neutral,No,,14.2
+INT0097,CLT038,Kimberly Evans,EMP085,Kim Smith,Call,03-08-2025,108,In-person,Positive,No,,51.6
+INT0098,CLT006,Michael Novak,EMP035,Rachel Berry,Email,13-07-2025,101,Teams,Negative,Yes,20-07-2025,28.7
+INT0099,CLT024,Pamela Stephens,EMP014,Jenna Velazquez,Call,10-06-2025,49,Phone,Neutral,Yes,17-06-2025,55.1
+INT0100,CLT007,John Guerra,EMP017,Monique Brown,Meeting,11-06-2025,65,Phone,Negative,Yes,18-06-2025,40.4
+INT0101,CLT027,Samuel Williams,EMP014,Jenna Velazquez,Call,13-03-2026,55,Zoom,Negative,Yes,20-03-2026,43.5
+INT0102,CLT021,Brian Davis,EMP050,Lauren Crosby,Demo,05-10-2025,62,Phone,Positive,Yes,12-10-2025,52.5
+INT0103,CLT036,Jeffrey Smith,EMP032,Kenneth Rasmussen,Email,11-06-2025,31,Teams,Neutral,Yes,18-06-2025,22.4
+INT0104,CLT032,Connor Case,EMP019,Oscar Webb,Meeting,03-03-2026,65,In-person,Neutral,Yes,10-03-2026,22.3
+INT0105,CLT005,Lorraine Bridges,EMP047,Nicole Hernandez,Meeting,11-06-2025,102,Phone,Negative,No,,44.8
+INT0106,CLT030,Stephen Graves,EMP014,Jenna Velazquez,Demo,08-12-2025,10,Phone,Neutral,Yes,15-12-2025,60.8
+INT0107,CLT025,James Hammond,EMP043,Matthew Morris,Demo,30-07-2025,65,Teams,Neutral,No,,23.8
+INT0108,CLT013,Amanda Morris,EMP062,Micheal Hansen DVM,Meeting,04-05-2026,60,In-person,Neutral,No,,53.2
+INT0109,CLT032,Aaron Burnett,EMP074,Melissa Robles,Demo,27-01-2026,58,In-person,Neutral,Yes,03-02-2026,26.9
+INT0110,CLT037,Evan Barrett,EMP026,Jennifer Gonzales,Social Media,03-03-2026,13,Phone,Negative,Yes,10-03-2026,15.9
+INT0111,CLT019,Stephen Williams,EMP089,Steven Morales,Email,11-01-2026,96,Phone,Positive,Yes,18-01-2026,46
+INT0112,CLT016,Stacy Garcia,EMP033,Lisa Anderson,Email,12-09-2025,111,Phone,Positive,Yes,19-09-2025,32.9
+INT0113,CLT039,William Cordova,EMP062,Micheal Hansen DVM,Social Media,26-10-2025,74,Phone,Negative,No,,3.6
+INT0114,CLT024,Omar Reeves,EMP090,Monica Bailey,Call,12-03-2026,108,Teams,Negative,Yes,19-03-2026,48.2
+INT0115,CLT011,Charles Maldonado,EMP083,Dr. Mark Harris DVM,Social Media,26-11-2025,92,Phone,Neutral,Yes,03-12-2025,69.6
+INT0116,CLT028,Tim Adams,EMP014,Jenna Velazquez,Call,11-09-2025,43,Teams,Negative,Yes,18-09-2025,54
+INT0117,CLT036,Joshua Pope,EMP075,Anita Ryan,Email,30-10-2025,57,Phone,Neutral,Yes,06-11-2025,55.8
+INT0118,CLT038,William Webb,EMP089,Steven Morales,Demo,22-02-2026,13,Phone,Positive,Yes,01-03-2026,22
+INT0119,CLT006,Cheryl Patton,EMP015,Rhonda Bennett,Demo,30-07-2025,49,In-person,Neutral,Yes,06-08-2025,56.7
+INT0120,CLT034,Amber Kim,EMP062,Micheal Hansen DVM,Email,21-02-2026,22,Phone,Negative,No,,50.5
+INT0121,CLT021,Lisa Wright,EMP009,Ryan Torres,Call,29-05-2025,113,Zoom,Positive,No,,61.3
+INT0122,CLT007,Katherine Johnson,EMP087,Joshua Doyle,Meeting,15-07-2025,76,Teams,Negative,Yes,22-07-2025,12.4
+INT0123,CLT036,Robert Goodwin,EMP055,Michael Scott,Meeting,31-10-2025,112,Phone,Negative,No,,14.1
+INT0124,CLT028,Ivan Evans,EMP051,Ryan Hall,Social Media,04-04-2026,35,Phone,Negative,Yes,11-04-2026,31.5
+INT0125,CLT001,John Harris DDS,EMP091,Alexandra Kirk,Meeting,19-01-2026,45,Zoom,Negative,Yes,26-01-2026,8.2
+INT0126,CLT035,Sarah Dunlap,EMP024,Jacqueline Gutierrez,Demo,19-09-2025,35,Phone,Positive,No,,19.6
+INT0127,CLT032,Connor Simmons,EMP068,Rebecca Harrison,Social Media,09-02-2026,59,Phone,Negative,No,,9.1
+INT0128,CLT023,Brittany Moreno,EMP059,David Figueroa,Demo,12-07-2025,88,Zoom,Negative,Yes,19-07-2025,10.5
+INT0129,CLT008,Jason Cunningham,EMP031,Jose Carroll,Call,05-04-2026,33,In-person,Negative,No,,11
+INT0130,CLT025,Sherry Snyder,EMP054,Deborah Martinez,Social Media,20-01-2026,59,Phone,Positive,Yes,27-01-2026,35.6
+INT0131,CLT035,Amy Smith,EMP089,Steven Morales,Social Media,15-04-2026,31,Phone,Neutral,Yes,22-04-2026,11
+INT0132,CLT021,Gina Munoz,EMP058,Michael Hernandez,Demo,10-06-2025,11,Phone,Positive,Yes,17-06-2025,14.9
+INT0133,CLT025,John Wilson,EMP072,Kelsey Larson,Email,19-04-2026,97,Phone,Neutral,No,,51.4
+INT0134,CLT029,Kevin Chang,EMP063,Edward Odonnell,Call,24-10-2025,82,Zoom,Positive,Yes,31-10-2025,21.7
+INT0135,CLT018,Kimberly Blake,EMP029,Jose Smith,Meeting,06-06-2025,109,Phone,Negative,No,,53.7
+INT0136,CLT032,Andrew Hull,EMP071,Paul Bailey,Social Media,02-06-2025,24,In-person,Negative,Yes,09-06-2025,59.5
+INT0137,CLT024,Michael Boyd,EMP070,Anita Callahan,Email,26-11-2025,79,Teams,Neutral,Yes,03-12-2025,8.3
+INT0138,CLT016,Brittany Barrett,EMP039,Gloria Colon,Email,06-11-2025,43,In-person,Positive,Yes,13-11-2025,32.2
+INT0139,CLT008,Penny Hoffman,EMP100,Michael Hurley,Meeting,31-10-2025,113,In-person,Negative,Yes,07-11-2025,44.3
+INT0140,CLT028,Cheryl Miller,EMP022,Lucas Franklin,Meeting,14-06-2025,114,Teams,Positive,Yes,21-06-2025,41.5
+INT0141,CLT035,Mary Zimmerman,EMP036,Deanna Marsh,Demo,30-01-2026,100,In-person,Neutral,Yes,06-02-2026,41.7
+INT0142,CLT033,Melissa Schwartz,EMP087,Joshua Doyle,Meeting,07-05-2026,106,Phone,Positive,Yes,14-05-2026,71.5
+INT0143,CLT009,Mario Price,EMP090,Monica Bailey,Meeting,29-05-2025,28,In-person,Positive,Yes,05-06-2025,55.1
+INT0144,CLT026,Christopher Smith,EMP063,Edward Odonnell,Social Media,06-02-2026,90,In-person,Negative,Yes,13-02-2026,30.4
+INT0145,CLT029,Sara Ewing,EMP010,Sandra Sanders,Email,07-03-2026,75,In-person,Negative,Yes,14-03-2026,67.5
+INT0146,CLT024,Michele Jones,EMP059,David Figueroa,Demo,06-07-2025,84,Zoom,Negative,No,,7.6
+INT0147,CLT030,Benjamin Rice,EMP082,Jeffrey Mccormick,Call,18-01-2026,111,Phone,Positive,No,,69.7
+INT0148,CLT014,Christine Gross,EMP064,Brian Martinez,Demo,19-10-2025,116,In-person,Neutral,No,,39.9
+INT0149,CLT009,Laura Hall,EMP073,William Moran,Demo,21-07-2025,97,Zoom,Positive,No,,8.1
+INT0150,CLT030,Brandi Mays,EMP003,Adrian Fernandez,Meeting,05-10-2025,66,Phone,Positive,Yes,12-10-2025,71.4
+INT0151,CLT028,Daniel Rangel,EMP026,Jennifer Gonzales,Demo,06-03-2026,30,In-person,Positive,Yes,13-03-2026,47.5
+INT0152,CLT017,Kerry Rios,EMP011,Joshua Sanchez DVM,Meeting,28-04-2026,16,Phone,Negative,No,,22.7
+INT0153,CLT015,Jose Jones,EMP055,Michael Scott,Call,23-06-2025,10,Teams,Neutral,Yes,30-06-2025,6.5
+INT0154,CLT038,Ralph Green,EMP029,Jose Smith,Call,04-11-2025,11,In-person,Positive,No,,71.2
+INT0155,CLT028,Justin Davis,EMP089,Steven Morales,Email,03-06-2025,19,Teams,Neutral,Yes,10-06-2025,7.3
+INT0156,CLT007,Michelle Davis,EMP014,Jenna Velazquez,Demo,25-10-2025,48,Teams,Neutral,No,,55.9
+INT0157,CLT009,Leroy Wilson,EMP083,Dr. Mark Harris DVM,Call,02-05-2026,77,Zoom,Negative,Yes,09-05-2026,47.2
+INT0158,CLT029,Kathy Thompson,EMP045,William Jones,Meeting,16-04-2026,62,Phone,Positive,Yes,23-04-2026,7.2
+INT0159,CLT007,Samantha Rodriguez,EMP018,Micheal Oconnor,Social Media,13-08-2025,103,Phone,Neutral,Yes,20-08-2025,69.4
+INT0160,CLT021,Richard Dillon,EMP018,Micheal Oconnor,Demo,24-05-2025,92,Zoom,Positive,Yes,31-05-2025,40.3
+INT0161,CLT039,Erin Savage,EMP093,Christopher Douglas,Call,26-04-2026,118,In-person,Positive,No,,37.8
+INT0162,CLT033,Cheryl Donaldson,EMP025,Leslie Novak,Demo,05-11-2025,92,Zoom,Positive,No,,36.1
+INT0163,CLT008,Frank Howard,EMP031,Jose Carroll,Social Media,08-07-2025,19,Zoom,Neutral,No,,67.3
+INT0164,CLT009,Derek Lester,EMP050,Lauren Crosby,Demo,24-04-2026,79,Teams,Neutral,No,,68.8
+INT0165,CLT005,Steven Kim,EMP003,Adrian Fernandez,Call,17-05-2026,43,Teams,Positive,Yes,24-05-2026,66.5
+INT0166,CLT026,George Anderson,EMP065,Brent Allen,Social Media,19-02-2026,108,Phone,Neutral,No,,50.8
+INT0167,CLT006,Philip Sullivan,EMP082,Jeffrey Mccormick,Demo,17-11-2025,20,In-person,Positive,Yes,24-11-2025,37.3
+INT0168,CLT014,Charles Wheeler,EMP020,Lisa Hughes,Email,18-06-2025,85,Zoom,Neutral,No,,50.6
+INT0169,CLT016,Dawn Bolton,EMP008,Brian Tate,Call,19-10-2025,65,Zoom,Neutral,Yes,26-10-2025,44.5
+INT0170,CLT004,Christopher Christensen,EMP040,Amy Hubbard,Call,29-12-2025,11,Teams,Negative,Yes,05-01-2026,1.8
+INT0171,CLT032,Tyler Rivera,EMP045,William Jones,Meeting,28-05-2025,57,Teams,Negative,No,,56.5
+INT0172,CLT018,Anita Hurley,EMP094,Russell Sims,Call,15-10-2025,52,Phone,Neutral,Yes,22-10-2025,38.2
+INT0173,CLT017,Abigail Nelson,EMP092,Natalie Johnson,Email,18-01-2026,68,In-person,Positive,Yes,25-01-2026,36.5
+INT0174,CLT037,Gary Foster,EMP022,Lucas Franklin,Meeting,17-03-2026,42,Zoom,Negative,No,,48.9
+INT0175,CLT008,Susan Gardner,EMP030,John Valencia,Call,25-05-2025,119,Zoom,Positive,Yes,01-06-2025,4.3
+INT0176,CLT024,Paul Mccoy,EMP050,Lauren Crosby,Meeting,12-09-2025,119,Zoom,Negative,Yes,19-09-2025,58
+INT0177,CLT027,Evan Frazier,EMP029,Jose Smith,Meeting,25-08-2025,63,In-person,Neutral,No,,59.6
+INT0178,CLT037,Claudia Smith,EMP048,Sherri Thompson,Social Media,16-08-2025,96,Zoom,Positive,Yes,23-08-2025,16.8
+INT0179,CLT034,Kevin Anderson,EMP006,Donna Carlson,Call,17-09-2025,69,In-person,Neutral,No,,24.2
+INT0180,CLT036,Tyler Morton,EMP059,David Figueroa,Demo,12-11-2025,35,In-person,Negative,Yes,19-11-2025,56.7
+INT0181,CLT040,Loretta Aguilar,EMP032,Kenneth Rasmussen,Demo,26-06-2025,85,Phone,Positive,No,,53
+INT0182,CLT035,James Johnson,EMP098,Chelsea Munoz,Meeting,01-06-2025,10,Phone,Positive,Yes,08-06-2025,17.5
+INT0183,CLT023,Mr. Jeremy Thomas,EMP082,Jeffrey Mccormick,Demo,04-11-2025,10,Phone,Negative,Yes,11-11-2025,52.6
+INT0184,CLT007,Ronald Ramos Jr.,EMP027,Ann Ramirez,Email,19-10-2025,72,Zoom,Positive,Yes,26-10-2025,51.5
+INT0185,CLT006,Connor Hale,EMP006,Donna Carlson,Social Media,12-11-2025,62,In-person,Neutral,Yes,19-11-2025,70.2
+INT0186,CLT006,Donna Buchanan,EMP075,Anita Ryan,Social Media,24-11-2025,27,Phone,Positive,Yes,01-12-2025,43
+INT0187,CLT004,Ricky Long,EMP056,David Martinez,Meeting,09-10-2025,47,In-person,Neutral,Yes,16-10-2025,66.7
+INT0188,CLT026,Dr. Lori Jones DDS,EMP090,Monica Bailey,Demo,30-12-2025,67,In-person,Positive,No,,6.3
+INT0189,CLT013,Benjamin Carrillo,EMP018,Micheal Oconnor,Meeting,08-08-2025,23,Teams,Neutral,Yes,15-08-2025,34.1
+INT0190,CLT027,Megan Parks,EMP016,Nicholas Santos,Meeting,16-09-2025,67,In-person,Neutral,No,,19.8
+INT0191,CLT008,Ryan Nelson,EMP012,James Gregory,Demo,27-01-2026,115,Zoom,Positive,Yes,03-02-2026,60.4
+INT0192,CLT021,Judith Young,EMP019,Oscar Webb,Meeting,19-08-2025,55,Phone,Negative,Yes,26-08-2025,4.5
+INT0193,CLT020,Natasha Ibarra,EMP034,Karen Buckley,Call,01-12-2025,61,Phone,Negative,Yes,08-12-2025,54.1
+INT0194,CLT016,Ronald Jones,EMP013,Anthony Cole,Call,04-11-2025,112,Teams,Positive,No,,1.8
+INT0195,CLT015,Dustin Christian,EMP017,Monique Brown,Email,10-04-2026,57,Zoom,Negative,Yes,17-04-2026,42.6
+INT0196,CLT005,Colleen Miller,EMP003,Adrian Fernandez,Meeting,21-05-2026,92,Phone,Positive,Yes,28-05-2026,7.5
+INT0197,CLT022,Alexis Lara,EMP016,Nicholas Santos,Email,18-01-2026,16,Teams,Negative,Yes,25-01-2026,31.8
+INT0198,CLT026,Brianna Lamb,EMP064,Brian Martinez,Email,01-12-2025,97,Phone,Positive,Yes,08-12-2025,26.1
+INT0199,CLT012,Kenneth Jennings,EMP036,Deanna Marsh,Email,11-06-2025,29,Zoom,Negative,No,,45
+INT0200,CLT016,Casey Bennett,EMP083,Dr. Mark Harris DVM,Email,01-12-2025,62,Phone,Positive,No,,7.2
+INT0201,CLT025,Sarah Miller,EMP018,Micheal Oconnor,Meeting,19-12-2025,92,Teams,Negative,No,,71.6
+INT0202,CLT035,Brianna Stevenson,EMP003,Adrian Fernandez,Demo,11-05-2026,71,Phone,Neutral,No,,65.8
+INT0203,CLT033,Shelly Daugherty,EMP042,Stephanie Johnson,Demo,23-08-2025,33,Zoom,Neutral,No,,43.4
+INT0204,CLT002,Lacey Thompson,EMP100,Michael Hurley,Call,26-01-2026,113,Phone,Negative,No,,26.4
+INT0205,CLT038,Denise Reid,EMP030,John Valencia,Call,24-12-2025,41,Teams,Neutral,Yes,31-12-2025,38.9
+INT0206,CLT004,Justin Newton,EMP098,Chelsea Munoz,Social Media,06-06-2025,118,Phone,Neutral,Yes,13-06-2025,67.4
+INT0207,CLT012,Evan Cox,EMP023,Jordan Olson,Social Media,16-10-2025,50,In-person,Negative,Yes,23-10-2025,3
+INT0208,CLT023,Michael Downs,EMP073,William Moran,Social Media,17-04-2026,34,Phone,Negative,Yes,24-04-2026,22.9
+INT0209,CLT032,James Moore,EMP005,Willie Harris,Call,08-05-2026,39,Teams,Positive,Yes,15-05-2026,38.4
+INT0210,CLT001,Joshua Gibson,EMP043,Matthew Morris,Meeting,05-06-2025,53,Teams,Neutral,Yes,12-06-2025,5.2
+INT0211,CLT010,Dana Malone,EMP076,Olivia Walton,Call,29-06-2025,118,In-person,Positive,Yes,06-07-2025,27.5
+INT0212,CLT026,Kristy Phillips,EMP076,Olivia Walton,Demo,03-06-2025,48,In-person,Positive,Yes,10-06-2025,70.3
+INT0213,CLT028,Alison Myers,EMP082,Jeffrey Mccormick,Demo,18-02-2026,32,In-person,Positive,No,,48.3
+INT0214,CLT012,Nicole Carson,EMP049,Jason Tran,Demo,08-10-2025,26,Teams,Negative,No,,1.1
+INT0215,CLT037,Jonathan Vazquez,EMP051,Ryan Hall,Meeting,11-01-2026,87,In-person,Negative,Yes,18-01-2026,16.7
+INT0216,CLT037,Heather Randall,EMP014,Jenna Velazquez,Meeting,10-12-2025,52,Zoom,Positive,No,,25.6
+INT0217,CLT021,Ashley Bennett,EMP022,Lucas Franklin,Demo,20-09-2025,67,Zoom,Neutral,Yes,27-09-2025,15.9
+INT0218,CLT005,Tamara Ball,EMP045,William Jones,Call,29-10-2025,102,Zoom,Positive,No,,28.4
+INT0219,CLT027,Emily Wade,EMP022,Lucas Franklin,Email,28-09-2025,58,In-person,Negative,No,,27.6
+INT0220,CLT031,Tonya Walker,EMP074,Melissa Robles,Meeting,26-01-2026,67,Zoom,Positive,Yes,02-02-2026,21.9
+INT0221,CLT021,Ashley Maldonado,EMP034,Karen Buckley,Call,29-08-2025,53,Teams,Neutral,Yes,05-09-2025,12.4
+INT0222,CLT005,Jennifer Carter,EMP071,Paul Bailey,Demo,20-04-2026,86,Phone,Negative,Yes,27-04-2026,3.2
+INT0223,CLT011,Jerry Michael,EMP078,Tara Cordova,Meeting,05-01-2026,16,Zoom,Neutral,No,,15.6
+INT0224,CLT013,John Hall,EMP053,Jeremy Howard,Demo,23-06-2025,48,Teams,Positive,No,,4.5
+INT0225,CLT037,Larry Romero,EMP071,Paul Bailey,Meeting,21-04-2026,16,In-person,Positive,No,,31.4
+INT0226,CLT019,Gregory Willis,EMP085,Kim Smith,Meeting,27-08-2025,22,Zoom,Positive,No,,13.1
+INT0227,CLT019,Jennifer Anderson,EMP011,Joshua Sanchez DVM,Call,03-10-2025,49,Phone,Neutral,No,,35.7
+INT0228,CLT017,Daniel Marshall,EMP012,James Gregory,Meeting,30-07-2025,57,Phone,Neutral,No,,14.2
+INT0229,CLT003,Amanda Thomas,EMP034,Karen Buckley,Email,08-10-2025,43,Teams,Neutral,No,,41.1
+INT0230,CLT010,Barbara Rodriguez,EMP097,Kenneth Hobbs,Call,15-06-2025,95,In-person,Negative,Yes,22-06-2025,30.4
+INT0231,CLT038,Daisy Knox,EMP030,John Valencia,Email,08-11-2025,114,Phone,Negative,Yes,15-11-2025,49.8
+INT0232,CLT031,Christy Monroe,EMP074,Melissa Robles,Email,06-09-2025,48,Zoom,Neutral,Yes,13-09-2025,65.1
+INT0233,CLT003,Dustin Carter,EMP065,Brent Allen,Call,14-07-2025,106,Phone,Positive,Yes,21-07-2025,68.4
+INT0234,CLT011,Juan Sanders,EMP028,Justin Lee,Meeting,19-12-2025,15,Phone,Positive,Yes,26-12-2025,71.2
+INT0235,CLT028,Vanessa Everett,EMP026,Jennifer Gonzales,Social Media,25-02-2026,43,In-person,Negative,Yes,04-03-2026,65.9
+INT0236,CLT005,Curtis Jackson,EMP012,James Gregory,Social Media,31-03-2026,60,In-person,Neutral,No,,37.9
+INT0237,CLT001,Brian Sanchez DDS,EMP090,Monica Bailey,Call,03-01-2026,63,Teams,Positive,No,,41.2
+INT0238,CLT038,Jonathan Fields,EMP098,Chelsea Munoz,Call,30-01-2026,82,Zoom,Neutral,Yes,06-02-2026,62.6
+INT0239,CLT023,Ryan Hamilton,EMP053,Jeremy Howard,Email,02-09-2025,93,Phone,Negative,No,,44.2
+INT0240,CLT003,Lisa Conner,EMP023,Jordan Olson,Email,15-01-2026,28,Phone,Positive,No,,29.1
+INT0241,CLT022,Howard Garrison,EMP089,Steven Morales,Call,26-01-2026,105,Phone,Neutral,Yes,02-02-2026,64.7
+INT0242,CLT002,Alexis Dixon,EMP044,Scott Williams,Demo,03-03-2026,45,Phone,Negative,No,,49.6
+INT0243,CLT015,Shari Wilkinson,EMP018,Micheal Oconnor,Email,27-03-2026,109,In-person,Neutral,No,,52.7
+INT0244,CLT039,Mason Garcia,EMP083,Dr. Mark Harris DVM,Meeting,30-08-2025,66,Teams,Neutral,Yes,06-09-2025,53.6
+INT0245,CLT034,Eric Johnson,EMP048,Sherri Thompson,Social Media,25-05-2025,111,Teams,Positive,Yes,01-06-2025,23.1
+INT0246,CLT033,Anna Ramsey,EMP052,Anthony Hernandez,Social Media,13-04-2026,82,Zoom,Positive,Yes,20-04-2026,14.7
+INT0247,CLT013,Lynn Pace,EMP008,Brian Tate,Call,25-04-2026,68,Zoom,Neutral,Yes,02-05-2026,51
+INT0248,CLT018,William Hanna,EMP048,Sherri Thompson,Social Media,26-11-2025,60,Zoom,Negative,No,,3.2
+INT0249,CLT024,Patrick Gregory,EMP063,Edward Odonnell,Meeting,05-12-2025,70,In-person,Neutral,No,,12.6
+INT0250,CLT017,Lawrence Mendoza,EMP096,Sarah Smith,Demo,08-07-2025,13,Phone,Positive,Yes,15-07-2025,12.6
+INT0251,CLT037,Latasha Gonzalez,EMP100,Michael Hurley,Meeting,12-10-2025,92,Teams,Negative,Yes,19-10-2025,15.7
+INT0252,CLT027,Natalie Hopkins,EMP066,Mr. Jason Robinson MD,Call,22-08-2025,70,Teams,Negative,Yes,29-08-2025,13.3
+INT0253,CLT001,Carlos Durham,EMP029,Jose Smith,Social Media,21-07-2025,113,In-person,Negative,No,,69.7
+INT0254,CLT018,Andrew Young,EMP055,Michael Scott,Demo,16-02-2026,68,In-person,Positive,No,,34.1
+INT0255,CLT034,Roger Wilson,EMP080,Eric Barrett,Social Media,14-03-2026,23,Zoom,Negative,No,,72
+INT0256,CLT024,Daniel Harris,EMP072,Kelsey Larson,Demo,02-04-2026,97,Zoom,Neutral,No,,5.5
+INT0257,CLT018,Brandon Roberts,EMP082,Jeffrey Mccormick,Demo,23-03-2026,43,In-person,Positive,No,,11.6
+INT0258,CLT016,Brian Carpenter,EMP008,Brian Tate,Demo,23-07-2025,97,Teams,Negative,No,,2.8
+INT0259,CLT032,Paul Haas,EMP038,Diana Carlson,Email,14-01-2026,61,Phone,Negative,No,,3.5
+INT0260,CLT037,Mary Pierce DDS,EMP025,Leslie Novak,Meeting,15-06-2025,97,Phone,Negative,No,,26.5
+INT0261,CLT020,Jessica Ward,EMP022,Lucas Franklin,Demo,06-06-2025,22,Phone,Positive,Yes,13-06-2025,53.6
+INT0262,CLT036,Rhonda Pratt,EMP098,Chelsea Munoz,Demo,09-10-2025,93,Zoom,Positive,Yes,16-10-2025,26.2
+INT0263,CLT020,Julie Brown,EMP054,Deborah Martinez,Demo,05-01-2026,43,In-person,Neutral,No,,61.4
+INT0264,CLT031,Joan Ellis,EMP007,Grace Avery,Email,17-12-2025,34,Zoom,Negative,Yes,24-12-2025,28.1
+INT0265,CLT020,Erica Sparks,EMP053,Jeremy Howard,Meeting,22-06-2025,27,Teams,Neutral,Yes,29-06-2025,30.1
+INT0266,CLT037,Tina Barker MD,EMP059,David Figueroa,Demo,23-11-2025,120,Teams,Positive,Yes,30-11-2025,35.6
+INT0267,CLT012,Arthur Smith,EMP041,Ashley Burke,Call,09-02-2026,67,In-person,Positive,Yes,16-02-2026,55
+INT0268,CLT011,Isabella Hogan,EMP074,Melissa Robles,Email,17-01-2026,110,Zoom,Positive,Yes,24-01-2026,44.6
+INT0269,CLT028,Kim Camacho,EMP052,Anthony Hernandez,Email,16-02-2026,59,Zoom,Positive,No,,38.9
+INT0270,CLT024,Debra Adams,EMP002,Thomas Thomas,Social Media,22-06-2025,34,Zoom,Negative,No,,1.3
+INT0271,CLT016,Deborah Oneill,EMP029,Jose Smith,Demo,13-06-2025,26,Zoom,Neutral,No,,36.7
+INT0272,CLT020,Lance Villarreal,EMP022,Lucas Franklin,Call,14-09-2025,48,In-person,Neutral,Yes,21-09-2025,52.7
+INT0273,CLT039,Rachel Turner,EMP068,Rebecca Harrison,Email,22-08-2025,97,Teams,Neutral,No,,71.7
+INT0274,CLT032,Elizabeth Warren,EMP046,Teresa Price,Meeting,21-12-2025,113,Phone,Positive,Yes,28-12-2025,17.2
+INT0275,CLT009,Kaitlyn Olson,EMP028,Justin Lee,Social Media,12-09-2025,74,Teams,Positive,Yes,19-09-2025,27
+INT0276,CLT003,Jeffery Cox,EMP049,Jason Tran,Social Media,09-12-2025,89,Zoom,Negative,No,,71.6
+INT0277,CLT007,Judy Simmons,EMP084,Steven Ryan,Call,28-04-2026,98,Zoom,Neutral,Yes,05-05-2026,32.5
+INT0278,CLT008,Elizabeth Berger,EMP071,Paul Bailey,Email,30-08-2025,99,Teams,Positive,No,,50.4
+INT0279,CLT001,Matthew Stanton,EMP039,Gloria Colon,Call,03-05-2026,94,In-person,Negative,No,,44
+INT0280,CLT009,Christian Hammond,EMP054,Deborah Martinez,Social Media,26-04-2026,102,Zoom,Neutral,Yes,03-05-2026,9.1
+INT0281,CLT007,Rachel Daniels,EMP064,Brian Martinez,Social Media,01-11-2025,35,In-person,Negative,Yes,08-11-2025,70.1
+INT0282,CLT023,Lisa Watson,EMP091,Alexandra Kirk,Demo,06-09-2025,30,Zoom,Negative,No,,36.2
+INT0283,CLT014,Stephen Hart,EMP089,Steven Morales,Demo,20-04-2026,40,Zoom,Positive,No,,48.7
+INT0284,CLT008,Brandon Barton,EMP074,Melissa Robles,Meeting,12-09-2025,21,Zoom,Negative,No,,52.4
+INT0285,CLT017,Richard Jackson,EMP083,Dr. Mark Harris DVM,Email,15-07-2025,47,In-person,Neutral,Yes,22-07-2025,4.6
+INT0286,CLT012,Tammy Stevens,EMP006,Donna Carlson,Demo,26-06-2025,112,In-person,Neutral,No,,53.4
+INT0287,CLT007,Sarah Ferguson,EMP098,Chelsea Munoz,Call,15-12-2025,119,Teams,Negative,Yes,22-12-2025,47
+INT0288,CLT022,Jessica Serrano,EMP046,Teresa Price,Social Media,18-12-2025,44,Zoom,Neutral,No,,58.9
+INT0289,CLT012,Michael Bryant,EMP015,Rhonda Bennett,Email,11-01-2026,68,In-person,Neutral,No,,50
+INT0290,CLT031,James Montoya,EMP054,Deborah Martinez,Call,29-03-2026,26,Zoom,Positive,Yes,05-04-2026,8.4
+INT0291,CLT038,Henry Baker,EMP062,Micheal Hansen DVM,Meeting,21-08-2025,88,Phone,Neutral,No,,44.4
+INT0292,CLT009,Bradley Ross,EMP062,Micheal Hansen DVM,Call,05-08-2025,62,Phone,Positive,No,,5.5
+INT0293,CLT021,Vanessa Carter,EMP002,Thomas Thomas,Demo,03-02-2026,76,Zoom,Neutral,Yes,10-02-2026,48
+INT0294,CLT016,Andrea Christensen,EMP062,Micheal Hansen DVM,Email,19-01-2026,29,Zoom,Positive,No,,46.7
+INT0295,CLT011,Melanie Schwartz,EMP065,Brent Allen,Email,26-11-2025,31,Zoom,Neutral,No,,23.8
+INT0296,CLT022,Kristin Carpenter,EMP036,Deanna Marsh,Social Media,16-03-2026,38,Phone,Neutral,Yes,23-03-2026,59
+INT0297,CLT006,Troy Hernandez,EMP059,David Figueroa,Social Media,25-06-2025,67,Zoom,Neutral,No,,32.7
+INT0298,CLT008,Sydney Taylor,EMP064,Brian Martinez,Call,12-12-2025,61,Phone,Positive,Yes,19-12-2025,40.6
+INT0299,CLT001,Kathryn Murphy,EMP012,James Gregory,Social Media,09-10-2025,81,Teams,Negative,No,,48.7
+INT0300,CLT022,Michael Kent,EMP047,Nicole Hernandez,Meeting,23-10-2025,118,Phone,Neutral,Yes,30-10-2025,40.8
