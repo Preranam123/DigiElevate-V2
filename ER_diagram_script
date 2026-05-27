@@ -1,0 +1,440 @@
+Code–
+
+Table employee_master {
+  employee_id varchar [pk]
+  employee_name varchar
+  first_name varchar
+  last_name varchar
+  personal_email varchar
+  work_email varchar
+  phone varchar
+  alternate_phone varchar
+  dob date
+  age int
+  gender varchar
+  marital_status varchar
+  nationality varchar
+  blood_group varchar
+  address text
+  city varchar
+  state varchar
+  country varchar
+  entity varchar
+  joining_date date
+  hire_year int
+  years_at_company numeric
+  designation varchar
+  employment_type varchar
+  employment_status varchar
+  reporting_manager_id varchar
+  capability varchar
+  allocation_group varchar
+  billable_status varchar
+  project_id varchar
+  shift_group varchar
+  shift_start_time varchar
+  shift_end_time varchar
+  work_mode varchar
+  bank_name varchar
+  account_number varchar
+  ifsc_code varchar
+  currency varchar
+  yearly_salary numeric
+  monthly_salary numeric
+  net_salary numeric
+  rating_score numeric
+  goal_completion_percent numeric
+}
+
+
+Table employee_skills {
+  skill_record_id varchar [pk]
+  emp_id varchar
+  skill_name varchar
+  skill_category varchar
+  proficiency_level varchar
+  certification_flag varchar
+}
+
+
+Table employee_attrition_history {
+  hist_id varchar [pk]
+  emp_id varchar
+  capability varchar
+  dept_id varchar
+  role_title varchar
+  role_id varchar
+  manager_id varchar
+  employment_type varchar
+  base_salary numeric
+  currency varchar
+  location varchar
+  country varchar
+  status varchar
+  valid_from date
+  valid_to date
+  change_reason varchar
+}
+
+
+Table employee_leave_data {
+  leave_id varchar [pk]
+  emp_id varchar
+  leave_type varchar
+  start_date date
+  end_date date
+  days_taken int
+  status varchar
+}
+
+
+Table client_master {
+  client_id varchar [pk]
+  client_name varchar
+  primary_contact_name varchar
+  contact_email varchar
+  contact_phone varchar
+  industry varchar
+  website varchar
+  country varchar
+  city varchar
+  region varchar
+  client_status varchar
+  onboarded_date date
+  lead_source varchar
+  account_manager varchar
+  customer_success_manager varchar
+  preferred_contact_mode varchar
+  company_size varchar
+  employee_size int
+  monthly_recurring_revenue numeric
+  annual_recurring_revenue numeric
+  total_revenue numeric
+  revenue_band varchar
+  overdue_amount numeric
+  net_revenue numeric
+}
+
+
+Table client_health {
+  client_health_id varchar [pk]
+  client_id varchar
+  health_score int
+  churn_risk_score int
+  engagement_score int
+  satisfaction_score int
+  support_score int
+  renewal_probability int
+  risk_level varchar
+}
+
+
+Table client_contacts {
+  contact_id varchar [pk]
+  client_id varchar
+  contact_name varchar
+  designation varchar
+  department varchar
+  email varchar
+  phone varchar
+  decision_maker_flag varchar
+  seniority_level varchar
+}
+
+
+Table client_interactions {
+  interaction_id varchar [pk]
+  client_id varchar
+  employee_id varchar
+  interaction_type varchar
+  interaction_date date
+  interaction_duration_minutes int
+  interaction_outcome varchar
+  followup_required varchar
+}
+
+
+Table client_contracts {
+  contract_id varchar [pk]
+  client_id varchar
+  contract_type varchar
+  project_name varchar
+  contract_start_date date
+  contract_end_date date
+  total_contract_value numeric
+  payment_status varchar
+  contract_status varchar
+}
+
+
+Table client_satisfaction {
+  survey_id varchar [pk]
+  client_id varchar
+  net_promoter_score int
+  customer_category varchar
+  service_quality_score int
+  renewal_intent varchar
+  survey_date date
+}
+
+
+Table project_master {
+  project_id varchar [pk]
+  project_name varchar
+  client_id varchar
+  department_id varchar
+  project_manager_id varchar
+  project_type varchar
+  project_category varchar
+  project_status varchar
+  priority varchar
+  project_start_date date
+  project_end_date date
+  budget numeric
+  actual_cost numeric
+  revenue_generated numeric
+  profit_margin numeric
+  completion_percentage numeric
+  project_health_score int
+  project_complexity varchar
+  delivery_status varchar
+}
+
+
+Table project_team_allocation {
+  allocation_id varchar [pk]
+  project_id varchar
+  employee_id varchar
+  employee_name varchar
+  employee_designation varchar
+  project_manager_id varchar
+  reporting_manager_id varchar
+  role_on_project varchar
+  allocation_percentage numeric
+  utilization_percentage numeric
+  billable_rate numeric
+  billable_status varchar
+}
+
+
+Table project_phases {
+  phase_id varchar [pk]
+  project_id varchar
+  phase_name varchar
+  phase_start_date date
+  phase_end_date date
+  phase_status varchar
+}
+
+
+Table project_milestones {
+  milestone_id varchar [pk]
+  project_id varchar
+  phase_id varchar
+  milestone_name varchar
+  due_date date
+  achieved_date date
+  milestone_status varchar
+}
+
+
+Table project_tasks {
+  task_id varchar [pk]
+  project_id varchar
+  phase_id varchar
+  assignee_id varchar
+  task_title varchar
+  task_status varchar
+  priority varchar
+  estimated_hours numeric
+  actual_hours numeric
+  due_date date
+}
+
+
+Table project_timesheets {
+  timesheet_id varchar [pk]
+  employee_id varchar
+  project_id varchar
+  task_id varchar
+  work_date date
+  hours_worked numeric
+  overtime_hours numeric
+  approved_by varchar
+}
+
+
+Table project_risks {
+  risk_id varchar [pk]
+  project_id varchar
+  risk_description text
+  probability varchar
+  impact varchar
+  risk_status varchar
+  owner_id varchar
+}
+
+
+Table project_history {
+  historical_id varchar [pk]
+  project_id varchar
+  project_status varchar
+  budget numeric
+  actual_cost numeric
+  priority varchar
+  project_manager_id varchar
+  valid_from date
+  valid_to date
+}
+
+
+Table project_performance {
+  performance_id varchar [pk]
+  project_id varchar
+  planned_budget_variance numeric
+  timeline_variance numeric
+  resource_utilization_score numeric
+  team_productivity_score numeric
+  project_success_score numeric
+  milestone_achievement_rate numeric
+}
+
+
+Table revenue_master {
+  revenue_id varchar [pk]
+  client_id varchar
+  project_id varchar
+  invoice_id varchar
+  contract_id varchar
+  revenue_period varchar
+  revenue_date date
+  revenue_amount numeric
+  currency varchar
+  revenue_type varchar
+  revenue_stream varchar
+  gross_revenue numeric
+  net_revenue numeric
+  tax_amount numeric
+  profit_margin numeric
+  payment_status varchar
+  outstanding_amount numeric
+  revenue_growth_percentage numeric
+}
+
+
+Table invoice_master {
+  invoice_id varchar [pk]
+  client_id varchar
+  project_id varchar
+  contract_id varchar
+  invoice_date date
+  due_date date
+  invoice_amount numeric
+  invoice_status varchar
+  currency varchar
+}
+
+
+Table payment_collection {
+  collection_id varchar [pk]
+  invoice_id varchar
+  client_id varchar
+  project_id varchar
+  payment_date date
+  payment_amount numeric
+  payment_status varchar
+  outstanding_amount numeric
+}
+
+
+Table revenue_forecast {
+  forecast_id varchar [pk]
+  client_id varchar
+  project_id varchar
+  forecast_period varchar
+  predicted_revenue numeric
+  expected_growth_percentage numeric
+}
+
+
+Table profitability_analysis {
+  analysis_id varchar [pk]
+  revenue_id varchar
+  client_id varchar
+  project_id varchar
+  gross_revenue numeric
+  actual_cost numeric
+  net_profit numeric
+  profit_margin_percentage numeric
+}
+
+
+Ref: employee_skills.emp_id > employee_master.employee_id
+Ref: employee_attrition_history.emp_id > employee_master.employee_id
+Ref: employee_leave_data.emp_id > employee_master.employee_id
+
+
+Ref: client_health.client_id > client_master.client_id
+Ref: client_contacts.client_id > client_master.client_id
+Ref: client_interactions.client_id > client_master.client_id
+Ref: client_contracts.client_id > client_master.client_id
+Ref: client_satisfaction.client_id > client_master.client_id
+
+
+Ref: client_master.account_manager > employee_master.employee_id
+Ref: client_master.customer_success_manager > employee_master.employee_id
+
+
+Ref: project_master.client_id > client_master.client_id
+
+
+Ref: project_team_allocation.project_id > project_master.project_id
+Ref: project_team_allocation.employee_id > employee_master.employee_id
+
+
+Ref: project_phases.project_id > project_master.project_id
+
+
+Ref: project_milestones.project_id > project_master.project_id
+Ref: project_milestones.phase_id > project_phases.phase_id
+
+
+Ref: project_tasks.project_id > project_master.project_id
+Ref: project_tasks.phase_id > project_phases.phase_id
+Ref: project_tasks.assignee_id > employee_master.employee_id
+
+
+Ref: project_timesheets.project_id > project_master.project_id
+Ref: project_timesheets.task_id > project_tasks.task_id
+Ref: project_timesheets.employee_id > employee_master.employee_id
+
+
+Ref: project_risks.project_id > project_master.project_id
+Ref: project_risks.owner_id > employee_master.employee_id
+
+
+Ref: project_history.project_id > project_master.project_id
+Ref: project_performance.project_id > project_master.project_id
+
+
+Ref: revenue_master.client_id > client_master.client_id
+Ref: revenue_master.project_id > project_master.project_id
+Ref: revenue_master.contract_id > client_contracts.contract_id
+
+
+Ref: invoice_master.client_id > client_master.client_id
+Ref: invoice_master.project_id > project_master.project_id
+Ref: invoice_master.contract_id > client_contracts.contract_id
+
+
+Ref: payment_collection.invoice_id > invoice_master.invoice_id
+
+
+Ref: revenue_forecast.client_id > client_master.client_id
+Ref: revenue_forecast.project_id > project_master.project_id
+
+
+Ref: profitability_analysis.revenue_id > revenue_master.revenue_id
+Ref: profitability_analysis.client_id > client_master.client_id
+Ref: profitability_analysis.project_id > project_master.project_id
+
